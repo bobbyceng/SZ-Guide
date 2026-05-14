@@ -37,6 +37,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://www.shenzhen-guide.com',
   },
+  verification: {
+    google: 'w6qWZooeGxEFMPx4vOk186m-8UjlQpQBJ6jKGTQFtaw',
+  },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
