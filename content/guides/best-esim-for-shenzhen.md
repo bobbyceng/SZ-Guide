@@ -34,7 +34,7 @@ The ones that *don't* work are eSIMs that assign you a domestic Chinese IP. Thos
 
 ## Step 0: Check Your Phone Is eSIM-Compatible
 
-![Checking eSIM compatibility on iPhone Settings — looking for the Add eSIM option](/images/guides/esim-guide/01-check-compatibility.png)
+![Checking eSIM compatibility on iPhone Settings — looking for the Add eSIM option](/images/guides/esim-guide/01-check-compatibility.jpg)
 
 **iPhone:**
 1. Go to Settings → Cellular
@@ -130,13 +130,13 @@ If you're going to be on Maps and video constantly — or sharing your connectio
 
 ### Step 1: Buy Your Plan
 
-![Choosing an eSIM data plan in the app — selecting a Shenzhen China package](/images/guides/esim-guide/02-buy-esim-plan.png)
+![Choosing an eSIM data plan in the app — selecting a Shenzhen China package](/images/guides/esim-guide/02-buy-esim-plan.jpg)
 
 Download the Nomad or Airalo app (or visit their website). Select China or Asia Pacific, choose your data amount, and pay. You'll receive a QR code immediately — either in the app or by email.
 
 ### Step 2: Install the eSIM Profile
 
-![Scanning the eSIM QR code with your phone in a hotel room before crossing into China](/images/guides/esim-guide/03-scan-qr-code.png)
+![Scanning the eSIM QR code with your phone in a hotel room before crossing into China](/images/guides/esim-guide/03-scan-qr-code.jpg)
 
 **On iPhone:**
 1. Settings → Cellular → Add eSIM
@@ -160,7 +160,7 @@ This way, you can still receive calls and texts on your home number while all in
 
 ### Step 4: Test in China
 
-![Using Google Maps on a phone in Shenzhen — the connection test after eSIM activation](/images/guides/esim-guide/04-test-connection.png)
+![Using Google Maps on a phone in Shenzhen — the connection test after eSIM activation](/images/guides/esim-guide/04-test-connection.jpg)
 
 Once you cross the border, open Google Maps. If it loads — you're good. If not, check:
 - Is the eSIM set as the default data line?

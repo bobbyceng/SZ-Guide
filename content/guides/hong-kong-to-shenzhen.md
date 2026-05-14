@@ -82,35 +82,35 @@ If your country isn't on the list, you'll need a Chinese tourist visa (L visa) a
 
 ## Step-by-Step: What Actually Happens at the Border
 
-![Arriving at the Hong Kong–Shenzhen border crossing](/images/guides/hk-sz/00-cover-hk-sz-crossing.png)
+![Arriving at the Hong Kong–Shenzhen border crossing](/images/guides/hk-sz/00-cover-hk-sz-crossing.jpg)
 
 ### Step 1 — Queue at Hong Kong immigration
 
-![Step 1: Show your passport at HK immigration](/images/guides/hk-sz/01-page-hk-immigration.png)
+![Step 1: Show your passport at HK immigration](/images/guides/hk-sz/01-page-hk-immigration.jpg)
 
 Show your passport (and visa if applicable) to the immigration officer, get your exit stamp. No forms needed on the HK side.
 
 ### Step 2 — Walk through
 
-![Step 2: Walk through the crossing corridor toward Shenzhen](/images/guides/hk-sz/02-page-crossing-bridge.png)
+![Step 2: Walk through the crossing corridor toward Shenzhen](/images/guides/hk-sz/02-page-crossing-bridge.jpg)
 
 Follow the green signs across the bridge or corridor. Usually 3–5 minutes of walking. Shenzhen becomes visible through the windows ahead.
 
 ### Step 3 — China immigration + arrival card
 
-![Step 3: Fill in digital arrival card at China immigration](/images/guides/hk-sz/03-page-china-immigration.png)
+![Step 3: Fill in digital arrival card at China immigration](/images/guides/hk-sz/03-page-china-immigration.jpg)
 
 Fill in the digital arrival card at **s.nia.gov.cn** before you arrive — saves time at the kiosk. Then queue for the immigration counter.
 
 ### Step 4 — Biometrics
 
-![Step 4: Fingerprint scan at automated immigration lane](/images/guides/hk-sz/04-page-biometrics.png)
+![Step 4: Fingerprint scan at automated immigration lane](/images/guides/hk-sz/04-page-biometrics.jpg)
 
 Fingerprints and photo taken on your first entry to mainland China. Calm, routine — takes about 30 seconds. The officer will guide you.
 
 ### Step 5 — You're in Shenzhen
 
-![Step 5: Arriving into the bright Shenzhen metro station](/images/guides/hk-sz/05-page-arrival-shenzhen.png)
+![Step 5: Arriving into the bright Shenzhen metro station](/images/guides/hk-sz/05-page-arrival-shenzhen.jpg)
 
 You're through. Take the escalator down to the Shenzhen metro. Signs are bilingual — follow the line colors.
 

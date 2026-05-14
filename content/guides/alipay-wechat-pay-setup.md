@@ -12,7 +12,7 @@ Cash is dying in Shenzhen. Over 95% of merchants — from convenience stores to 
 
 If you arrive without Alipay or WeChat Pay set up, you'll struggle to buy food, take taxis, or even enter the metro. This is the single most important preparation step before your trip.
 
-![Setting up Alipay on your phone — the first step to navigating Shenzhen](/images/guides/alipay-setup/01-download-alipay.png)
+![Setting up Alipay on your phone — the first step to navigating Shenzhen](/images/guides/alipay-setup/01-download-alipay.jpg)
 
 ## The Two Options: Alipay vs WeChat Pay
 
@@ -62,7 +62,7 @@ Go to **Me → Bank Cards → Add Card**. Enter your Visa or Mastercard details.
 
 **Not supported:** American Express, UnionPay (use the Chinese version for UnionPay)
 
-![Linking your foreign credit card to Alipay](/images/guides/alipay-setup/02-link-card.png)
+![Linking your foreign credit card to Alipay](/images/guides/alipay-setup/02-link-card.jpg)
 
 ### Step 4: You're Ready to Pay
 
@@ -70,7 +70,7 @@ When you're at a merchant, open Alipay and either:
 - **Scan the merchant's QR code** (most common) — tap the scan icon, point at their code
 - **Show your payment code** — tap "Pay" to display a barcode for the merchant to scan
 
-![Scanning to pay at a Shenzhen street food stall](/images/guides/alipay-setup/03-scan-to-pay.png)
+![Scanning to pay at a Shenzhen street food stall](/images/guides/alipay-setup/03-scan-to-pay.jpg)
 
 > **💡 Quick Tip:** Always keep ¥200–300 in cash as backup. Some older vendors and parking meters still require it.
 
@@ -97,7 +97,7 @@ The process is similar to Alipay but requires an existing WeChat account with so
 
 **No fees for normal purchases.** Your bank may charge foreign transaction fees (typically 1–3%) — check with your card issuer before traveling.
 
-![Showing your Alipay payment code at a checkout counter](/images/guides/alipay-setup/04-show-payment-code.png)
+![Showing your Alipay payment code at a checkout counter](/images/guides/alipay-setup/04-show-payment-code.jpg)
 
 ## What to Do When It Doesn't Work
 
