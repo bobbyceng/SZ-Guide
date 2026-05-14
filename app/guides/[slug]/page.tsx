@@ -202,8 +202,21 @@ export default async function GuidePage({
           ]}
         />
 
+        {/* Feedback prompt */}
+        <div className="mt-14 bg-stone-50 border border-stone-200 rounded-xl p-6 text-center">
+          <p className="text-stone-600 text-sm mb-3">
+            Found something outdated or have a question? The author reads every message.
+          </p>
+          <Link
+            href="/contact"
+            className="inline-flex items-center gap-1.5 text-sm font-semibold text-amber-600 hover:text-amber-700 hover:underline transition-colors"
+          >
+            Leave feedback or get in touch →
+          </Link>
+        </div>
+
         {/* Back links */}
-        <div className="mt-14 pt-8 border-t border-stone-200 flex items-center gap-6">
+        <div className="mt-8 pt-8 border-t border-stone-200 flex items-center gap-6">
           <Link
             href="/"
             className="inline-flex items-center gap-2 text-amber-600 hover:text-amber-700 hover:underline font-medium text-sm"

@@ -52,6 +52,11 @@ export default function Footer() {
                   </Link>
                 </li>
               ))}
+              <li className="pt-1 border-t border-white/[0.06] mt-1">
+                <Link href="/contact" className="text-sm text-stone-500 hover:text-amber-400 transition-colors">
+                  Contact / Feedback
+                </Link>
+              </li>
             </ul>
           </div>
         </div>
