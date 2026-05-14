@@ -1,0 +1,47 @@
+{
+  "jobs": 3,
+  "tasks": [
+    {
+      "id": "00-cover",
+      "promptFiles": ["/Volumes/T7 Shield/AI-workspace/szguide/comic/hk-to-sz-crossing/prompts/00-cover-hk-sz-crossing.md"],
+      "image": "/Volumes/T7 Shield/AI-workspace/szguide/public/images/guides/hk-sz/00-cover-hk-sz-crossing.png",
+      "provider": "google",
+      "ar": "4:3"
+    },
+    {
+      "id": "01-hk-immigration",
+      "promptFiles": ["/Volumes/T7 Shield/AI-workspace/szguide/comic/hk-to-sz-crossing/prompts/01-page-hk-immigration.md"],
+      "image": "/Volumes/T7 Shield/AI-workspace/szguide/public/images/guides/hk-sz/01-page-hk-immigration.png",
+      "provider": "google",
+      "ar": "4:3"
+    },
+    {
+      "id": "02-crossing-bridge",
+      "promptFiles": ["/Volumes/T7 Shield/AI-workspace/szguide/comic/hk-to-sz-crossing/prompts/02-page-crossing-bridge.md"],
+      "image": "/Volumes/T7 Shield/AI-workspace/szguide/public/images/guides/hk-sz/02-page-crossing-bridge.png",
+      "provider": "google",
+      "ar": "4:3"
+    },
+    {
+      "id": "03-china-immigration",
+      "promptFiles": ["/Volumes/T7 Shield/AI-workspace/szguide/comic/hk-to-sz-crossing/prompts/03-page-china-immigration.md"],
+      "image": "/Volumes/T7 Shield/AI-workspace/szguide/public/images/guides/hk-sz/03-page-china-immigration.png",
+      "provider": "google",
+      "ar": "4:3"
+    },
+    {
+      "id": "04-biometrics",
+      "promptFiles": ["/Volumes/T7 Shield/AI-workspace/szguide/comic/hk-to-sz-crossing/prompts/04-page-biometrics.md"],
+      "image": "/Volumes/T7 Shield/AI-workspace/szguide/public/images/guides/hk-sz/04-page-biometrics.png",
+      "provider": "google",
+      "ar": "4:3"
+    },
+    {
+      "id": "05-arrival-shenzhen",
+      "promptFiles": ["/Volumes/T7 Shield/AI-workspace/szguide/comic/hk-to-sz-crossing/prompts/05-page-arrival-shenzhen.md"],
+      "image": "/Volumes/T7 Shield/AI-workspace/szguide/public/images/guides/hk-sz/05-page-arrival-shenzhen.png",
+      "provider": "google",
+      "ar": "4:3"
+    }
+  ]
+}

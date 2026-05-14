@@ -1,0 +1,33 @@
+{
+  "jobs": 4,
+  "tasks": [
+    {
+      "id": "01-download-alipay",
+      "promptFiles": ["/Volumes/T7 Shield/AI-workspace/szguide/comic/alipay-setup/prompts/01-download-alipay.md"],
+      "image": "/Volumes/T7 Shield/AI-workspace/szguide/public/images/guides/alipay-setup/01-download-alipay.png",
+      "provider": "google",
+      "ar": "4:3"
+    },
+    {
+      "id": "02-link-card",
+      "promptFiles": ["/Volumes/T7 Shield/AI-workspace/szguide/comic/alipay-setup/prompts/02-link-card.md"],
+      "image": "/Volumes/T7 Shield/AI-workspace/szguide/public/images/guides/alipay-setup/02-link-card.png",
+      "provider": "google",
+      "ar": "4:3"
+    },
+    {
+      "id": "03-scan-to-pay",
+      "promptFiles": ["/Volumes/T7 Shield/AI-workspace/szguide/comic/alipay-setup/prompts/03-scan-to-pay.md"],
+      "image": "/Volumes/T7 Shield/AI-workspace/szguide/public/images/guides/alipay-setup/03-scan-to-pay.png",
+      "provider": "google",
+      "ar": "4:3"
+    },
+    {
+      "id": "04-show-payment-code",
+      "promptFiles": ["/Volumes/T7 Shield/AI-workspace/szguide/comic/alipay-setup/prompts/04-show-payment-code.md"],
+      "image": "/Volumes/T7 Shield/AI-workspace/szguide/public/images/guides/alipay-setup/04-show-payment-code.png",
+      "provider": "google",
+      "ar": "4:3"
+    }
+  ]
+}
