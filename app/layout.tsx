@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     template: '%s | Shenzhen Guide',
   },
   description:
-    'Practical guides for foreigners visiting Shenzhen. Border crossings, Huaqiangbei electronics, payment setup, eSIM, and more — written by a local.',
+    'Practical guides for foreigners visiting Shenzhen. Border crossings, Huaqiangbei electronics, payment setup, eSIM, and more, written by a local.',
   keywords: ['shenzhen travel guide', 'shenzhen for foreigners', 'hong kong to shenzhen', 'huaqiangbei guide', 'shenzhen guide'],
   metadataBase: new URL('https://www.shenzhen-guide.com'),
   openGraph: {
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`antialiased ${playfair.variable} ${dmSans.variable}`}>
+    <html lang="en" className={`antialiased ${playfair.variable} ${dmSans.variable}`} suppressHydrationWarning>
       <body
         className="min-h-screen flex flex-col"
         style={{ fontFamily: 'var(--font-body), system-ui, sans-serif' }}

@@ -42,7 +42,7 @@ export default function ContactPage() {
         Found something outdated? Have a question we didn&apos;t answer? Want to work together?
       </p>
       <p className="text-stone-500 mb-10 leading-relaxed">
-        Every message goes directly to the author — I read and reply to everything.
+        Every message goes directly to the author, I read and reply to everything.
       </p>
 
       {status === 'success' ? (

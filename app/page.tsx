@@ -68,9 +68,9 @@ export default function HomePage() {
 
   return (
     <div>
-      {/* Hero — editorial split: cream text left, city photo right */}
+      {/* Hero, editorial split: cream text left, city photo right */}
       <section className="relative bg-[#faf7f2] overflow-hidden">
-        {/* Photo panel — right half, full bleed */}
+        {/* Photo panel, right half, full bleed */}
         <div
           className="absolute right-0 top-0 bottom-0 w-1/2 hidden md:block"
           aria-hidden="true"
@@ -109,8 +109,25 @@ export default function HomePage() {
               </span>
             </h1>
 
-            <p className="fade-up-2 text-stone-500 text-lg leading-relaxed mb-10">
-              Border crossings, electronics, payment setup — the real information most travel sites get wrong.
+            <p className="fade-up-2 text-stone-500 text-lg leading-relaxed mb-4">
+              Border crossings, electronics, payment setup, the real information most travel sites get wrong.
+            </p>
+
+            <p className="fade-up-2 text-sm text-stone-500 mb-10">
+              By{' '}
+              <Link
+                href="/about"
+                className="font-semibold text-stone-700 hover:text-amber-600 hover:underline transition-colors"
+              >
+                Xiangan
+              </Link>
+              , born and raised in Shenzhen.{' '}
+              <Link
+                href="/about"
+                className="text-amber-600 hover:text-amber-700 hover:underline transition-colors"
+              >
+                Read my story →
+              </Link>
             </p>
 
             <div className="fade-up-3 flex flex-col sm:flex-row gap-3">
@@ -235,6 +252,14 @@ export default function HomePage() {
                 Just the information you need, without the padding that most travel sites add.
               </p>
             </div>
+          </div>
+          <div className="mt-8 pt-6 border-t border-white/[0.06]">
+            <Link
+              href="/about"
+              className="inline-flex items-center gap-2 text-sm font-semibold text-amber-400 hover:text-amber-300 hover:underline transition-colors"
+            >
+              Meet the author →
+            </Link>
           </div>
         </section>
       </div>

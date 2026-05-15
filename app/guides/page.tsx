@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 export const metadata = {
   title: 'All Guides',
-  description: 'Practical guides for foreigners visiting Shenzhen — border crossings, electronics, payment, transport, and more.',
+  description: 'Practical guides for foreigners visiting Shenzhen, border crossings, electronics, payment, transport, and more.',
 }
 
 const ALL_CATEGORIES = [

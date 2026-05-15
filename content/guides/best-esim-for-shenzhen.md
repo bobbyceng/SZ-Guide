@@ -8,7 +8,7 @@ readingTime: "9 min read"
 featured: true
 ---
 
-When you cross into mainland China, Google Maps stops working. So does WhatsApp, Instagram, YouTube, and Gmail — blocked at the network level. An international eSIM is the simplest fix: your traffic routes through servers outside China, so all your usual apps keep working. No VPN needed.
+When you cross into mainland China, Google Maps stops working. So does WhatsApp, Instagram, YouTube, and Gmail, blocked at the network level. An international eSIM is the simplest fix: your traffic routes through servers outside China, so all your usual apps keep working. No VPN needed.
 
 ## Quick Decision: Which eSIM Should I Buy?
 
@@ -20,11 +20,11 @@ When you cross into mainland China, Google Maps stops working. So does WhatsApp,
 
 ---
 
-## What Is an eSIM — and Why Do You Need One in China?
+## What Is an eSIM, and Why Do You Need One in China?
 
-An eSIM is a digital SIM card built into your phone. Instead of physically swapping a SIM card, you scan a QR code and the eSIM profile is installed directly onto your phone. You can run your home SIM and the eSIM simultaneously — one for calls, one for data.
+An eSIM is a digital SIM card built into your phone. Instead of physically swapping a SIM card, you scan a QR code and the eSIM profile is installed directly onto your phone. You can run your home SIM and the eSIM simultaneously, one for calls, one for data.
 
-**Why international eSIMs work in China:** The ones that work use international roaming agreements with Chinese carriers. Your traffic enters China's network but exits through an international gateway before hitting the firewall — so Google, WhatsApp, and YouTube work normally.
+**Why international eSIMs work in China:** The ones that work use international roaming agreements with Chinese carriers. Your traffic enters China's network but exits through an international gateway before hitting the firewall, so Google, WhatsApp, and YouTube work normally.
 
 The ones that *don't* work are eSIMs that assign you a domestic Chinese IP. Those are subject to the same blocks as local SIMs.
 
@@ -34,7 +34,7 @@ The ones that *don't* work are eSIMs that assign you a domestic Chinese IP. Thos
 
 ## Step 0: Check Your Phone Is eSIM-Compatible
 
-![Checking eSIM compatibility on iPhone Settings — looking for the Add eSIM option](/images/guides/esim-guide/01-check-compatibility.jpg)
+![Checking eSIM compatibility on iPhone Settings, looking for the Add eSIM option](/images/guides/esim-guide/01-check-compatibility.jpg)
 
 **iPhone:**
 1. Go to Settings → Cellular
@@ -51,20 +51,20 @@ The ones that *don't* work are eSIMs that assign you a domestic Chinese IP. Thos
 
 ## The Three Best Options
 
-### Nomad — Best Overall
+### Nomad, Best Overall
 
 **Price:** From US$9 for 3GB / 15 days (recommended: US$15 for 5GB / 30 days)
 **Speed:** 4G/LTE, stable on the metro and in buildings
-**Coverage:** Routes through international gateways — Google, WhatsApp, all work
+**Coverage:** Routes through international gateways, Google, WhatsApp, all work
 **Best for:** Trips of 4+ days, anyone who wants reliability without thinking about it
 
 Nomad is the most consistent pick for mainland China. Their APAC plan covers China plus Hong Kong, useful if you're crossing back and forth.
 
-[Buy Nomad eSIM →](https://www.getnomad.app) *(affiliate link — we earn ~10% commission at no extra cost to you)*
+[Buy Nomad eSIM →](https://www.getnomad.app) *(affiliate link, we earn ~10% commission at no extra cost to you)*
 
 ---
 
-### Airalo — Best Budget Option
+### Airalo, Best Budget Option
 
 **Price:** From US$5 for 1GB / 7 days (recommended: US$10 for 3GB / 15 days)
 **Speed:** 4G/LTE, occasionally slower than Nomad in fringe areas
@@ -78,13 +78,13 @@ Airalo is the most well-known eSIM marketplace. For a quick Shenzhen day trip or
 
 ---
 
-### Holafly — Best for Heavy Data Users
+### Holafly, Best for Heavy Data Users
 
 **Price:** From US$27 for unlimited / 7 days
 **Speed:** 4G/LTE
 **Best for:** Video calls, uploading content, people who don't want to track data usage
 
-If you're going to be on Maps and video constantly — or sharing your connection — the unlimited plan removes all stress.
+If you're going to be on Maps and video constantly, or sharing your connection, the unlimited plan removes all stress.
 
 ---
 
@@ -110,7 +110,7 @@ If you're going to be on Maps and video constantly — or sharing your connectio
 | Occasional video calls | 500 MB – 1 GB |
 | Video streaming | 1 GB+ |
 
-**3-day typical trip: 3–5 GB is plenty.** If you're unsure, go for 5 GB — you can always top up in the app, but you can't get refunded for unused data.
+**3-day typical trip: 3–5 GB is plenty.** If you're unsure, go for 5 GB, you can always top up in the app, but you can't get refunded for unused data.
 
 ---
 
@@ -118,7 +118,7 @@ If you're going to be on Maps and video constantly — or sharing your connectio
 
 **Buy:** Any time before you leave. Both apps work globally.
 
-**Install:** Do it before you cross the border — ideally in your hotel in Hong Kong, or at the airport. You need unrestricted internet to download the eSIM profile.
+**Install:** Do it before you cross the border, ideally in your hotel in Hong Kong, or at the airport. You need unrestricted internet to download the eSIM profile.
 
 **Critical:** Once you're inside mainland China, the eSIM providers' websites are blocked. You can't buy or install from there without a VPN.
 
@@ -130,9 +130,9 @@ If you're going to be on Maps and video constantly — or sharing your connectio
 
 ### Step 1: Buy Your Plan
 
-![Choosing an eSIM data plan in the app — selecting a Shenzhen China package](/images/guides/esim-guide/02-buy-esim-plan.jpg)
+![Choosing an eSIM data plan in the app, selecting a Shenzhen China package](/images/guides/esim-guide/02-buy-esim-plan.jpg)
 
-Download the Nomad or Airalo app (or visit their website). Select China or Asia Pacific, choose your data amount, and pay. You'll receive a QR code immediately — either in the app or by email.
+Download the Nomad or Airalo app (or visit their website). Select China or Asia Pacific, choose your data amount, and pay. You'll receive a QR code immediately, either in the app or by email.
 
 ### Step 2: Install the eSIM Profile
 
@@ -160,9 +160,9 @@ This way, you can still receive calls and texts on your home number while all in
 
 ### Step 4: Test in China
 
-![Using Google Maps on a phone in Shenzhen — the connection test after eSIM activation](/images/guides/esim-guide/04-test-connection.jpg)
+![Using Google Maps on a phone in Shenzhen, the connection test after eSIM activation](/images/guides/esim-guide/04-test-connection.jpg)
 
-Once you cross the border, open Google Maps. If it loads — you're good. If not, check:
+Once you cross the border, open Google Maps. If it loads, you're good. If not, check:
 - Is the eSIM set as the default data line?
 - Is "Data Roaming" turned on for the eSIM?
 - Try toggling Airplane Mode off and on to force a network refresh
@@ -184,22 +184,22 @@ Once you cross the border, open Google Maps. If it loads — you're good. If not
 ## FAQ
 
 **Can I make phone calls with an eSIM?**
-No — eSIMs from Nomad/Airalo are data-only. Use WhatsApp or WeChat calls over the eSIM data. Keep your home SIM active for regular calls (you may incur roaming charges from your home carrier for calls, but data goes through the eSIM).
+No, eSIMs from Nomad/Airalo are data-only. Use WhatsApp or WeChat calls over the eSIM data. Keep your home SIM active for regular calls (you may incur roaming charges from your home carrier for calls, but data goes through the eSIM).
 
 **Can I receive SMS verification codes?**
 Not through the eSIM. If you need SMS verification (some Chinese apps require this), you'll need your home SIM active, which may incur roaming SMS charges from your home carrier.
 
 **Do I need a VPN?**
-No. That's the point of an international eSIM — the traffic routing bypasses the firewall. Google, WhatsApp, Instagram all work directly.
+No. That's the point of an international eSIM, the traffic routing bypasses the firewall. Google, WhatsApp, Instagram all work directly.
 
 **What if I arrive in China and haven't installed it yet?**
-You're stuck until you find working Wi-Fi (hotel lobby, sometimes). Some hotel lobby Wi-Fi is routed internationally and may let you access the eSIM provider's site — worth trying. Otherwise, buy a physical SIM at a carrier store near any major shopping mall.
+You're stuck until you find working Wi-Fi (hotel lobby, sometimes). Some hotel lobby Wi-Fi is routed internationally and may let you access the eSIM provider's site, worth trying. Otherwise, buy a physical SIM at a carrier store near any major shopping mall.
 
 **Can two people share one eSIM?**
 No. Each eSIM is tied to one device.
 
 **What happens after my data runs out?**
-Your internet stops until you top up. Do it in the app — no reinstallation needed.
+Your internet stops until you top up. Do it in the app, no reinstallation needed.
 
 ---
 

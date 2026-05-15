@@ -53,6 +53,11 @@ export default function Footer() {
                 </li>
               ))}
               <li className="pt-1 border-t border-white/[0.06] mt-1">
+                <Link href="/about" className="text-sm text-stone-500 hover:text-amber-400 transition-colors">
+                  About Myself
+                </Link>
+              </li>
+              <li>
                 <Link href="/contact" className="text-sm text-stone-500 hover:text-amber-400 transition-colors">
                   Contact / Feedback
                 </Link>

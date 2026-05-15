@@ -50,7 +50,7 @@ export default function RecommendationCard({
         ))}
       </div>
       <p className="text-[11px] text-stone-600 mt-4 italic">
-        Some links may be affiliate links — we may earn a commission at no extra cost to you.
+        Some links may be affiliate links, we may earn a commission at no extra cost to you.
       </p>
     </section>
   )

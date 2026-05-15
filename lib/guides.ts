@@ -3,6 +3,7 @@ import path from 'path'
 import matter from 'gray-matter'
 import { remark } from 'remark'
 import html from 'remark-html'
+import gfm from 'remark-gfm'
 
 const guidesDirectory = path.join(process.cwd(), 'content/guides')
 
@@ -46,7 +47,7 @@ export async function getGuideBySlug(slug: string): Promise<Guide> {
   const fullPath = path.join(guidesDirectory, `${slug}.md`)
   const fileContents = fs.readFileSync(fullPath, 'utf8')
   const { data, content } = matter(fileContents)
-  const processed = await remark().use(html, { sanitize: false }).process(content)
+  const processed = await remark().use(gfm).use(html, { sanitize: false }).process(content)
   return { slug, contentHtml: processed.toString(), ...data } as Guide
 }
 

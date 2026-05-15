@@ -101,6 +101,13 @@ export default async function GuidePage({
           </h1>
           <p className="text-stone-500 text-lg leading-relaxed mb-5">{guide.description}</p>
           <div className="flex items-center gap-3 text-sm text-stone-400">
+            <span>
+              By{' '}
+              <Link href="/about" className="text-stone-600 hover:text-amber-600 hover:underline font-medium">
+                Xiangan
+              </Link>
+            </span>
+            <span>·</span>
             <span>{guide.readingTime}</span>
             <span>·</span>
             <span>
@@ -129,13 +136,13 @@ export default async function GuidePage({
               {
                 name: 'Nomad eSIM',
                 url: 'https://www.getnomad.app',
-                description: 'Most reliable for China — Google, WhatsApp, etc. all work',
+                description: 'Most reliable for China, Google, WhatsApp, etc. all work',
                 badge: 'Best Overall',
               },
               {
                 name: 'Airalo',
                 url: 'https://www.airalo.com',
-                description: 'Budget option from $5 — great for short trips',
+                description: 'Budget option from $5, great for short trips',
                 badge: 'Budget Pick',
               },
             ]}
@@ -149,11 +156,11 @@ export default async function GuidePage({
               {
                 name: 'Nomad eSIM',
                 url: 'https://www.getnomad.app',
-                description: 'Install before crossing — works without VPN in China',
+                description: 'Install before crossing, works without VPN in China',
                 badge: 'Essential',
               },
               {
-                name: 'Klook — Shenzhen Attractions',
+                name: 'Klook: Shenzhen Attractions',
                 url: 'https://www.klook.com',
                 description: 'Book tickets in advance with foreign payment',
                 badge: 'Tickets',
@@ -183,7 +190,7 @@ export default async function GuidePage({
             {
               icon: '📶',
               title: 'Nomad eSIM',
-              description: 'Reliable data in China — no VPN needed. Works with Google, WhatsApp, Instagram.',
+              description: 'Reliable data in China, no VPN needed. Works with Google, WhatsApp, Instagram.',
               url: 'https://www.getnomad.app',
               badge: 'Must-Have',
             },

@@ -101,6 +101,16 @@ body {
   border-collapse: collapse;
   margin: 1.75rem 0;
   font-size: 0.88rem;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+@media (min-width: 640px) {
+  .article-body table {
+    display: table;
+    overflow-x: visible;
+  }
 }
 
 .article-body th {

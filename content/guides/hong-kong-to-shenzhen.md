@@ -1,6 +1,6 @@
 ---
 title: "How to Get from Hong Kong to Shenzhen (2026 Complete Guide)"
-description: "Step-by-step guide covering every border crossing option between Hong Kong and Shenzhen — high-speed rail, MTR, and walking crossings. Which one to use, timings, costs, and what to expect."
+description: "Step-by-step guide covering every border crossing option between Hong Kong and Shenzhen, high-speed rail, MTR, and walking crossings. Which one to use, timings, costs, and what to expect."
 category: "Border Crossing"
 categoryIcon: "🛂"
 date: "2026-05-10"
@@ -18,11 +18,11 @@ This guide covers everything you need to know before you cross.
 
 If your country isn't on the list, you'll need a Chinese tourist visa (L visa) applied through a Chinese embassy or consulate before arrival.
 
-> **Quick check:** Search "China visa free countries 2026" and verify your nationality. Policy has been changing rapidly — don't rely on information older than a few months.
+> **Quick check:** Search "China visa free countries 2026" and verify your nationality. Policy has been changing rapidly, don't rely on information older than a few months.
 
 ## The 4 Most Useful Crossings
 
-### 1. Lo Wu (羅湖 / 罗湖) — Best for day trips
+### 1. Lo Wu (羅湖 / 罗湖), Best for day trips
 
 **How to get there:** Take the MTR East Rail Line from any station in Hong Kong (including Hung Hom, Mong Kok East, Kowloon Tong) to **Lo Wu station**. It's the last stop on the line.
 
@@ -38,7 +38,7 @@ If your country isn't on the list, you'll need a Chinese tourist visa (L visa) a
 
 ---
 
-### 2. Lok Ma Chau / Futian (福田 / 落马洲) — Best for speed
+### 2. Lok Ma Chau / Futian (福田 / 落马洲), Best for speed
 
 **How to get there:** Take the MTR East Rail to **Lok Ma Chau station** (one stop before Lo Wu).
 
@@ -52,11 +52,11 @@ If your country isn't on the list, you'll need a Chinese tourist visa (L visa) a
 
 ---
 
-### 3. West Kowloon High-Speed Rail — Best for longer trips or bad weather
+### 3. West Kowloon High-Speed Rail, Best for longer trips or bad weather
 
 **How to get there:** Take the MTR to **West Kowloon station** (Hong Kong end of the high-speed rail).
 
-**Train to:** Shenzhen North Station (深圳北站) — takes **14 minutes**.
+**Train to:** Shenzhen North Station (深圳北站), takes **14 minutes**.
 
 **Cost:** HK$86 (about US$11) second class.
 
@@ -70,13 +70,13 @@ If your country isn't on the list, you'll need a Chinese tourist visa (L visa) a
 
 ---
 
-### 4. Huanggang (皇岗) — 24-hour crossing for emergencies
+### 4. Huanggang (皇岗), 24-hour crossing for emergencies
 
 **How to get there:** By bus or taxi to Huanggang Port.
 
 **Border hours:** 24 hours (only vehicle crossing that's 24/7)
 
-**Best for:** Late-night crossings. Not convenient for most tourists — primarily used by truck drivers and cargo. But if you're stuck at 3am, this is your option.
+**Best for:** Late-night crossings. Not convenient for most tourists, primarily used by truck drivers and cargo. But if you're stuck at 3am, this is your option.
 
 ---
 
@@ -84,35 +84,35 @@ If your country isn't on the list, you'll need a Chinese tourist visa (L visa) a
 
 ![Arriving at the Hong Kong–Shenzhen border crossing](/images/guides/hk-sz/00-cover-hk-sz-crossing.jpg)
 
-### Step 1 — Queue at Hong Kong immigration
+### Step 1, Queue at Hong Kong immigration
 
 ![Step 1: Show your passport at HK immigration](/images/guides/hk-sz/01-page-hk-immigration.jpg)
 
 Show your passport (and visa if applicable) to the immigration officer, get your exit stamp. No forms needed on the HK side.
 
-### Step 2 — Walk through
+### Step 2, Walk through
 
 ![Step 2: Walk through the crossing corridor toward Shenzhen](/images/guides/hk-sz/02-page-crossing-bridge.jpg)
 
 Follow the green signs across the bridge or corridor. Usually 3–5 minutes of walking. Shenzhen becomes visible through the windows ahead.
 
-### Step 3 — China immigration + arrival card
+### Step 3, China immigration + arrival card
 
 ![Step 3: Fill in digital arrival card at China immigration](/images/guides/hk-sz/03-page-china-immigration.jpg)
 
-Fill in the digital arrival card at **s.nia.gov.cn** before you arrive — saves time at the kiosk. Then queue for the immigration counter.
+Fill in the digital arrival card at **s.nia.gov.cn** before you arrive, saves time at the kiosk. Then queue for the immigration counter.
 
-### Step 4 — Biometrics
+### Step 4, Biometrics
 
 ![Step 4: Fingerprint scan at automated immigration lane](/images/guides/hk-sz/04-page-biometrics.jpg)
 
-Fingerprints and photo taken on your first entry to mainland China. Calm, routine — takes about 30 seconds. The officer will guide you.
+Fingerprints and photo taken on your first entry to mainland China. Calm, routine, takes about 30 seconds. The officer will guide you.
 
-### Step 5 — You're in Shenzhen
+### Step 5, You're in Shenzhen
 
 ![Step 5: Arriving into the bright Shenzhen metro station](/images/guides/hk-sz/05-page-arrival-shenzhen.jpg)
 
-You're through. Take the escalator down to the Shenzhen metro. Signs are bilingual — follow the line colors.
+You're through. Take the escalator down to the Shenzhen metro. Signs are bilingual, follow the line colors.
 
 **Total time:** 20 minutes on a quiet day, up to 1.5 hours during peak periods.
 
@@ -126,7 +126,7 @@ These three things will make your trip much smoother if done before crossing:
 
 **Alipay:** Almost every merchant in Shenzhen accepts Alipay. Cash is still accepted but increasingly inconvenient. You can link a foreign Visa or Mastercard to Alipay International and pay directly. Set this up in Hong Kong where you have unrestricted internet access. [See our payment guide →](/guides/alipay-wechat-pay-setup)
 
-**DiDi:** Download the DiDi app (China's Uber equivalent) before crossing. You'll need it to get taxis — street hailing in Shenzhen is unreliable and most drivers won't speak English.
+**DiDi:** Download the DiDi app (China's Uber equivalent) before crossing. You'll need it to get taxis, street hailing in Shenzhen is unreliable and most drivers won't speak English.
 
 ---
 
@@ -150,4 +150,4 @@ Key areas:
 
 **Is it safe?** Shenzhen has a low violent crime rate. Normal city precautions apply (watch your phone in crowded areas).
 
-**How long can I stay?** If you're on a 30-day visa-free entry, your 30 days start from the day you cross the border — regardless of how long you spend in Hong Kong in between.
+**How long can I stay?** If you're on a 30-day visa-free entry, your 30 days start from the day you cross the border, regardless of how long you spend in Hong Kong in between.

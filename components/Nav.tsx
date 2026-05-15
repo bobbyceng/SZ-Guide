@@ -41,6 +41,12 @@ export default function Nav() {
             >
               Electronics
             </Link>
+            <Link
+              href="/about"
+              className="nav-link text-sm font-medium text-stone-500 hover:text-white transition-colors"
+            >
+              About Myself
+            </Link>
           </nav>
         </div>
         <div className="hidden md:flex items-center gap-1 pb-2.5 overflow-x-auto">
