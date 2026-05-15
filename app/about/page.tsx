@@ -32,7 +32,7 @@ export default function AboutPage() {
       <div className="relative w-full max-w-md mx-auto aspect-[3/4] rounded-2xl overflow-hidden mb-10 bg-stone-100">
         <Image
           src="/images/about/profile.jpg"
-          alt="Xiangan in Shenzhen"
+          alt="Xiangan, the author"
           fill
           className="object-cover"
           sizes="(max-width: 768px) 100vw, 448px"
