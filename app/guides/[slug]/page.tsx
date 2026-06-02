@@ -73,8 +73,34 @@ export default async function GuidePage({
 
   const badgeClass = categoryBadge[guide.category] ?? 'bg-stone-50 text-stone-700 border-stone-100'
 
+  const pageUrl = `https://www.shenzhen-guide.com/guides/${slug}`
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: guide.title,
+    description: guide.description,
+    datePublished: guide.date,
+    dateModified: guide.date,
+    url: pageUrl,
+    mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+    author: {
+      '@type': 'Person',
+      name: 'Xiangan Zeng',
+      url: 'https://www.shenzhen-guide.com/about',
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'Shenzhen Guide',
+      url: 'https://www.shenzhen-guide.com',
+    },
+  }
+
   return (
     <div className="max-w-5xl mx-auto px-4 py-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <div className="max-w-2xl mx-auto">
         {/* Breadcrumb */}
         <nav className="flex items-center gap-2 text-sm text-stone-400 mb-8">
