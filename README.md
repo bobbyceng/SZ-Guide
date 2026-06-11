@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SZGuide — Shenzhen, explained for foreigners
 
-## Getting Started
+**Live site: [szguide-bice.vercel.app](https://szguide-bice.vercel.app)**
 
-First, run the development server:
+Practical, up-to-date English guides for visiting or living in Shenzhen, China. Written for the wave of travelers arriving under China's visa-free policies who hit the same walls: payments don't work, Google Maps doesn't work, and nobody explains the border crossing.
+
+## Guides
+
+- **China's 240-Hour Visa-Free Transit** — who qualifies and how to use it
+- **Hong Kong → Shenzhen Border Crossing** — ports, hours, step-by-step
+- **Alipay & WeChat Pay Setup** — link a foreign card, pay like a local
+- **Shenzhen Metro Guide** — lines, tickets, QR codes
+- **DiDi (Ride-hailing) Guide** — the Uber alternative that actually works here
+- **Best eSIM for Shenzhen** — data that works behind the Great Firewall
+- **Huaqiangbei Electronics Market** — navigating the world's biggest electronics market
+
+## Tech stack
+
+- [Next.js](https://nextjs.org) (App Router) + TypeScript
+- Markdown content pipeline: `content/guides/*.md` → gray-matter + remark → static pages
+- SEO: per-page metadata, `sitemap.ts`, `robots.ts`
+- Deployed on Vercel
+
+## Development
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+npm run dev    # http://localhost:3000
+npm run build  # production build
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Add a guide: drop a Markdown file with frontmatter (`title`, `description`, `category`, `date`, `featured`) into `content/guides/` — it's picked up automatically.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## License
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Code is MIT. Guide content © SZGuide.
