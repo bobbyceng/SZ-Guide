@@ -3,6 +3,7 @@ import Link from 'next/link'
 import { getGuideBySlug, getAllGuideSlugs } from '@/lib/guides'
 import AffiliateBox from '@/components/AffiliateBox'
 import RecommendationCard from '@/components/RecommendationCard'
+import { AFFILIATE } from '@/lib/affiliates'
 import type { Metadata } from 'next'
 
 export async function generateStaticParams() {
@@ -161,13 +162,13 @@ export default async function GuidePage({
             links={[
               {
                 name: 'Nomad eSIM',
-                url: 'https://www.getnomad.app',
+                url: AFFILIATE.nomad,
                 description: 'Most reliable for China, Google, WhatsApp, etc. all work',
                 badge: 'Best Overall',
               },
               {
                 name: 'Airalo',
-                url: 'https://www.airalo.com',
+                url: AFFILIATE.airalo,
                 description: 'Budget option from $5, great for short trips',
                 badge: 'Budget Pick',
               },
@@ -181,13 +182,13 @@ export default async function GuidePage({
             links={[
               {
                 name: 'Nomad eSIM',
-                url: 'https://www.getnomad.app',
+                url: AFFILIATE.nomad,
                 description: 'Install before crossing, works without VPN in China',
                 badge: 'Essential',
               },
               {
                 name: 'Klook: Shenzhen Attractions',
-                url: 'https://www.klook.com',
+                url: AFFILIATE.klook,
                 description: 'Book tickets in advance with foreign payment',
                 badge: 'Tickets',
               },
@@ -201,9 +202,43 @@ export default async function GuidePage({
             links={[
               {
                 name: 'Nomad eSIM',
-                url: 'https://www.getnomad.app',
+                url: AFFILIATE.nomad,
                 description: 'Compare prices on the spot with working internet',
                 badge: 'Essential',
+              },
+            ]}
+          />
+        )}
+
+        {guide.category === 'Visa & Transit' && (
+          <AffiliateBox
+            title="Book before you fly"
+            links={[
+              {
+                name: 'Booking.com: Shenzhen Hotels',
+                url: AFFILIATE.bookingShenzhen,
+                description: 'Immigration may ask for proof of accommodation, book a free-cancellation room',
+                badge: 'Recommended',
+              },
+              {
+                name: 'Nomad eSIM',
+                url: AFFILIATE.nomad,
+                description: 'Install before departure, works without VPN in China',
+                badge: 'Essential',
+              },
+            ]}
+          />
+        )}
+
+        {guide.category === 'Accommodation' && (
+          <AffiliateBox
+            title="Book your Shenzhen stay"
+            links={[
+              {
+                name: 'Booking.com: Shenzhen Hotels',
+                url: AFFILIATE.bookingShenzhen,
+                description: 'English interface, foreign cards accepted, free cancellation on most rooms',
+                badge: 'Best Choice',
               },
             ]}
           />
@@ -217,20 +252,20 @@ export default async function GuidePage({
               icon: '📶',
               title: 'Nomad eSIM',
               description: 'Reliable data in China, no VPN needed. Works with Google, WhatsApp, Instagram.',
-              url: 'https://www.getnomad.app',
+              url: AFFILIATE.nomad,
               badge: 'Must-Have',
             },
             {
               icon: '🏨',
               title: 'Booking.com',
               description: 'Best price guarantee on Shenzhen hotels. Free cancellation on most rooms.',
-              url: 'https://www.booking.com',
+              url: AFFILIATE.bookingShenzhen,
             },
             {
               icon: '🎫',
               title: 'Klook',
               description: 'Book Shenzhen attractions and experiences with instant confirmation.',
-              url: 'https://www.klook.com',
+              url: AFFILIATE.klook,
             },
           ]}
         />
