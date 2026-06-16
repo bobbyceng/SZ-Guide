@@ -3,7 +3,7 @@ title: "How to Use DiDi in Shenzhen: A Foreigner's Complete Guide (2026)"
 description: "Step-by-step guide to using DiDi in Shenzhen as a foreigner, downloading the right app, setting up payment with a foreign card, booking a ride, and communicating with drivers."
 category: "Getting Around"
 categoryIcon: "🚗"
-date: "2026-05-15"
+date: "2026-06-16"
 readingTime: "5 min read"
 ---
 
@@ -29,7 +29,7 @@ DiDi International accepts:
 
 - **Visa and Mastercard** (credit or debit)
 - **PayPal**
-- **Alipay** (if you have it set up with a foreign card)
+- **Alipay** (if you have it [set up with a foreign card](/guides/alipay-wechat-pay-setup))
 
 Add your card in the app under Account → Payment Methods. Use a card without foreign transaction fees, fares are charged in RMB and converted at your bank's rate.
 
@@ -102,10 +102,10 @@ Taxis still work if one is right in front of you, show the driver your destinati
 
 DiDi requires an internet connection to book, track your ride, and communicate with the driver. 
 
-Your home carrier's roaming plan often doesn't work reliably in mainland China, traffic is routed through Chinese networks that block foreign apps. An eSIM from Nomad or Airalo, set up before you arrive, keeps all your apps (including DiDi) running from the moment you cross the border.
+Your home carrier's roaming plan often doesn't work reliably in mainland China, traffic is routed through Chinese networks that block foreign apps. A [travel eSIM](/guides/best-esim-for-shenzhen), set up before you arrive, keeps all your apps (including DiDi) running from the moment you cross the border.
 
 ## The Bottom Line
 
 DiDi International takes 10 minutes to set up and saves you from the two biggest frustrations of getting around Shenzhen: language barriers and payment. Fares are cheap enough that you can take DiDi for almost any trip without overthinking it.
 
-Use the metro for longer journeys across the city, and DiDi for everything the metro doesn't reach. Between the two, you can get anywhere in Shenzhen without speaking a word of Chinese.
+Use the [metro](/guides/shenzhen-metro-guide) for longer journeys across the city, and DiDi for everything the metro doesn't reach. Between the two, you can get anywhere in Shenzhen without speaking a word of Chinese. Planning your days? See our [3-day Shenzhen itinerary](/guides/3-day-shenzhen-itinerary) for how to string it all together.
