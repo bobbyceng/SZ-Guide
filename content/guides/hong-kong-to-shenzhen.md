@@ -1,9 +1,9 @@
 ---
-title: "How to Get from Hong Kong to Shenzhen (2026 Complete Guide)"
-description: "Step-by-step guide covering every border crossing option between Hong Kong and Shenzhen, high-speed rail, MTR, and walking crossings. Which one to use, timings, costs, and what to expect."
+title: "Hong Kong to Shenzhen: Which Border Crossing, MTR & Cost (2026)"
+description: "The fastest and cheapest ways from Hong Kong to Shenzhen in 2026. Every border crossing compared — MTR and high-speed rail, costs, hours, and crowds — plus step-by-step immigration and visa-free entry. By a Shenzhen local."
 category: "Border Crossing"
 categoryIcon: "🛂"
-date: "2026-05-10"
+date: "2026-07-25"
 readingTime: "9 min read"
 featured: true
 ---
@@ -19,6 +19,8 @@ This guide covers everything you need to know before you cross.
 If your country isn't on the list, you'll need a Chinese tourist visa (L visa) applied through a Chinese embassy or consulate before arrival.
 
 > **Quick check:** Search "China visa free countries 2026" and verify your nationality. Policy has been changing rapidly, don't rely on information older than a few months.
+
+**2026 update:** China has kept expanding visa-free access, and Guangdong (the province Shenzhen is in) lets eligible travelers enter under the **240-hour visa-free transit** through multiple entry ports. If you're transiting between two international destinations, you may not need a visa at all — see our [240-hour visa-free transit guide](/guides/china-240-hour-visa-free-transit) for who qualifies and how it works.
 
 ## The 4 Most Useful Crossings
 
@@ -126,7 +128,7 @@ These three things will make your trip much smoother if done before crossing:
 
 **Alipay:** Almost every merchant in Shenzhen accepts Alipay. Cash is still accepted but increasingly inconvenient. You can link a foreign Visa or Mastercard to Alipay International and pay directly. Set this up in Hong Kong where you have unrestricted internet access. [See our payment guide →](/guides/alipay-wechat-pay-setup)
 
-**DiDi:** Download the DiDi app (China's Uber equivalent) before crossing. You'll need it to get taxis, street hailing in Shenzhen is unreliable and most drivers won't speak English.
+**DiDi:** Download the [DiDi app](/guides/didi-shenzhen-guide) (China's Uber equivalent) before crossing. You'll need it to get taxis, street hailing in Shenzhen is unreliable and most drivers won't speak English.
 
 ---
 
