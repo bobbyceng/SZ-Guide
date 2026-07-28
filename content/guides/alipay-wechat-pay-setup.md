@@ -1,9 +1,9 @@
 ---
-title: "Alipay & WeChat Pay Setup Guide for Foreigners in Shenzhen (2026)"
-description: "Step-by-step guide to setting up Alipay and WeChat Pay with a foreign credit card. The single most important thing to do before arriving in Shenzhen."
+title: "Alipay & WeChat Pay in Shenzhen: Pay With a Foreign Card (2026)"
+description: "Can foreigners use Alipay or WeChat Pay in Shenzhen? Yes — link an international Visa or Mastercard, no Chinese bank account needed. A step-by-step 2026 guide covering both apps, verification, and cross-border payment troubleshooting."
 category: "Payment"
 categoryIcon: "💳"
-date: "2026-05-12"
+date: "2026-07-25"
 readingTime: "8 min read"
 featured: true
 ---
