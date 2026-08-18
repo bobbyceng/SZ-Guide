@@ -1,6 +1,7 @@
 ---
 title: "Best eSIM for Shenzhen (and China) in 2026"
 description: "Step-by-step guide to choosing and installing an eSIM for your Shenzhen trip. Keep Google, WhatsApp, and Instagram working in China without a VPN."
+cardBlurb: "Keep Google, WhatsApp and Instagram working. No VPN required."
 category: "Connectivity"
 categoryIcon: "📶"
 date: "2026-05-14"

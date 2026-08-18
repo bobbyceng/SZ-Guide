@@ -1,6 +1,7 @@
 ---
 title: "Where to Stay in Shenzhen: Best Areas for First-Time Visitors"
 description: "A local's guide to choosing the right Shenzhen neighborhood: Futian for first-timers, Luohu for budget border access, Nanshan for tech visitors, plus the one thing about Chinese hotels most booking sites won't tell you."
+cardBlurb: "Futian, Nanshan or Luohu. Pick by what you came here for."
 category: "Accommodation"
 categoryIcon: "🏨"
 date: "2026-06-11"

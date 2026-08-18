@@ -1,6 +1,7 @@
 ---
 title: "Huaqiangbei Electronics Market: Complete Guide for Foreigners (2026)"
 description: "The real insider guide to Shenzhen's famous electronics district. Which buildings to visit, what to buy, how to bargain, what to avoid, and how to get there."
+cardBlurb: "Which buildings to walk, what to buy, how to bargain, what to avoid."
 category: "Electronics"
 categoryIcon: "📱"
 date: "2026-05-10"

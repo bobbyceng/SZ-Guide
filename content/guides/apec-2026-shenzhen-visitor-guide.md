@@ -1,6 +1,7 @@
 ---
 title: "APEC 2026 Shenzhen: Visitor Guide to Dates, Visas & Getting Around"
 description: "Shenzhen hosts the APEC Economic Leaders' Meeting on November 18-19, 2026. A local's practical guide for attendees and business visitors: entry rules, getting in from Hong Kong, paying with a foreign card, and where to base yourself."
+cardBlurb: "Dates, entry rules, and how to get in from Hong Kong."
 category: "Planning"
 categoryIcon: "🌏"
 date: "2026-08-18"

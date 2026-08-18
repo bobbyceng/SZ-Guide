@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import { getFeaturedGuides, getAllGuides } from '@/lib/guides'
 import GuideCard from '@/components/GuideCard'
+import LeadGuideCard from '@/components/LeadGuideCard'
 
 function Icon({ d, className = '' }: { d: string; className?: string }) {
   return (
@@ -64,7 +65,9 @@ const categories = [
 
 export default function HomePage() {
   const featured = getFeaturedGuides()
-  const all = getAllGuides()
+  const [lead, ...restFeatured] = featured
+  const featuredSlugs = new Set(featured.map((g) => g.slug))
+  const rest = getAllGuides().filter((g) => !featuredSlugs.has(g.slug))
 
   return (
     <div>
@@ -185,15 +188,39 @@ export default function HomePage() {
       </section>
 
       <div className="max-w-5xl mx-auto px-6 py-14">
-        {/* Featured guides */}
-        {featured.length > 0 && (
+        {/* Lead story, the newest featured guide */}
+        {lead && (
           <section className="mb-14">
+            <LeadGuideCard guide={lead} eyebrow="Latest" />
+          </section>
+        )}
+
+        {/* Essential guides */}
+        {restFeatured.length > 0 && (
+          <section className="mb-14">
+            <h2
+              className="text-2xl font-bold text-stone-900 mb-6"
+              style={{ fontFamily: 'var(--font-display), serif' }}
+            >
+              Start here
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+              {restFeatured.map((guide) => (
+                <GuideCard key={guide.slug} guide={guide} />
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* Everything else, deduplicated against the sections above */}
+        {rest.length > 0 && (
+          <section>
             <div className="flex items-center justify-between mb-6">
               <h2
                 className="text-2xl font-bold text-stone-900"
                 style={{ fontFamily: 'var(--font-display), serif' }}
               >
-                Essential Guides
+                More guides
               </h2>
               <Link
                 href="/guides"
@@ -202,28 +229,13 @@ export default function HomePage() {
                 View all →
               </Link>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
-              {featured.map((guide) => (
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              {rest.map((guide) => (
                 <GuideCard key={guide.slug} guide={guide} />
               ))}
             </div>
           </section>
         )}
-
-        {/* All guides */}
-        <section>
-          <h2
-            className="text-2xl font-bold text-stone-900 mb-6"
-            style={{ fontFamily: 'var(--font-display), serif' }}
-          >
-            All Guides
-          </h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            {all.map((guide) => (
-              <GuideCard key={guide.slug} guide={guide} />
-            ))}
-          </div>
-        </section>
 
         {/* Trust section */}
         <section className="mt-14 bg-[#0d1117] rounded-2xl p-8 md:p-10">

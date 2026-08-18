@@ -65,7 +65,7 @@ export default function GuideCard({ guide }: { guide: GuideMetadata }) {
         </h3>
 
         <p className="text-sm text-stone-500 leading-relaxed line-clamp-2 mb-4">
-          {guide.description}
+          {guide.cardBlurb ?? guide.description}
         </p>
 
         <div className="flex items-center justify-between">

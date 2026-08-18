@@ -1,6 +1,7 @@
 ---
 title: "3 Days in Shenzhen: An Itinerary by Someone Who Lives Here"
 description: "A realistic 3-day Shenzhen itinerary for first-time visitors: Huaqiangbei electronics, Nanshan tech and bay views, OCT-LOFT art district, plus the practical setup that makes it all work."
+cardBlurb: "A realistic three days, from someone who isn't guessing."
 category: "Planning"
 categoryIcon: "🗓️"
 date: "2026-06-11"

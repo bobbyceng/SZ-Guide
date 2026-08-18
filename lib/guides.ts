@@ -10,7 +10,10 @@ const guidesDirectory = path.join(process.cwd(), 'content/guides')
 export interface GuideMetadata {
   slug: string
   title: string
+  /** Written for search engines. Used in <meta> and on the article page. */
   description: string
+  /** Written for people. Short blurb shown on cards; falls back to description. */
+  cardBlurb?: string
   category: string
   categoryIcon: string
   date: string

@@ -1,6 +1,7 @@
 ---
 title: "How to Use DiDi in Shenzhen: A Foreigner's Complete Guide (2026)"
 description: "Step-by-step guide to using DiDi in Shenzhen as a foreigner, downloading the right app, setting up payment with a foreign card, booking a ride, and communicating with drivers."
+cardBlurb: "China's Uber. Set it up with a foreign card before you land."
 category: "Getting Around"
 categoryIcon: "🚗"
 date: "2026-06-16"

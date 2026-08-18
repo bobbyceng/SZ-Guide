@@ -1,6 +1,7 @@
 ---
 title: "Hong Kong to Shenzhen: Which Border Crossing, MTR & Cost (2026)"
 description: "The fastest and cheapest ways from Hong Kong to Shenzhen in 2026. Every border crossing compared — MTR and high-speed rail, costs, hours, and crowds — plus step-by-step immigration and visa-free entry. By a Shenzhen local."
+cardBlurb: "Every crossing compared: which is fastest, what it costs, how long it takes."
 category: "Border Crossing"
 categoryIcon: "🛂"
 date: "2026-07-25"
