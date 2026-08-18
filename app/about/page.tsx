@@ -49,9 +49,8 @@ export default function AboutPage() {
         </p>
         <p>
           I studied business English at university, spent a semester at Kent State in Ohio,
-          served in the military, and finished a master&apos;s degree in Hong Kong focused on
-          AI. Now I&apos;m back in Shenzhen, working on AI products and writing this guide on
-          the side.
+          and finished a master&apos;s degree in Hong Kong focused on AI. Now I&apos;m back in
+          Shenzhen, working on AI products and writing this guide on the side.
         </p>
       </div>
 
