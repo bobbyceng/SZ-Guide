@@ -1,10 +1,10 @@
 ---
 title: "APEC 2026 Shenzhen: Visitor Guide to Dates, Visas & Getting Around"
-description: "Shenzhen hosts the APEC Economic Leaders' Meeting on November 18-19, 2026. A local's practical guide for attendees and business visitors: entry rules, getting in from Hong Kong, paying with a foreign card, and where to base yourself."
-cardBlurb: "Dates, entry rules, and how to get in from Hong Kong."
+description: "Shenzhen hosts the APEC Economic Leaders' Meeting on November 18-19, 2026, at the Shenzhen International Exchange Center by Xiangmi Lake in Futian. A local's practical guide: the venue and which metro line it's on, entry rules, getting in from Hong Kong, paying with a foreign card, and where to base yourself."
+cardBlurb: "Venue, dates, entry rules, and how to get in from Hong Kong."
 category: "Planning"
 categoryIcon: "🌏"
-date: "2026-08-18"
+date: "2026-08-19"
 readingTime: "10 min read"
 featured: true
 ---
@@ -13,7 +13,7 @@ Shenzhen hosts the **33rd APEC Economic Leaders' Meeting on November 18-19, 2026
 
 If you're coming for the meeting, the CEO Summit, one of the ministerial meetings, or just doing business here during that window, this page is the practical layer: what you need to enter, how to get in, how to pay for things, and where to base yourself. I live here and write the rest of this site, so everything below links to a full guide if you need the detail.
 
-> **A note on what's confirmed:** dates and host city are official. The exact venue and any special entry arrangements for attendees had not been publicly confirmed at the time of writing (August 2026). I've flagged those clearly rather than guessing. Check the official [APEC China 2026](https://www.apec.org/) and Shenzhen government channels for the final logistics, and check back here as details firm up.
+> **A note on what's confirmed:** dates, host city and main venue are official. Operational details for the week itself, road closures, security perimeters, and any special entry arrangements for attendees, had not been published at the time of writing (August 2026). I've flagged those clearly rather than guessing. Check the official [APEC China 2026](https://www.apec.org/) and Shenzhen government channels for final logistics, and check back here as details firm up.
 
 ## The Basics
 
@@ -21,14 +21,22 @@ If you're coming for the meeting, the CEO Summit, one of the ministerial meeting
 |---|---|
 | **Leaders' Meeting** | November 18-19, 2026 |
 | **City** | Shenzhen, Guangdong Province |
-| **Host district** | Futian (the city's administrative and business centre) |
+| **Main venue** | Shenzhen International Exchange Center, Xiangmi Lake, Futian District |
+| **Nearest metro** | Xiangmi and Xiangmei North, both on **Line 2 / Line 8** |
 | **Also happening** | APEC CEO Summit, joint ministerial meeting of foreign and trade ministers |
 | **Theme** | "Building an Asia-Pacific community to prosper together" |
-| **Venue** | Not publicly confirmed as of August 2026 |
 
 Across 2026, China is running roughly 300 APEC-related events in multiple cities, so November in Shenzhen is the peak but not the only window.
 
-**Practical consequence:** mid-November in Futian will be busy. Hotels in the CBD will price up and fill early, and you should expect security measures and traffic management around the venue area once it's announced. If your schedule is flexible, book accommodation well before October.
+### The venue is not where most people assume
+
+This trips up almost everyone, so it's worth being precise. The main venue is the **Shenzhen International Exchange Center** (深圳国际交流中心), a purpose-built complex on the north side of **Xiangmi Lake** (香蜜湖). It is **not** the Shenzhen Convention and Exhibition Center in the Futian CBD, which is a completely different building about 15 minutes away and sits on different metro lines.
+
+The complex covers 18 hectares with around 470,000m² of floor area, including a 5,000m² main hall, a 3,800m² banquet hall, roughly 60 meeting rooms, and its own hotels. The main structure was completed in May 2026 and the lake has been refilled. The Leaders' Meeting is expected to host around 1,000 delegates.
+
+**Practical consequence:** Xiangmi Lake sits in Futian but away from the CBD, on **Line 2 / Line 8** rather than the Line 1 and Line 3 corridor most visitors use. If proximity to the venue matters to you, check which metro line your hotel is actually on, not just which district it's in. Expect security measures and traffic management in the area during the meeting, and expect CBD hotels to price up and fill early. If your dates are flexible, book well before October.
+
+**And the honest caveat:** the Leaders' Meeting itself is not a public event. Unless you're part of a delegation, media, or attending an associated business programme, you won't be going inside. For most visitors the practical question isn't "how do I get to the venue" but "I'm in Shenzhen that week, what changes for me" — which is what the rest of this guide covers.
 
 ## Do You Need a Visa?
 
@@ -99,9 +107,9 @@ The "China is cashless and foreigners can't pay for anything" story is out of da
 
 ## Where to Base Yourself
 
-**Futian** is the host district and the obvious answer for anyone attending. It's the CBD, it has the international hotel stock, and it puts you closest to whatever the venue turns out to be. It's also where prices will rise most and availability will disappear first.
+**Futian CBD** is the default for most business visitors. It has the international hotel stock and the density: Shopping Park, COCO Park, KingGlory Plaza and Liancheng New Times are all walkable from each other, so your evenings sort themselves out. It's a short hop west to Xiangmi Lake, but note it's a different metro corridor. This is also where prices will rise most and availability will go first.
 
-**Nanshan** is the alternative worth considering: the tech district, about 20-30 minutes from Futian by metro, generally newer hotels, and less likely to be caught inside any event traffic management. If your schedule has you in meetings rather than at the summit itself, this can be the calmer base.
+**Nanshan** is the tech district, roughly 20-30 minutes from Futian by metro, with newer hotels and its own shopping in MixC and Qianhai MixC. It's more expensive, but it's further from any event traffic management, which in that particular week is worth something.
 
 **Luohu** is the budget option and sits right on the Lo Wu border crossing, which is useful if you're going back and forth to Hong Kong.
 
@@ -109,7 +117,7 @@ The "China is cashless and foreigners can't pay for anything" story is out of da
 
 ## Getting Around During the Event
 
-The **metro** is the right default. It's extensive, cheap, signed in English, and it won't be affected by road closures. Line 1 and Line 3 both run through Futian, and Line 11 connects the airport.
+The **metro** is the right default. It's extensive, cheap, signed in English, and it won't be affected by road closures. Line 1 and Line 3 run through the Futian CBD, **Line 2 / Line 8 serve the Xiangmi Lake venue area**, and Line 11 connects the airport.
 
 [Shenzhen Metro guide →](/guides/shenzhen-metro-guide) covers how to pay (your phone, not a ticket machine), which lines matter, and the key interchange stations.
 
@@ -119,9 +127,9 @@ For anything the metro doesn't cover, use DiDi. If road restrictions are in plac
 
 Being straight about the gaps, as of August 2026:
 
-- **The exact venue** has not been publicly confirmed. Futian is the host district, and the Shenzhen Convention and Exhibition Center there is the obvious candidate, but I'm not going to state it as fact until it's announced.
 - **Special entry or visa facilitation for attendees** has not been detailed publicly. Assume you need one of the four routes above unless your delegation tells you otherwise.
-- **Road closures, security perimeters, and metro adjustments** around November 18-19 will be published closer to the date.
+- **Road closures, security perimeters, and metro adjustments** around November 18-19 will be published closer to the date. Assume the streets immediately around Xiangmi Lake will be restricted on those two days.
+- **Which hotels are taken by delegations.** The venue complex includes its own hotels, and CBD stock will be partly blocked out. This is another reason to book early rather than assume you can sort it in October.
 
 Futian district has publicly committed to reducing friction for international visitors specifically in port entry, daily travel, payments, and government services ahead of the meeting, so expect the practical situation to keep improving between now and November.
 
@@ -141,8 +149,14 @@ In more places than you'd expect, especially in Futian, at the airport, and in h
 **How do I get from Hong Kong to Shenzhen for APEC?**
 High-speed rail from West Kowloon to Shenzhen North takes 14 minutes, or you can cross on foot at Lo Wu or Lok Ma Chau/Futian. The Futian crossing puts you directly in the CBD. See the [full border crossing guide](/guides/hong-kong-to-shenzhen).
 
+**Where is the APEC 2026 venue in Shenzhen?**
+The Shenzhen International Exchange Center at Xiangmi Lake, in Futian District. It's a purpose-built complex, not the Shenzhen Convention and Exhibition Center in the CBD, which people often assume. Nearest metro stations are Xiangmi and Xiangmei North on Line 2 / Line 8.
+
 **Where should I stay for APEC?**
-Futian if you're attending, Nanshan if you want to avoid event congestion, Luohu on a budget or if you're commuting to Hong Kong. Book before October: CBD hotel availability in that week will go early.
+Futian CBD if you want walkable food and shopping, Nanshan if you'd rather be away from event congestion, Luohu on a budget or if you're commuting to Hong Kong. Book before October: CBD availability that week will go early.
+
+**Can I attend APEC 2026?**
+The Leaders' Meeting is not open to the public. Associated business events like the CEO Summit have their own registration and are not general-admission either. Most visitors in Shenzhen that week are there for unrelated reasons and just need to plan around it.
 
 **Will Google and WhatsApp work?**
 Not on a Chinese domestic network. Get an international eSIM before you arrive and they'll work normally, no VPN needed.
