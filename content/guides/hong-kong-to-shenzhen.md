@@ -154,3 +154,5 @@ Key areas:
 **Is it safe?** Shenzhen has a low violent crime rate. Normal city precautions apply (watch your phone in crowded areas).
 
 **How long can I stay?** If you're on a 30-day visa-free entry, your 30 days start from the day you cross the border, regardless of how long you spend in Hong Kong in between.
+
+**Is there anything special about November 2026?** Yes. Shenzhen hosts the APEC Economic Leaders' Meeting on 18–19 November, which means heavier business traffic through the crossings, hotel prices well above normal, and traffic management in parts of Futian. If you're crossing that week, read the [APEC 2026 visitor guide](/guides/apec-2026-shenzhen-visitor-guide) first.

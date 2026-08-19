@@ -131,11 +131,11 @@ Prices in Huaqiangbei are rarely fixed, especially in the stall markets. A few r
 
 ## Getting There and Getting Around
 
-**Metro:** Huaqiangbei Station (华强北站) on Lines 1 and 7. Exit B or C puts you in the center of the district.
+**Metro:** Huaqiangbei Station (华强北站) on Lines 1 and 7. Exit B or C puts you in the center of the district. If you haven't used the Shenzhen metro yet, our [metro guide](/guides/shenzhen-metro-guide) covers paying with your phone instead of queueing at a ticket machine.
 
 **Inside the buildings:** Very crowded, especially on weekdays when wholesale buyers are active. Weekends are slightly less congested. Bring a bag, you'll want your hands free.
 
-**Payment:** Most stalls accept WeChat Pay and Alipay. Cash (RMB) is always accepted. Credit/debit cards are not widely accepted in individual stalls.
+**Payment:** Most stalls accept WeChat Pay and Alipay. Cash (RMB) is always accepted. Credit/debit cards are not widely accepted in individual stalls. Set up a payment app with your foreign card **before** you come, since this is exactly the kind of place where it matters — see the [Alipay and WeChat Pay setup guide](/guides/alipay-wechat-pay-setup).
 
 **Plan 2–3 hours minimum** if you want to explore properly. Serious buyers spend all day.
 
@@ -162,6 +162,8 @@ Prices in Huaqiangbei are rarely fixed, especially in the stall markets. A few r
 **From Futian checkpoint:** Take Metro Line 1 eastbound toward Luohu. Get off at Huaqiangbei Station. About 10 minutes.
 
 **From Shenzhen North Station (high-speed rail):** Take Metro Line 4 to Futian Station, transfer to Line 1 toward Luohu, exit at Huaqiangbei. About 30 minutes total.
+
+Coming over from Hong Kong for the day? The [Hong Kong to Shenzhen guide](/guides/hong-kong-to-shenzhen) compares every crossing, and Futian Checkpoint is the one that puts you closest to Huaqiangbei.
 
 ---
 

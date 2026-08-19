@@ -13,6 +13,8 @@ Cash is dying in Shenzhen. Over 95% of merchants, from convenience stores to str
 
 If you arrive without Alipay or WeChat Pay set up, you'll struggle to buy food, take taxis, or even enter the metro. This is the single most important preparation step before your trip.
 
+> **2026 update:** foreign card acceptance here has improved a lot, largely because Shenzhen is preparing to host [APEC in November 2026](/guides/apec-2026-shenzhen-visitor-guide). As of mid-2026, roughly **41,000 merchants** accept overseas bank cards across about 51,000 POS terminals, **more than 40 overseas e-wallets** (PayPal, Singapore's LiquidPay and Thailand's K PLUS among them) now work for QR payments, and **over 3,600 ATMs** take foreign cards. Your physical card will work in more places than older guides suggest. QR payment is still the default outside hotels and large retail, so set up an app anyway.
+
 ![Setting up Alipay on your phone, the first step to navigating Shenzhen](/images/guides/alipay-setup/01-download-alipay.jpg)
 
 ## The Two Options: Alipay vs WeChat Pay

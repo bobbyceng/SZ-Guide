@@ -24,7 +24,7 @@ No app needed, no top-up required. If your card has contactless, this is the pat
 
 Both apps support foreign credit cards and have metro payment built in. Open the metro mini-program inside either app (or scan the QR code reader at the turnstile), and scan at the gate.
 
-Setup takes 10–15 minutes but is useful if you plan to use these apps for other payments during your trip, restaurants, shops, and street food vendors all accept them.
+Setup takes 10–15 minutes but is useful if you plan to use these apps for other payments during your trip, restaurants, shops, and street food vendors all accept them. Our [Alipay and WeChat Pay setup guide](/guides/alipay-wechat-pay-setup) walks through linking a foreign card, and it's worth doing before you arrive rather than at a turnstile.
 
 ### Option 3: Shenzhen Tong Card (深圳通)
 
@@ -54,11 +54,15 @@ Key stops: **Futian Port** → Children's Palace → Civic Center → Longhua
 
 ### Line 7 (Dark Red)
 
-Passes through Huaqiangbei, the electronics shopping district. The station is simply called **Huaqiangbei (华强北)**.
+Passes through Huaqiangbei, the electronics shopping district. The station is simply called **Huaqiangbei (华强北)**. See the [Huaqiangbei guide](/guides/huaqiangbei-electronics-guide) for which buildings are worth your time once you're there.
 
 ### Line 11, Airport Express
 
 From **Shenzhen Bao'an Airport** into the city. Connects to the wider metro network at Airport East Station. Journey to the central areas takes about 30–40 minutes.
+
+### Line 2 / Line 8 (Green)
+
+Runs along the northern side of Futian. Easy to overlook, but it's the line that serves **Xiangmi Lake**, where the [APEC 2026 venue](/guides/apec-2026-shenzhen-visitor-guide) sits. Note that **Xiangmi station (Line 2/8) and Xiangmihu station (Line 1) are different places** despite the near-identical names, which catches people out.
 
 ## Key Stations
 
@@ -95,9 +99,11 @@ At the station, follow the English signs, they're clear throughout the system. P
 
 **Avoid peak hours if you can.** 7:30–9:00am and 6:00–8:00pm on weekdays, major lines get genuinely packed. Tourist travel during these windows is fine but less comfortable.
 
-**You need working data for navigation.** Amap requires an internet connection. Your home SIM's roaming plan often doesn't work reliably in mainland China, the firewall blocks the connection. An eSIM from Nomad or Airalo set up before arrival means maps work from the moment you cross the border.
+**You need working data for navigation.** Amap requires an internet connection. Your home SIM's roaming plan often doesn't work reliably in mainland China, the firewall blocks the connection. An eSIM set up before arrival means maps work from the moment you cross the border — see the [eSIM guide](/guides/best-esim-for-shenzhen).
 
-**The metro doesn't cover every destination.** Some restaurants, smaller hotels, and street-level areas are a 10–15 minute walk from the nearest station. Combining metro for main journeys with DiDi for the last mile is the most practical approach.
+**The metro doesn't cover every destination.** Some restaurants, smaller hotels, and street-level areas are a 10–15 minute walk from the nearest station. Combining metro for main journeys with [DiDi](/guides/didi-shenzhen-guide) for the last mile is the most practical approach.
+
+**Pick your hotel by metro line, not by district.** Shenzhen districts are enormous, and "Futian" spans stations 30 minutes apart. [Where to stay in Shenzhen](/guides/where-to-stay-in-shenzhen) breaks this down by area.
 
 ## The Bottom Line
 
