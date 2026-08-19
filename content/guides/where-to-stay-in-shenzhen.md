@@ -87,7 +87,7 @@ Overseas Chinese Town (华侨城) sits between Futian and Nanshan and contains W
 
 ## Booking Tips That Actually Matter
 
-1. **Book with free cancellation.** Shenzhen hotel inventory is deep; prices don't spike except during Canton Fair weeks (April/May and October/November, when Guangzhou overflow pushes prices up city-wide) and Chinese public holidays. Lock in a refundable rate, rebook if you see better.
+1. **Book with free cancellation.** Shenzhen hotel inventory is deep; prices don't spike except during Canton Fair weeks (April/May and October/November, when Guangzhou overflow pushes prices up city-wide), Chinese public holidays, and major events in the city. Lock in a refundable rate, rebook if you see better. **One date to know about: Shenzhen hosts the APEC Economic Leaders' Meeting on November 18-19, 2026, and that week is a genuine exception — see [where to stay for APEC week](/guides/where-to-stay-apec-2026-shenzhen).**
 2. **Pay attention to the metro station in the listing**, not the district name. "Futian" covers an area the size of a small city. Within 500m of a station on Line 1, 2, 3, or 11 is the real test.
 3. **You'll need your physical passport at check-in.** A photo won't do. This is non-negotiable everywhere in China.
 4. **Hotels can't always take foreign cards in person.** Prepay online when you can, or have Alipay set up (see our [payment setup guide](/guides/alipay-wechat-pay-setup)).

@@ -113,7 +113,7 @@ The "China is cashless and foreigners can't pay for anything" story is out of da
 
 **Luohu** is the budget option and sits right on the Lo Wu border crossing, which is useful if you're going back and forth to Hong Kong.
 
-[Where to stay in Shenzhen, by area →](/guides/where-to-stay-in-shenzhen) breaks down each neighborhood, and covers the one thing about Chinese hotels most booking sites don't mention.
+[Where to stay for APEC week →](/guides/where-to-stay-apec-2026-shenzhen) goes area by area with the metro-line detail that actually decides this, including the two similarly named stations people get wrong. For the general picture, [where to stay in Shenzhen, by area →](/guides/where-to-stay-in-shenzhen) breaks down each neighborhood and covers the one thing about Chinese hotels most booking sites don't mention.
 
 ## Getting Around During the Event
 
