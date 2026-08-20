@@ -1,23 +1,28 @@
 ---
 title: "Best eSIM for Shenzhen (and China) in 2026"
-description: "Step-by-step guide to choosing and installing an eSIM for your Shenzhen trip. Keep Google, WhatsApp, and Instagram working in China without a VPN."
+description: "How to choose and install an eSIM for Shenzhen so Google, WhatsApp and Instagram keep working in China, with no VPN. Nomad, Airalo and Holafly compared on price, tethering and published China test results."
 cardBlurb: "Keep Google, WhatsApp and Instagram working. No VPN required."
 category: "Connectivity"
 categoryIcon: "📶"
-date: "2026-05-14"
-readingTime: "9 min read"
+date: "2026-08-20"
+readingTime: "10 min read"
 featured: true
 ---
 
 When you cross into mainland China, Google Maps stops working. So does WhatsApp, Instagram, YouTube, and Gmail, blocked at the network level. An international eSIM is the simplest fix: your traffic routes through servers outside China, so all your usual apps keep working. No VPN needed.
 
+> **How this guide was put together, and what it isn't.** I live in Shenzhen and cross the border regularly, but I'm on a Chinese domestic plan, so **I have not personally tested these eSIMs**. Everything below is compiled from provider documentation and independent testing published in 2026, and I've said where the numbers come from.
+>
+> One thing worth knowing before you read any eSIM comparison, this one included: **most "we tested them all" eSIM sites earn a commission on whichever product they rank first.** That doesn't make their testing worthless, but it's a reason to check more than one source. I currently earn nothing from the links here. If that changes, this note changes with it.
+
 ## Quick Decision: Which eSIM Should I Buy?
 
 | Your situation | Recommended | Price | Notes |
 |---------------|-------------|-------|-------|
-| 1–3 day trip | Airalo | From $5 | Cheapest, reliable enough |
-| 4–7 days typical use | Nomad | From $9 | More stable, better coverage |
-| Heavy data user | Holafly | From $27 | Unlimited, no data anxiety |
+| 1–3 day trip | Airalo | From $5 | Cheapest of the three |
+| 4–7 days typical use | Nomad | From $9 | Best results in published China testing |
+| Working off a laptop | Airalo | From $5 | Reliably allows hotspot tethering |
+| Heavy data user | Holafly | From $27 | Unlimited, but check the tethering limits below |
 
 ---
 
@@ -55,37 +60,44 @@ The ones that *don't* work are eSIMs that assign you a domestic Chinese IP. Thos
 ### Nomad, Best Overall
 
 **Price:** From US$9 for 3GB / 15 days (recommended: US$15 for 5GB / 30 days)
-**Speed:** 4G/LTE, stable on the metro and in buildings
-**Coverage:** Routes through international gateways, Google, WhatsApp, all work
 **Best for:** Trips of 4+ days, anyone who wants reliability without thinking about it
 
-Nomad is the most consistent pick for mainland China. Their APAC plan covers China plus Hong Kong, useful if you're crossing back and forth.
+Nomad routes through a Singapore exit gateway, which is the reason it tends to score well on China tests: independent testing in April 2026 across Shanghai and Shenzhen measured around **190ms latency, 99% uptime, and a median download speed near 54 Mbps** — comfortably enough for maps, messaging and video calls. Google Maps and WhatsApp video were confirmed working without a separate VPN.
 
-[Buy Nomad eSIM →](https://www.getnomad.app) *(affiliate link, we earn ~10% commission at no extra cost to you)*
+**The honest caveat on coverage:** that same testing found the connection **stable outdoors, but noted the signal sometimes dropping indoors and falling back to 3G**. And it isn't universal — there are user reports of Nomad failing in China outright, including one plan that stopped working after four days in Shanghai. No eSIM is a guarantee.
+
+Their APAC plan covers China plus Hong Kong, which is genuinely useful if you're crossing back and forth.
+
+[Buy Nomad eSIM →](https://www.getnomad.app)
 
 ---
 
 ### Airalo, Best Budget Option
 
 **Price:** From US$5 for 1GB / 7 days (recommended: US$10 for 3GB / 15 days)
-**Speed:** 4G/LTE, occasionally slower than Nomad in fringe areas
-**Best for:** Short trips (1–3 days), budget travelers
+**Best for:** Short trips (1–3 days), budget travelers, and anyone who needs to tether a laptop
 
 Airalo is the most well-known eSIM marketplace. For a quick Shenzhen day trip or weekend, the smaller plans are usually sufficient.
 
+**The tethering point matters more than people expect.** Airalo almost always allows hotspot sharing, so you can work off a laptop. If you're here on business and plan to use your phone as your laptop's connection, this is the practical reason to pick Airalo over Holafly.
+
 **Important:** Buy the China-specific plan, not a "Global" plan. Global plans often route differently and may be less reliable inside China.
 
-[Buy Airalo eSIM →](https://www.airalo.com) *(affiliate link)*
+[Buy Airalo eSIM →](https://www.airalo.com)
 
 ---
 
 ### Holafly, Best for Heavy Data Users
 
 **Price:** From US$27 for unlimited / 7 days
-**Speed:** 4G/LTE
 **Best for:** Video calls, uploading content, people who don't want to track data usage
 
-If you're going to be on Maps and video constantly, or sharing your connection, the unlimited plan removes all stress.
+If you're going to be on Maps and video constantly, the unlimited plan removes the counting-megabytes anxiety.
+
+**Two caveats that "unlimited" hides:**
+
+- **Hotspot is the catch.** Most Holafly plans don't let you share your connection with a laptop at all, and the ones that do cap it at roughly 1GB a day. If tethering matters to you, this is the wrong product regardless of price.
+- **"Unlimited" is throttled.** Speeds can drop once you've used a certain amount, and Holafly doesn't publish the threshold. You won't know where the ceiling is until you hit it.
 
 ---
 
@@ -95,10 +107,13 @@ If you're going to be on Maps and video constantly, or sharing your connection, 
 |---------|-------|--------|---------|
 | Starting price | $9 / 3GB / 15d | $5 / 1GB / 7d | $27 / unlimited / 7d |
 | Recommended plan | $15 / 5GB / 30d | $10 / 3GB / 15d | $27 / unlimited / 7d |
-| Network speed | 4G/LTE stable | 4G/LTE | 4G/LTE |
+| **Laptop tethering** | Generally yes | **Yes** | **Mostly no; ~1GB/day where allowed** |
+| Data cap | By plan | By plan | Unlimited, but throttled at an undisclosed point |
 | Google / WhatsApp | ✓ | ✓ | ✓ |
 | Multi-country APAC | ✓ | ✓ | China only |
 | Top-up in app | ✓ | ✓ | ✓ |
+
+I've dropped the "network speed" row that used to be here. All three run 4G/LTE and the real-world difference depends far more on where you are standing than on which logo is on the plan, so a one-word rating in a table was more confident than the evidence supports.
 
 ---
 
@@ -121,7 +136,9 @@ If you're going to be on Maps and video constantly, or sharing your connection, 
 
 **Install:** Do it before you cross the border, ideally in your hotel in Hong Kong, or at the airport. You need unrestricted internet to download the eSIM profile.
 
-**Critical:** Once you're inside mainland China, the eSIM providers' websites are blocked. You can't buy or install from there without a VPN.
+> **This is the one thing in this guide you cannot fix later.** Once you are inside mainland China, you generally cannot install a foreign eSIM at all: the providers' sites and apps are blocked, and you need a working connection to pull down the profile in the first place. It's a chicken-and-egg problem, and arriving without it installed is the single most common way people end up stuck with no maps and no messaging.
+>
+> Install it, and confirm it appears in your phone's settings, **before you cross**.
 
 **Activate:** The eSIM activates automatically when your phone detects a Chinese carrier signal.
 
@@ -206,5 +223,9 @@ Your internet stops until you top up. Do it in the app, no reinstallation needed
 
 ## Related Guides
 
-- [Hong Kong to Shenzhen: Border Crossing Guide →](/guides/hong-kong-to-shenzhen)
-- [Huaqiangbei Electronics Market Guide →](/guides/huaqiangbei-electronics-guide)
+- [Hong Kong to Shenzhen: Border Crossing Guide →](/guides/hong-kong-to-shenzhen), install the eSIM before you cross here
+- [Alipay & WeChat Pay setup →](/guides/alipay-wechat-pay-setup), the other thing to sort out before you arrive
+- [Shenzhen Metro guide →](/guides/shenzhen-metro-guide), you'll want working maps for this
+- [How to use DiDi →](/guides/didi-shenzhen-guide), needs a live data connection to book
+- [Huaqiangbei Electronics Market Guide →](/guides/huaqiangbei-electronics-guide), where to buy a physical SIM if your phone isn't eSIM-compatible
+- [APEC 2026 visitor guide →](/guides/apec-2026-shenzhen-visitor-guide), if you're here for the November window
