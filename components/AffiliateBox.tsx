@@ -32,7 +32,7 @@ export default function AffiliateBox({
             key={link.name}
             href={link.url}
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="flex items-center justify-between p-3 rounded-lg bg-white border border-amber-100 hover:border-amber-300 hover:shadow-sm transition-all group"
           >
             <div>

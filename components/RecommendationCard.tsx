@@ -31,7 +31,7 @@ export default function RecommendationCard({
             key={item.title}
             href={item.url}
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="block p-4 rounded-xl bg-white/5 border border-white/10 hover:border-amber-400/30 hover:bg-white/10 transition-all group"
           >
             <div className="text-2xl mb-2">{item.icon}</div>
