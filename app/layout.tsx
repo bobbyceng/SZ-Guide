@@ -44,9 +44,21 @@ export const metadata: Metadata = {
   },
 }
 
+const IMPACT_VERIFICATION = {
+  name: 'impact-site-verification',
+  value: '5535ee36-0425-424d-8376-b77e2529a10b',
+} as unknown as React.ComponentProps<'meta'>
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={`antialiased ${playfair.variable} ${dmSans.variable}`} suppressHydrationWarning>
+      {/*
+        Impact / Airalo site-ownership verification. Their snippet uses a
+        `value` attribute rather than the standard `content`, which React's
+        meta typing rejects, hence the cast. Emitted literally so it matches
+        what their checker looks for.
+      */}
+      <meta {...IMPACT_VERIFICATION} />
       <body
         className="min-h-screen flex flex-col"
         style={{ fontFamily: 'var(--font-body), system-ui, sans-serif' }}
