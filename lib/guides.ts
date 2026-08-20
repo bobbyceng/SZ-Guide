@@ -7,6 +7,54 @@ import gfm from 'remark-gfm'
 
 const guidesDirectory = path.join(process.cwd(), 'content/guides')
 
+/**
+ * Domains we have (or may have) a commercial relationship with. Links to these
+ * must carry rel="sponsored" so Google doesn't read them as editorial
+ * endorsements we're passing ranking signal to.
+ *
+ * Everything else external — government sources, official event sites — stays
+ * unsponsored on purpose: citing authoritative sources is an E-E-A-T positive,
+ * and marking those "sponsored" would throw that away.
+ */
+const AFFILIATE_DOMAINS = [
+  'getnomad.app',
+  'airalo.com',
+  'holafly.com',
+  'klook.com',
+  'booking.com',
+  'agoda.com',
+  'trip.com',
+  'getyourguide.com',
+  'yesim.app',
+  'kiwitaxi.com',
+  'welcomepickups.com',
+  'tp.media',
+  'travelpayouts.com',
+]
+
+/**
+ * Markdown links render as bare <a href>. Add the attributes external links
+ * need: sponsored for commercial destinations, and new-tab plus noopener for
+ * all of them.
+ */
+function annotateExternalLinks(html: string): string {
+  return html.replace(/<a href="(https?:\/\/[^"]+)"/g, (match, url: string) => {
+    let hostname: string
+    try {
+      hostname = new URL(url).hostname.replace(/^www\./, '')
+    } catch {
+      return match
+    }
+    if (hostname === 'shenzhen-guide.com') return match
+
+    const isAffiliate = AFFILIATE_DOMAINS.some(
+      (d) => hostname === d || hostname.endsWith(`.${d}`)
+    )
+    const rel = isAffiliate ? 'sponsored noopener noreferrer' : 'noopener noreferrer'
+    return `<a href="${url}" target="_blank" rel="${rel}"`
+  })
+}
+
 export interface GuideMetadata {
   slug: string
   title: string
@@ -51,7 +99,7 @@ export async function getGuideBySlug(slug: string): Promise<Guide> {
   const fileContents = fs.readFileSync(fullPath, 'utf8')
   const { data, content } = matter(fileContents)
   const processed = await remark().use(gfm).use(html, { sanitize: false }).process(content)
-  return { slug, contentHtml: processed.toString(), ...data } as Guide
+  return { slug, contentHtml: annotateExternalLinks(processed.toString()), ...data } as Guide
 }
 
 export function getAllGuideSlugs(): string[] {
