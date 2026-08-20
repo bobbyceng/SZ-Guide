@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { Playfair_Display, DM_Sans } from 'next/font/google'
 import './globals.css'
+import Script from 'next/script'
 import Nav from '@/components/Nav'
 import Footer from '@/components/Footer'
 import { Analytics } from '@vercel/analytics/next'
@@ -54,6 +55,27 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main className="flex-1">{children}</main>
         <Footer />
         <Analytics />
+        {/*
+          Travelpayouts Drive. Required to get past their onboarding gate before
+          you can join affiliate programmes; it is not otherwise needed, since
+          tracking links live in lib/affiliates.ts.
+
+          Loaded with afterInteractive rather than the raw <script> tag they
+          hand out, so it stays off the critical rendering path.
+
+          IMPORTANT: keep "Keyword Linking" and auto-optimisation DISABLED in
+          the Travelpayouts dashboard. Those features inject affiliate links
+          into article text automatically, which would contradict the editorial
+          promise on /about and bypass our rel="sponsored" handling.
+
+          To remove: delete this block and the next/script import.
+        */}
+        <Script
+          id="travelpayouts-drive"
+          src="https://emrldtp.com/NTY0MjQz.js?t=564243"
+          strategy="afterInteractive"
+          data-cmp-ab="2"
+        />
       </body>
     </html>
   )
