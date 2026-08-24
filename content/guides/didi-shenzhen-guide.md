@@ -4,8 +4,8 @@ description: "Step-by-step guide to using DiDi in Shenzhen as a foreigner, downl
 cardBlurb: "China's Uber. Set it up with a foreign card before you land."
 category: "Getting Around"
 categoryIcon: "🚗"
-date: "2026-06-16"
-readingTime: "5 min read"
+date: "2026-08-24"
+readingTime: "9 min read"
 ---
 
 DiDi is China's dominant ride-hailing app, think Uber, but it works everywhere in Shenzhen including areas the metro doesn't reach. Prices are low, cars are generally clean, and you can book without speaking any Chinese.
@@ -53,6 +53,36 @@ This is roughly half what an equivalent ride costs in Hong Kong.
 
 **5. Verify the plate before getting in.** Match the license plate shown in the app to the car in front of you.
 
+## Getting a DiDi at Shenzhen Airport
+
+Shenzhen Bao'an International Airport (SZX) is where most visitors need their first car, and it is also where the app behaves differently from a street pickup.
+
+Once your ride is confirmed, DiDi assigns you a **numbered pickup bay** instead of telling you to walk outside. The app shows a bay code, something like "B2, Zone H", and gives you step-by-step photos of the route from the terminal to that bay. Follow the bay number rather than your instinct about where cars normally wait, because the ride-hailing zone at Chinese airports is usually in a parking structure rather than at the arrivals curb.
+
+Two things worth planning for:
+
+**You need working data before you can book anything.** You cannot summon a car from the arrivals hall on airport WiFi if the app can't reach its servers, and you cannot download the app inside China if the store is blocked. Set up a [travel eSIM](/guides/best-esim-for-shenzhen) before you land.
+
+**Budget ¥80–120 to the city centre**, roughly 40–60 minutes to Futian depending on traffic. The Airport Express metro (Line 11) is far cheaper and often faster in rush hour, but DiDi wins when you have luggage or arrive late.
+
+## Booking Ahead of Time
+
+You can schedule a ride in advance, but there is a caveat that matters more in China than it does with Uber:
+
+> **Scheduling is a match, not a reservation.** DiDi starts looking for a driver as your pickup time approaches. It does not hold a specific car for you.
+
+Advance booking windows vary by city and car tier, typically from 15–30 minutes ahead up to several days. In practice this is fine for most trips, since Shenzhen wait times run 3–7 minutes anyway.
+
+Where it is *not* fine: a pre-dawn flight, a train you cannot miss, a lot of luggage, or a public holiday. In those cases a pre-booked private transfer is the safer call, because a scheduled DiDi that finds no driver leaves you with no car and no plan.
+
+## Arriving from Hong Kong
+
+DiDi does not operate across the border, so there is no such thing as a car from Hong Kong to Shenzhen. The sequence is: cross on foot at a checkpoint, then book once you are on the Shenzhen side.
+
+Each land checkpoint has a designated ride-hailing pickup area, separate from the taxi rank, and the app will direct you to it once you book.
+
+**The thing that catches people out is data, not transport.** Your Hong Kong SIM or roaming plan frequently stops behaving the moment you cross, and the DiDi app needs a connection to book, track, and message your driver. Sort out connectivity *before* you cross, not after. Full details on the crossings themselves are in the [Hong Kong to Shenzhen guide](/guides/hong-kong-to-shenzhen).
+
 ## Communicating with Your Driver
 
 Most Shenzhen DiDi drivers don't speak English. This is rarely a problem.
@@ -76,6 +106,24 @@ Most Shenzhen DiDi drivers don't speak English. This is rarely a problem.
 **Share your trip.** Under the trip details screen there's a "Share trip" feature that sends your live location and ETA to someone else. Worth using if you're traveling alone at night.
 
 **Rate your driver.** The rating system works like most ride-hailing apps. Honest ratings help maintain quality.
+
+## Is DiDi Safe?
+
+This comes up a lot, largely because of incidents in 2018 that pushed DiDi into rebuilding its safety system. The short answer for a visitor in Shenzhen today is yes, and the specifics are worth knowing before you are sitting in the car.
+
+- **One-tap emergency button** in the app, connected directly to the police (110).
+- **Every trip is audio recorded.** This is compulsory, not optional, and you cannot use the service without agreeing to it. Recordings are encrypted and automatically deleted after seven days if there is no dispute. Better to know this now than to wonder about it mid-ride.
+- **Share trip** sends your live route, driver details and ETA to a contact of your choice. Worth using at night.
+- **Drivers and vehicles are verified** against real ID and registration, and the platform flags significant deviations from the expected route.
+- **24/7 customer support in English** through the app.
+
+The ordinary advice still applies, and it is the same advice as anywhere: check the licence plate against the app before you get in, and sit in the back.
+
+## Getting a Receipt
+
+Open the completed trip under your trip history and the receipt is available there, showing the route, time and fare. This is enough for most expense claims.
+
+If you need a Chinese **fapiao** (发票), the official tax invoice that Chinese companies require for reimbursement, that is a separate request inside the app and the process differs between the domestic and international versions. If you are travelling on business and your employer needs a fapiao specifically, check this before you rely on it.
 
 ## DiDi vs. Taxi
 
