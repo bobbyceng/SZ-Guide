@@ -51,11 +51,11 @@ The district is not one market, it is dozens of buildings, and walking into the 
 | Building | Go here for | Skip if |
 |---|---|---|
 | **SEG Electronics Market** 赛格电子市场 | Components, tools, maker parts, repair counters | You want finished consumer products |
-| **Mingtong Digital City** 明通数码城 | Accessories, cases, chargers, power banks | You were hoping to buy a used iPhone safely |
+| **Mingtong Digital City** 明通数码城 | ~~Phones~~ — converted to cosmetics in 2017, largely emptied out since 2023 | **Skip it.** Guides still calling this a phone market are out of date |
 | **Yuanwang Digital City** 远望数码城 | Security cameras, NVRs, networking gear | You are not shopping for hardware infrastructure |
 | **Huaqiang Electronic World** 华强电子世界 | Finished gadgets: smartwatches, earbuds, speakers, action cameras | You need individual components |
 
-**If you only have two hours**, Huaqiang Electronic World plus Mingtong covers what most visitors actually came for. SEG is the one worth the trip if you build things.
+**If you only have two hours**, Huaqiang Electronic World covers what most visitors actually came for. SEG is the one worth the trip if you build things.
 
 
 ![One of the major market buildings in Huaqiangbei, each specializes in different product categories](/images/guides/huaqiangbei/hqb-building-exterior.jpg)
@@ -78,13 +78,15 @@ The most famous building and the best place to start. 8 floors of components, mo
 
 ### Mingtong Digital City (明通数码城)
 
-Focus: **Smartphones, tablets, laptops, and accessories.**
+**Do not go here expecting a phone market.** It has not been one for the better part of a decade, and a surprising number of English guides still say it is.
 
-This is where you'll find phones, including second-hand iPhones, Android devices, and Chinese brands. Prices can be good, but you need to know what you're doing.
+Mingtong opened as a phone and accessories market and was, at one point, one of the largest in Southeast Asia. **In March 2017 it converted to imported cosmetics**, renamed itself Mingtong Cosmetics Market, and by 2019 the changeover was complete. It boomed around 2020–2021, when the pandemic cut off overseas duty-free shopping and buyers came here instead.
 
-**Warning on phones here:** The second-hand iPhone market is real but has risks. Phones can be refurbished with non-original parts, have iCloud locks, or have fake battery health readings. Unless you know how to verify a phone on the spot (or bring someone who does), buying a phone here is risky for tourists.
+Then it went the other way. After a regulatory crackdown in 2021 the market went quiet, counterfeit stock became the defining problem, and by **September 2023 trade press was reporting stalls abandoned and floors emptying out.**
 
-**What's safer to buy:** Accessories, phone cases, screen protectors, chargers, power banks. These are low-risk purchases.
+**What that means for you:** it is not a shopping destination for a visitor any more, in either category. Skip it unless you have a specific reason, and treat any guide that still lists it as a phone market as evidence that guide has not been updated in years.
+
+> **On second-hand phones generally** — they are sold across the district, not in one building. The risks are real: refurbished internals, iCloud locks, faked battery health. Unless you can verify a device on the spot, or have someone with you who can, this is the one category where a visitor is most likely to lose money.
 
 ---
 
@@ -212,13 +214,17 @@ Follow the in-station signs for the market rather than a specific exit letter �
 
 ## Getting from the Border to Huaqiangbei
 
-All three main arrival points are 10–30 minutes away by metro, with at most one change. Rather than memorise a route, put **Huaqiangbei station (Line 2 / Line 7)** into your maps app and follow it — but check that it is routing you to Huaqiangbei and not to Huaqiang Road on Line 1, which is the trap described above.
+All three main arrival points are 15–30 minutes away, with at most one change.
 
-| Arriving from | Roughly |
-|---|---|
-| **Lo Wu / Luohu** crossing | ~20 minutes |
-| **Futian** checkpoint | ~10 minutes, the closest crossing |
-| **Shenzhen North** (high-speed rail) | ~30 minutes, one change |
+| Arriving from | Route | Time | Fare |
+|---|---|---|---|
+| **Lo Wu / Luohu** crossing | Line 1 from Luohu → **Huaqiang Road**. No change | ~20 min | — |
+| **Futian** checkpoint | Line 4 → change at **Civic Center** (市民中心) → Line 2 → **Huaqiangbei** | ~14 min | ¥4 |
+| **Shenzhen North** (high-speed rail) | Line 4 → change at **Civic Center** → Line 2 → **Huaqiangbei** | ~23 min | ¥5 |
+
+Note what the Luohu route does: **Line 1 does not reach Huaqiangbei station.** It reaches Huaqiang Road, which is a different station about 400m away. That is fine — you walk the last stretch — but it is why the "which station" confusion above matters. From Futian and Shenzhen North, changing at Civic Center onto Line 2 puts you at Huaqiangbei itself.
+
+If you would rather not change trains at all, Line 4 → Convention & Exhibition Center (会展中心) → Line 1 → Huaqiang Road also works from both, and takes a few minutes longer.
 
 Coming over from Hong Kong for the day? The [Hong Kong to Shenzhen guide](/guides/hong-kong-to-shenzhen) compares every crossing, and Futian Checkpoint is the one that puts you closest to Huaqiangbei.
 
