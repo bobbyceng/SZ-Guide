@@ -4,7 +4,7 @@ description: "The fastest and cheapest ways from Hong Kong to Shenzhen in 2026. 
 cardBlurb: "Every crossing compared: which is fastest, what it costs, how long it takes."
 category: "Border Crossing"
 categoryIcon: "🛂"
-date: "2026-07-25"
+date: "2026-08-24"
 readingTime: "9 min read"
 featured: true
 ---
@@ -24,6 +24,17 @@ If your country isn't on the list, you'll need a Chinese tourist visa (L visa) a
 **2026 update:** China has kept expanding visa-free access, and Guangdong (the province Shenzhen is in) lets eligible travelers enter under the **240-hour visa-free transit** through multiple entry ports. If you're transiting between two international destinations, you may not need a visa at all — see our [240-hour visa-free transit guide](/guides/china-240-hour-visa-free-transit) for who qualifies and how it works.
 
 ## The 4 Most Useful Crossings
+
+At a glance, then in detail below.
+
+| Crossing | Getting there | Cost from HK | Open | Arrives at | Best for |
+|---|---|---|---|---|---|
+| **Lo Wu** 羅湖 | MTR East Rail to Lo Wu (last stop) | ~HK$45 | 06:30–24:00 | Luohu station, **Line 1** | Day trips. Busiest, so worst queues |
+| **Lok Ma Chau / Futian** 福田 | MTR East Rail to Lok Ma Chau (one stop before Lo Wu) | ~HK$45 | 06:30–22:00 | Futian station, **city centre** | Speed. Huaqiangbei, Coco Park |
+| **West Kowloon** high-speed rail | MTR to West Kowloon | HK$86 | ~07:00–22:30 | Shenzhen North, **Line 4 / Line 6** | **14 minutes.** Luggage, rain, comfort |
+| **Huanggang** 皇岗 | Bus or taxi to Huanggang Port | — | **24 hours** | — | Late-night only. Mostly freight |
+
+**The short answer for most people:** Lok Ma Chau / Futian if you are heading into the city, Lo Wu if you are only crossing for the day, high-speed rail if you have luggage. Huanggang is the one to remember at 3am.
 
 ### 1. Lo Wu (羅湖 / 罗湖), Best for day trips
 
