@@ -3,6 +3,12 @@ import { getFeaturedGuides, getAllGuides } from '@/lib/guides'
 import GuideCard from '@/components/GuideCard'
 import LeadGuideCard from '@/components/LeadGuideCard'
 
+// Canonical is declared per page rather than in the root layout, so a new
+// page can never silently inherit the homepage URL and de-index itself.
+export const metadata = {
+  alternates: { canonical: 'https://www.shenzhen-guide.com' },
+}
+
 function Icon({ d, className = '' }: { d: string; className?: string }) {
   return (
     <svg

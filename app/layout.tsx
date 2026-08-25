@@ -36,9 +36,6 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
   },
-  alternates: {
-    canonical: 'https://www.shenzhen-guide.com',
-  },
   verification: {
     google: 'w6qWZooeGxEFMPx4vOk186m-8UjlQpQBJ6jKGTQFtaw',
   },
