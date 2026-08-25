@@ -137,13 +137,14 @@ export default async function GuidePage({
             <span>·</span>
             <span>{guide.readingTime}</span>
             <span>·</span>
-            <span>
+            {/* <time> so the freshness signal is machine-readable, not just visible */}
+            <time dateTime={guide.date}>
               Updated{' '}
               {new Date(guide.date).toLocaleDateString('en-US', {
                 month: 'long',
                 year: 'numeric',
               })}
-            </span>
+            </time>
           </div>
         </div>
 
