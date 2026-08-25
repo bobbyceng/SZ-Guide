@@ -7,6 +7,17 @@ categoryIcon: "💳"
 date: "2026-07-25"
 readingTime: "8 min read"
 featured: true
+howTo:
+  name: "How to set up Alipay with a foreign credit card"
+  steps:
+    - name: "Download and register"
+      text: "Download Alipay and register with your phone number. Any country number works. Do this before you leave for China, while you still have unrestricted internet access."
+    - name: "Add your passport"
+      text: "Go to Me then My ID. Enter your full name and passport number as shown on the passport, photograph the passport main page, and take a selfie for facial recognition. Verification usually takes 1 to 5 minutes but can take up to 24 hours."
+    - name: "Link your credit card"
+      text: "Go to Me then Bank Cards then Add Card and enter your Visa or Mastercard details. JCB, Discover and Diners Club also work. American Express is not supported."
+    - name: "Pay at a merchant"
+      text: "Either scan the merchant QR code, which is most common, or tap Pay to display a barcode for the merchant to scan."
 ---
 
 Cash is dying in Shenzhen. Over 95% of merchants, from convenience stores to street food vendors to the metro, accept mobile payment as their primary method. Some won't accept cash at all.

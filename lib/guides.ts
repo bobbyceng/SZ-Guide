@@ -67,6 +67,12 @@ export interface GuideMetadata {
   date: string
   readingTime: string
   featured: boolean
+  /**
+   * Optional HowTo steps, declared per guide rather than parsed out of the
+   * markdown. Only guides that really are a single procedure get one; the
+   * steps must match the headings in the article body.
+   */
+  howTo?: { name: string; steps: { name: string; text: string }[] }
 }
 
 export interface Guide extends GuideMetadata {

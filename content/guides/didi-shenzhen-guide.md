@@ -6,6 +6,19 @@ category: "Getting Around"
 categoryIcon: "🚗"
 date: "2026-08-24"
 readingTime: "9 min read"
+howTo:
+  name: "How to book a DiDi ride in Shenzhen as a foreigner"
+  steps:
+    - name: "Open the app"
+      text: "Your current location appears on the map via GPS."
+    - name: "Set your destination"
+      text: "Type it in English. The search handles most hotels, malls, metro stations and tourist sites by name. If it does not find what you need, drop a pin directly on the map."
+    - name: "Choose Express"
+      text: "The standard Express option is regular cars at the cheapest price. Premier and Luxury tiers exist but are not necessary."
+    - name: "Confirm and wait"
+      text: "The app shows your driver approaching on a map, their estimated arrival time and the licence plate number. Wait times in Shenzhen are typically 3 to 7 minutes."
+    - name: "Verify the plate before getting in"
+      text: "Match the licence plate shown in the app to the car in front of you."
 ---
 
 DiDi is China's dominant ride-hailing app, think Uber, but it works everywhere in Shenzhen including areas the metro doesn't reach. Prices are low, cars are generally clean, and you can book without speaking any Chinese.

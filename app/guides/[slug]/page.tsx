@@ -96,12 +96,37 @@ export default async function GuidePage({
     },
   }
 
+  // HowTo, only for the guides that genuinely describe one procedure. Google
+  // retired HowTo rich results in 2023, so expect nothing in the SERP; this is
+  // here because assistants that cite step-by-step answers can read it.
+  const howToJsonLd = guide.howTo
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'HowTo',
+        name: guide.howTo.name,
+        description: guide.description,
+        step: guide.howTo.steps.map((s, i) => ({
+          '@type': 'HowToStep',
+          position: i + 1,
+          name: s.name,
+          text: s.text,
+          url: `${pageUrl}#step-${i + 1}`,
+        })),
+      }
+    : null
+
   return (
     <div className="max-w-5xl mx-auto px-4 py-10">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
+      {howToJsonLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(howToJsonLd) }}
+        />
+      )}
       <div className="max-w-2xl mx-auto">
         {/* Breadcrumb */}
         <nav className="flex items-center gap-2 text-sm text-stone-400 mb-8">

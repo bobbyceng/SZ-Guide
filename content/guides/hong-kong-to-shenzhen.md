@@ -7,6 +7,19 @@ categoryIcon: "🛂"
 date: "2026-08-24"
 readingTime: "9 min read"
 featured: true
+howTo:
+  name: "How to cross the border from Hong Kong to Shenzhen"
+  steps:
+    - name: "Queue at Hong Kong immigration"
+      text: "Show your passport, and visa if applicable, to the immigration officer and get your exit stamp. No forms are needed on the Hong Kong side."
+    - name: "Walk through"
+      text: "Follow the green signs across the bridge or corridor. Usually 3 to 5 minutes of walking."
+    - name: "China immigration and arrival card"
+      text: "Fill in the digital arrival card at s.nia.gov.cn before you arrive to save time at the kiosk, then queue for the immigration counter."
+    - name: "Biometrics"
+      text: "Fingerprints and a photo are taken on your first entry to mainland China. It takes about 30 seconds and the officer will guide you."
+    - name: "You are in Shenzhen"
+      text: "Take the escalator down to the Shenzhen metro. Signs are bilingual, follow the line colours."
 ---
 
 Shenzhen is 45 minutes from Hong Kong, but the border crossing confuses most first-time visitors. There are six crossings, they have different operating hours, and the process is different depending on your nationality and visa status.
