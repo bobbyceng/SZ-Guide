@@ -4,8 +4,8 @@ description: "Can foreigners use Alipay or WeChat Pay in Shenzhen? Yes — link 
 cardBlurb: "Link a foreign Visa or Mastercard. No Chinese bank account needed."
 category: "Payment"
 categoryIcon: "💳"
-date: "2026-07-25"
-readingTime: "8 min read"
+date: "2026-09-09"
+readingTime: "10 min read"
 featured: true
 howTo:
   name: "How to set up Alipay with a foreign credit card"
@@ -13,9 +13,9 @@ howTo:
     - name: "Download and register"
       text: "Download Alipay and register with your phone number. Any country number works. Do this before you leave for China, while you still have unrestricted internet access."
     - name: "Add your passport"
-      text: "Go to Me then My ID. Enter your full name and passport number as shown on the passport, photograph the passport main page, and take a selfie for facial recognition. Verification usually takes 1 to 5 minutes but can take up to 24 hours."
+      text: "This is mandatory and must be completed before a card can be linked. Go to Me then My ID, enter your full name and passport number exactly as shown on the passport, photograph the passport main page, and take a selfie for facial recognition. Usually clears in 1 to 5 minutes but can take up to 24 hours."
     - name: "Link your credit card"
-      text: "Go to Me then Bank Cards then Add Card and enter your Visa or Mastercard details. JCB, Discover and Diners Club also work. American Express is not supported."
+      text: "Real-name verification must clear first, or the card cannot be linked. Then go to Me, Bank Cards, Add Card and enter your card details. Visa, Mastercard, American Express, JCB, Discover, Diners Club and non-mainland UnionPay all work."
     - name: "Pay at a merchant"
       text: "Either scan the merchant QR code, which is most common, or tap Pay to display a barcode for the merchant to scan."
 ---
@@ -23,6 +23,14 @@ howTo:
 Cash is dying in Shenzhen. Over 95% of merchants, from convenience stores to street food vendors to the metro, accept mobile payment as their primary method. Some won't accept cash at all.
 
 If you arrive without Alipay or WeChat Pay set up, you'll struggle to buy food, take taxis, or even enter the metro. This is the single most important preparation step before your trip.
+
+## Cross-Border Payment in Shenzhen: What Works in 2026
+
+Two things work here, and you want the second one set up before you land.
+
+**Your physical card** now works in far more places than older guides suggest — but mostly in hotels, large retail and ATMs.
+
+**A QR payment app with your foreign card linked** is what actually gets you through a normal day: street food, taxis, the metro, convenience stores, small restaurants. This is the default outside big retail, and it is the thing worth preparing.
 
 > **2026 update:** foreign card acceptance here has improved a lot, largely because Shenzhen is preparing to host [APEC in November 2026](/guides/apec-2026-shenzhen-visitor-guide). As of mid-2026, roughly **41,000 merchants** accept overseas bank cards across about 51,000 POS terminals, **more than 40 overseas e-wallets** (PayPal, Singapore's LiquidPay and Thailand's K PLUS among them) now work for QR payments, and **over 3,600 ATMs** take foreign cards. Your physical card will work in more places than older guides suggest. QR payment is still the default outside hotels and large retail, so set up an app anyway.
 
@@ -53,7 +61,11 @@ Download Alipay from the App Store or Google Play. Open the app and register wit
 
 > **Important:** Do this before you leave for China. The registration process is smoother with unrestricted internet access.
 
-### Step 2: Add Your Passport
+### Step 2: Add Your Passport (do this first — it gates everything else)
+
+**Real-name verification is mandatory, and it has to clear before you can link a card at all.** People often try to add the card first, hit a wall, and assume their card was rejected. It wasn't; the account simply is not verified yet.
+
+It also governs your spending limits. An unverified account is capped low enough to be useless on a real trip; once a passport clears, the ceiling is far above anything a visit needs.
 
 Go to **Me → My ID** (or search "Real Name Verification"). You'll need to:
 - Enter your full name (as shown on passport)
@@ -67,14 +79,19 @@ Verification usually takes 1–5 minutes. Sometimes it takes up to 24 hours, do 
 
 Go to **Me → Bank Cards → Add Card**. Enter your Visa or Mastercard details. Alipay accepts most international credit and debit cards.
 
-**Supported cards:**
-- Visa (credit and debit)
-- Mastercard (credit and debit)
-- JCB
-- Discover
-- Diners Club
+**Supported cards** — credit or debit, issued outside mainland China:
 
-**Not supported:** American Express, UnionPay (use the Chinese version for UnionPay)
+| Network | Works? |
+|---|---|
+| **Visa** | Yes |
+| **Mastercard** | Yes |
+| **American Express** | Yes |
+| **JCB** | Yes |
+| **Discover** | Yes |
+| **Diners Club** | Yes |
+| **UnionPay** (issued outside the mainland) | Yes |
+
+If your card is on a network not listed, just try adding it. Alipay validates the number as you type and tells you immediately whether it is accepted.
 
 ![Linking your foreign credit card to Alipay](/images/guides/alipay-setup/02-link-card.jpg)
 
@@ -99,21 +116,31 @@ If you prefer WeChat or already use it for messaging:
 
 The process is similar to Alipay but requires an existing WeChat account with some history (new accounts may face restrictions).
 
-## Payment Limits and Fees
+## Is There a Fee for Paying With a Foreign Card?
 
-| Transaction | Limit | Fee |
-|-------------|-------|-----|
-| Single payment | ¥5,000 (~US$690) | 0% |
-| Daily total | ¥10,000 (~US$1,380) | 0% |
-| Monthly total | ¥50,000 (~US$6,900) | 0% |
-| ATM withdrawal | ¥2,000/day | 3% (min ¥10) |
-| Currency conversion | Automatic | Bank's rate + 1–1.5% |
+Yes, above a threshold — and a lot of guides still say there isn't.
 
-**No fees for normal purchases.** Your bank may charge foreign transaction fees (typically 1–3%), check with your card issuer before traveling.
+> **Payments of ¥200 or less: no service fee.**
+> **Payments above ¥200: a 3% service fee applies.**
+
+In practice this covers more than it sounds. Street food, coffee, metro rides, convenience stores and most single restaurant bills fall under ¥200, and those cost you nothing extra. The 3% shows up on larger things — a hotel bill, an electronics purchase, a big group dinner.
+
+**Two ways it gets cheaper:**
+
+- **UnionPay cards issued outside the mainland are exempt** from the service fee.
+- Alipay has run promotional waivers for newly bound cards — as of 2026 a new user gets the 3% waived on up to ¥1,000 of daily spending for 90 days after their first payment. Promotions change; treat any waiver as a bonus rather than something to plan around.
+
+**On top of that, your own bank may charge a foreign transaction fee**, typically 1–3%. That is between you and your card issuer and has nothing to do with Alipay. A card with no foreign transaction fees is worth using here.
+
+### Spending limits
+
+Limits depend entirely on whether real-name verification has cleared. **Before verification, the account is capped low enough to be unusable for a real trip. After verification with a passport, the ceiling is far above anything a normal visit requires.**
+
+Published figures vary between sources and Alipay adjusts them, so rather than quoting a number that may be wrong by the time you read this: **complete verification, then check the limit shown in the app under Me → Bank Cards.** That figure is the one that governs your account.
 
 ![Showing your Alipay payment code at a checkout counter](/images/guides/alipay-setup/04-show-payment-code.jpg)
 
-## What to Do When It Doesn't Work
+## Why Was My Card Declined?
 
 **"Payment failed" or "Risk control":**
 - This usually happens on first use or large transactions
