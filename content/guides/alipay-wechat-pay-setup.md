@@ -15,7 +15,7 @@ howTo:
     - name: "Add your passport"
       text: "This is mandatory and must be completed before a card can be linked. Go to Me then My ID, enter your full name and passport number exactly as shown on the passport, photograph the passport main page, and take a selfie for facial recognition. Usually clears in 1 to 5 minutes but can take up to 24 hours."
     - name: "Link your credit card"
-      text: "Real-name verification must clear first, or the card cannot be linked. Then go to Me, Bank Cards, Add Card and enter your card details. Visa, Mastercard, American Express, JCB, Discover, Diners Club and non-mainland UnionPay all work."
+      text: "Real-name verification must clear first, or the card cannot be linked. Then go to Me, Bank Cards, Add Card and enter your card details. Visa, Mastercard, JCB, Discover, Diners Club and non-mainland UnionPay all work. American Express works only for cards issued directly by American Express, not by its partner banks."
     - name: "Pay at a merchant"
       text: "Either scan the merchant QR code, which is most common, or tap Pay to display a barcode for the merchant to scan."
 ---
@@ -85,13 +85,19 @@ Go to **Me → Bank Cards → Add Card**. Enter your Visa or Mastercard details.
 |---|---|
 | **Visa** | Yes |
 | **Mastercard** | Yes |
-| **American Express** | Yes |
+| **American Express** | Yes, **with a catch** — see below |
 | **JCB** | Yes |
 | **Discover** | Yes |
 | **Diners Club** | Yes |
 | **UnionPay** (issued outside the mainland) | Yes |
 
 If your card is on a network not listed, just try adding it. Alipay validates the number as you type and tells you immediately whether it is accepted.
+
+> **The American Express catch.** Amex only became bindable in **February 2025**, and support does not cover the whole network: **cards issued by Amex's partner banks rather than by American Express itself are not supported.** In a number of countries the local Amex is a partner-issued card, so "I have an Amex" does not settle the question. Test it before you fly.
+>
+> **UnionPay** here means a UnionPay card **issued outside mainland China**. A mainland-issued card is a different thing entirely and is not what this guide is about.
+
+**Whichever network you hold, bring a second card.** Issuer-side approval varies between banks even on supported networks, and finding out at a noodle stall is not the moment. A Visa or Mastercard as backup costs nothing to carry.
 
 ![Linking your foreign credit card to Alipay](/images/guides/alipay-setup/02-link-card.jpg)
 
