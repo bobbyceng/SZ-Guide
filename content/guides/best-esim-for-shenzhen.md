@@ -4,7 +4,7 @@ description: "How to choose and install an eSIM for Shenzhen so Google, WhatsApp
 cardBlurb: "Keep Google, WhatsApp and Instagram working. No VPN required."
 category: "Connectivity"
 categoryIcon: "📶"
-date: "2026-08-20"
+date: "2026-09-09"
 readingTime: "10 min read"
 featured: true
 ---
@@ -19,9 +19,10 @@ When you cross into mainland China, Google Maps stops working. So does WhatsApp,
 
 | Your situation | Recommended | Price | Notes |
 |---------------|-------------|-------|-------|
-| 1–3 day trip | Airalo | From $5 | Cheapest of the three |
-| 4–7 days typical use | Nomad | From $9 | Best results in published China testing |
-| Working off a laptop | Airalo | From $5 | Reliably allows hotspot tethering |
+| Cheapest option | **Saily** | From $4.49 | Lowest price here, and longer validity per plan |
+| 1–3 day trip | Airalo | From $5 | Longest budget track record in China |
+| 4–7 days typical use | Nomad | From $9 | Strongest published China testing |
+| Working off a laptop | **Saily** or Airalo | From $4.49 | Both allow tethering; Saily's is unmetered |
 | Heavy data user | Holafly | From $27 | Unlimited, but check the tethering limits below |
 
 ---
@@ -55,7 +56,7 @@ The ones that *don't* work are eSIMs that assign you a domestic Chinese IP. Thos
 
 ---
 
-## The Three Best Options
+## The Four Best Options
 
 ### Nomad, Best Overall
 
@@ -69,6 +70,27 @@ Nomad routes through a Singapore exit gateway, which is the reason it tends to s
 Their APAC plan covers China plus Hong Kong, which is genuinely useful if you're crossing back and forth.
 
 [Buy Nomad eSIM →](https://www.getnomad.app)
+
+---
+
+### Saily, Best Value
+
+**Price (from Saily's own site, checked 9 September 2026):** US$4.49 for 1GB / 7 days · US$10.99 for 3GB / 30 days · US$15.99 for 5GB / 30 days · US$26.99 for 10GB / 30 days · US$49.99 unlimited (5–30 days, your choice of window)
+**Best for:** anyone comparing on price, and anyone who needs to tether
+
+Saily is the newest of the four, launched in 2023 by **Nord Security** — the company behind NordVPN. That lineage is the reason it gets taken seriously despite being new.
+
+**On price it is simply the cheapest here**, and the gap is wider than the headline suggests: its 3GB and 5GB plans run **30 days**, where Airalo's comparable plans run 15. Plans also carry a 180-day activation window, so buying early costs you nothing.
+
+**Published China testing is strong.** Testing across Beijing, Shenzhen and Shanghai over a 14-day period in 2026 reported WhatsApp, Google Search and Netflix all working without a VPN, 5G held consistently with only occasional drops to LTE, and **unlimited tethering** — one plan covering a group. [Gizmodo ranks it first for China](https://gizmodo.com/best-esim-provider/china).
+
+> **Saily's own warning, quoted from their China page:** *"Due to local restrictions, access to the Saily app may be limited in China."*
+>
+> Read that carefully. The **data** works; the **app** may not open once you are inside the country. So buy the plan, install the profile and confirm it works **before you fly** — if you need the app to fix something after you land, you may not be able to reach it. This is the same trap covered below, but here the provider says it themselves.
+
+**Why it isn't ranked first here:** it is the newest provider of the four and has the thinnest track record in China specifically. The price and the published tests are both real; there is simply less accumulated evidence than for Nomad or Airalo. If price is your deciding factor, this is the one.
+
+[Saily China plans →](https://saily.com/esim-china/)
 
 ---
 
@@ -103,17 +125,18 @@ If you're going to be on Maps and video constantly, the unlimited plan removes t
 
 ### Side-by-Side Comparison
 
-| Feature | Nomad | Airalo | Holafly |
-|---------|-------|--------|---------|
-| Starting price | $9 / 3GB / 15d | $5 / 1GB / 7d | $27 / unlimited / 7d |
-| Recommended plan | $15 / 5GB / 30d | $10 / 3GB / 15d | $27 / unlimited / 7d |
-| **Laptop tethering** | Generally yes | **Yes** | **Mostly no; ~1GB/day where allowed** |
-| Data cap | By plan | By plan | Unlimited, but throttled at an undisclosed point |
-| Google / WhatsApp | ✓ | ✓ | ✓ |
-| Multi-country APAC | ✓ | ✓ | China only |
-| Top-up in app | ✓ | ✓ | ✓ |
+| Feature | Nomad | Saily | Airalo | Holafly |
+|---------|-------|-------|--------|---------|
+| Starting price | $9 / 3GB / 15d | **$4.49 / 1GB / 7d** | $5 / 1GB / 7d | $27 / unlimited / 7d |
+| Recommended plan | $15 / 5GB / 30d | **$10.99 / 3GB / 30d** | $10 / 3GB / 15d | $27 / unlimited / 7d |
+| **Laptop tethering** | Generally yes | **Yes, unlimited** | **Yes** | **Mostly no; ~1GB/day where allowed** |
+| Data cap | By plan | By plan (unlimited option $49.99) | By plan | Unlimited, but throttled at an undisclosed point |
+| Google / WhatsApp | ✓ | ✓ | ✓ | ✓ |
+| Multi-country APAC | ✓ | 200+ destinations | ✓ | China only |
+| Top-up in app | ✓ | ✓ (app may not open in China) | ✓ | ✓ |
+| Track record in China | Longest | **Newest** | Long | Long |
 
-I've dropped the "network speed" row that used to be here. All three run 4G/LTE and the real-world difference depends far more on where you are standing than on which logo is on the plan, so a one-word rating in a table was more confident than the evidence supports.
+I've dropped the "network speed" row that used to be here. All four run 4G/LTE and the real-world difference depends far more on where you are standing than on which logo is on the plan, so a one-word rating in a table was more confident than the evidence supports.
 
 ---
 
