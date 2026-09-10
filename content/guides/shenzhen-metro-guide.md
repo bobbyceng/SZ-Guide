@@ -69,13 +69,15 @@ Yes, at every station, every time. This surprises almost every first-time visito
 
 Shenzhen has eighteen lines. You will realistically use about four.
 
-### Line 1, Luobao Line (Red)
+Line numbers below are shown in their real colour, matching the station signage and the network map, so you can match what you read here to what you are standing in front of.
+
+### Line 1, the Luobao Line
 
 Runs east-west across the city. The most useful line for tourists coming from the Lo Wu border crossing.
 
 Key stops: **Luohu** (Lo Wu border) → Laojie (old city center) → Huaqianglu → **Window of the World** → Shenzhen University
 
-### Line 4, Longhua Line (Blue)
+### Line 4, the Longhua Line
 
 Runs north-south through the central business district. Connects the Futian Port border crossing with the city center.
 
@@ -97,7 +99,7 @@ From **Shenzhen Bao'an Airport** into the city. Connects to the wider network at
 >
 > If you are coming from the airport with suitcases during rush hour, it is worth it. If you walk onto the business carriage without doing the second tap, that is fare evasion rather than a lucky upgrade.
 
-### Line 2 / Line 8 (Green)
+### Line 2 / Line 8
 
 Runs along the northern side of Futian. Easy to overlook, but it's the line that serves **Xiangmi Lake**, where the [APEC 2026 venue](/guides/apec-2026-shenzhen-visitor-guide) sits. Note that **Xiangmi station (Line 2/8) and Xiangmihu station (Line 1) are different places** despite the near-identical names, which catches people out.
 

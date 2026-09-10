@@ -4,6 +4,7 @@ import matter from 'gray-matter'
 import { remark } from 'remark'
 import html from 'remark-html'
 import gfm from 'remark-gfm'
+import { annotateMetroLines } from './metro-lines'
 
 const guidesDirectory = path.join(process.cwd(), 'content/guides')
 
@@ -148,7 +149,7 @@ export async function getGuideBySlug(slug: string): Promise<Guide> {
   const fileContents = fs.readFileSync(fullPath, 'utf8')
   const { data, content } = matter(fileContents)
   const processed = await remark().use(gfm).use(html, { sanitize: false }).process(content)
-  return { slug, contentHtml: annotateExternalLinks(processed.toString()), ...data } as Guide
+  return { slug, contentHtml: annotateMetroLines(annotateExternalLinks(processed.toString())), ...data } as Guide
 }
 
 export function getAllGuideSlugs(): string[] {
