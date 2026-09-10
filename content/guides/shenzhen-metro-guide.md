@@ -16,9 +16,11 @@ The one thing that confuses most foreigners is payment. This guide handles that 
 
 ### Option 1: Contactless Bank Card (Easiest)
 
-Shenzhen metro accepts contactless Visa and Mastercard directly. Tap at the entry gate, tap again at exit, and the fare is worked out by distance, typically ¥2–10.
+Shenzhen metro takes contactless foreign cards directly. Tap at the entry gate, tap again at exit, and the fare is worked out by distance, typically ¥2–10.
 
-**But not at every gate, and this is where people get stuck.** Only designated international-card turnstiles accept a foreign card. They are marked with a Visa/Mastercard logo and there are usually **only one or two per gate line, normally at the far ends of the row**. Tapping a foreign card at an ordinary gate simply does not open it, and the queue behind you will not understand why.
+**Which cards.** The reader accepts more than most guides list — **Visa, Mastercard, American Express and JCB**, alongside the domestic options (UnionPay, China T-Union, and digital yuan / e-CNY). If you have been told Amex won't work on the metro, that is out of date.
+
+**But not at every gate, and this is where people get stuck.** Only designated turnstiles take an international card. Look for a **separate black reader module stuck onto the gate**, with the card logos printed on it and "请刷卡 / Tap Here" underneath — that module is what you are looking for, not the gate itself. There are usually **only one or two per gate line, normally at the far ends of the row**. Tapping a foreign card at an ordinary gate simply does not open it, and the queue behind you will not understand why.
 
 Expect roughly a **3% surcharge** on top of the fare. No app, no top-up, no local SIM. If your card is contactless and you can find the right gate, this is the least friction available.
 
