@@ -4,8 +4,8 @@ description: "The fastest and cheapest ways from Hong Kong to Shenzhen in 2026. 
 cardBlurb: "Every crossing compared: which is fastest, what it costs, how long it takes."
 category: "Border Crossing"
 categoryIcon: "🛂"
-date: "2026-08-24"
-readingTime: "9 min read"
+date: "2026-09-10"
+readingTime: "10 min read"
 featured: true
 howTo:
   name: "How to cross the border from Hong Kong to Shenzhen"
@@ -36,18 +36,19 @@ If your country isn't on the list, you'll need a Chinese tourist visa (L visa) a
 
 **2026 update:** China has kept expanding visa-free access, and Guangdong (the province Shenzhen is in) lets eligible travelers enter under the **240-hour visa-free transit** through multiple entry ports. If you're transiting between two international destinations, you may not need a visa at all — see our [240-hour visa-free transit guide](/guides/china-240-hour-visa-free-transit) for who qualifies and how it works.
 
-## The 4 Most Useful Crossings
+## The 5 Most Useful Crossings
 
 At a glance, then in detail below.
 
 | Crossing | Getting there | Cost from HK | Open | Arrives at | Best for |
 |---|---|---|---|---|---|
 | **Lo Wu** 羅湖 | MTR East Rail to Lo Wu (last stop) | ~HK$45 | 06:30–24:00 | Luohu station, **Line 1** | Day trips. Busiest, so worst queues |
-| **Lok Ma Chau / Futian** 福田 | MTR East Rail to Lok Ma Chau (one stop before Lo Wu) | ~HK$45 | 06:30–22:00 | Futian station, **city centre** | Speed. Huaqiangbei, Coco Park |
+| **Lok Ma Chau / Futian** 福田 | MTR East Rail to Lok Ma Chau (one stop before Lo Wu) | ~HK$45 | 06:30–22:30 | Futian station, **city centre** | Speed. Huaqiangbei, Coco Park |
 | **West Kowloon** high-speed rail | MTR to West Kowloon | HK$86 | ~07:00–22:30 | Shenzhen North, **Line 4 / Line 6** | **14 minutes.** Luggage, rain, comfort |
-| **Huanggang** 皇岗 | Bus or taxi to Huanggang Port | — | **24 hours** | — | Late-night only. Mostly freight |
+| **Shenzhen Bay** 深圳湾 | Cross-border coach from Hong Kong | varies | 06:30–24:00 | **Line 13** (since Dec 2024) | Heading to Nanshan, or flying out of **SZX** |
+| **Huanggang** 皇岗 | Bus or taxi to Huanggang Port | — | **24 hours** | — | The only crossing open overnight |
 
-**The short answer for most people:** Lok Ma Chau / Futian if you are heading into the city, Lo Wu if you are only crossing for the day, high-speed rail if you have luggage. Huanggang is the one to remember at 3am.
+**The short answer for most people:** Lok Ma Chau / Futian if you are heading into the city, Lo Wu if you are only crossing for the day, high-speed rail if you have luggage. Shenzhen Bay if you are going to Nanshan or flying out of Shenzhen. Huanggang is the one to remember at 3am.
 
 ### 1. Lo Wu (羅湖 / 罗湖), Best for day trips
 
@@ -71,7 +72,7 @@ At a glance, then in detail below.
 
 **Cross to:** Futian Checkpoint (福田口岸), which connects directly to **Futian Station** on the Shenzhen metro.
 
-**Border hours:** 06:30 – 22:00
+**Border hours:** 06:30 – 22:30
 
 **Why use this over Lo Wu:** Often shorter queues than Lo Wu, and Futian Station puts you directly in the city center (Futian CBD). Good choice if you're heading to the Huaqiangbei electronics area or Coco Park.
 
@@ -97,13 +98,34 @@ At a glance, then in detail below.
 
 ---
 
-### 4. Huanggang (皇岗), 24-hour crossing for emergencies
+### 4. Shenzhen Bay (深圳湾), Best for Nanshan and for flying out of Shenzhen
 
-**How to get there:** By bus or taxi to Huanggang Port.
+**How to get there:** cross-border coach from various points in Hong Kong, including the airport. Unlike Lo Wu and Lok Ma Chau this is not an MTR crossing.
 
-**Border hours:** 24 hours (only vehicle crossing that's 24/7)
+**Border hours:** 06:30 – 24:00
 
-**Best for:** Late-night crossings. Not convenient for most tourists, primarily used by truck drivers and cargo. But if you're stuck at 3am, this is your option.
+**What changed here, and most guides have not caught up:** the Shenzhen side is now on the metro. **Line 13 terminates at Shenzhen Bay Port**, and has done since December 2024. Older guides still describe this crossing as bus-only on the Shenzhen side, which was true until then and isn't now.
+
+**Best for:** anyone heading into Nanshan (tech district, Sea World, Shenzhen Bay Park), and — the case people rarely plan for — **anyone flying out of Shenzhen Bao'an (SZX) rather than Hong Kong**. Shenzhen's airport is often cheaper for domestic Chinese routes and serves destinations Hong Kong doesn't. From here it is Line 13 plus one change onto Line 11, which runs to the airport. Check the interchange in your maps app rather than memorising it.
+
+---
+
+### 5. Huanggang (皇岗), the only crossing open overnight
+
+**Border hours: 24 hours.** It is the only one, which is the entire reason to know it exists.
+
+**How to get there:** bus or taxi to Huanggang Port. No MTR on the Hong Kong side.
+
+**Quietest window:** roughly **01:00–05:00**. If you have ever queued 90 minutes at Lo Wu on a Saturday, crossing at 3am is a different experience entirely.
+
+> ⚠️ **The trap: the border is open all night, the transport isn't.**
+>
+> People plan a 4am crossing to catch an early flight and assume they can get onward from there. Going **towards Hong Kong Airport**, the bus from Huanggang runs roughly **05:20 to 23:00**, every 20–30 minutes, and takes about **50 minutes**. So the earliest realistic arrival at HKIA by bus is around **06:10** — if your flight is at 06:00, no amount of crossing early fixes that.
+>
+> For anything earlier than that you are looking at a taxi or a shared van from the Hong Kong side, or crossing the night before and staying near the airport. **Check the onward leg before you plan the crossing time**, not the other way round.
+
+**Best for:** genuinely late or early movements. Not convenient for ordinary daytime trips, and heavily used by freight.
+
 
 ---
 
