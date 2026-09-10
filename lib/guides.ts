@@ -55,6 +55,40 @@ function annotateExternalLinks(html: string): string {
   })
 }
 
+export type Stage = 'apec' | 'before' | 'arriving' | 'here'
+
+/**
+ * Ordered deliberately. APEC first because it has a date attached and expires;
+ * then the things that cannot be fixed after landing; then arrival; then the
+ * city itself.
+ */
+export const STAGES: { key: Stage; title: string; blurb: string }[] = [
+  {
+    key: 'apec',
+    title: 'APEC 2026',
+    blurb: 'Shenzhen hosts the Leaders\u2019 Meeting on 18\u201319 November. Updated as official details land.',
+  },
+  {
+    key: 'before',
+    title: 'Sort this out before you fly',
+    blurb: 'None of these can be fixed once you have landed \u2014 the sites you would need are blocked from inside China.',
+  },
+  {
+    key: 'arriving',
+    title: 'Getting here, and where to stay',
+    blurb: 'Which border crossing, and which part of the city to base yourself in.',
+  },
+  {
+    key: 'here',
+    title: 'Once you are here',
+    blurb: 'Moving around the city, and what is worth your time.',
+  },
+]
+
+export function getGuidesByStage(stage: Stage): GuideMetadata[] {
+  return getAllGuides().filter((g) => g.stage === stage)
+}
+
 export interface GuideMetadata {
   slug: string
   title: string
@@ -64,6 +98,12 @@ export interface GuideMetadata {
   cardBlurb?: string
   category: string
   categoryIcon: string
+  /**
+   * Which point in a trip this guide is for. Grouping by stage rather than by
+   * topic, because a reader arrives with a situation ("I land tomorrow and my
+   * card doesn't work") rather than a category ("Payment").
+   */
+  stage?: Stage
   /** First published. Never changes — this is what the card shows. */
   date: string
   /** Last meaningful edit, if any. Shown on the article, not on the card. */

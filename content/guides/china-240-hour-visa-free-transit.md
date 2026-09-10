@@ -3,6 +3,7 @@ title: "China's 240-Hour Visa-Free Transit: How to Visit Shenzhen Without a Full
 description: "A complete guide to China's 240-hour visa-free transit policy, who qualifies, how it works at the border, what you can do in Shenzhen, and common mistakes to avoid."
 cardBlurb: "Ten days in mainland China without a visa, if you qualify."
 category: "Visa & Transit"
+stage: "before"
 categoryIcon: "✈️"
 date: "2026-05-15"
 updated: "2026-08-18"

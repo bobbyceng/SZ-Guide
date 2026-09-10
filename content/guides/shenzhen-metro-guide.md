@@ -3,6 +3,7 @@ title: "Shenzhen Metro Guide for Foreigners (2026): Payment, Lines, and Key Stat
 description: "How to use the Shenzhen metro as a foreigner, paying without a local bank account, key lines for tourists, important stations, and tips that save time on the ground."
 cardBlurb: "Pay with your phone, not a ticket machine. The lines that matter."
 category: "Getting Around"
+stage: "here"
 categoryIcon: "🚇"
 date: "2026-05-15"
 updated: "2026-09-10"
