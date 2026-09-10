@@ -1,4 +1,4 @@
-import { getAllGuides, STAGES } from '@/lib/guides'
+import { getAllGuides, getAllCategories, STAGES } from '@/lib/guides'
 import GuideCard from '@/components/GuideCard'
 import Link from 'next/link'
 
@@ -8,11 +8,6 @@ export const metadata = {
   alternates: { canonical: 'https://www.shenzhen-guide.com/guides' },
 }
 
-const ALL_CATEGORIES = [
-  'Border Crossing', 'Electronics', 'Connectivity', 'Payment',
-  'Getting Around', 'Accommodation', 'Visa & Transit',
-]
-
 export default async function GuidesPage({
   searchParams,
 }: {
@@ -21,9 +16,10 @@ export default async function GuidesPage({
   const { category } = await searchParams
   const all = getAllGuides()
 
-  // Category filtering stays because the nav and footer link into it. Without a
-  // category the page groups by stage instead, so a reader lands on structure
-  // rather than on eleven identical cards.
+  // Trip stage is the primary view. Category filtering still works because the
+  // footer links into it, but its controls only appear once you are actually
+  // filtering — in the default view they competed with the group headings for
+  // attention while duplicating links the footer already carries.
   const filtered = category ? all.filter((g) => g.category === category) : null
 
   return (
@@ -42,34 +38,30 @@ export default async function GuidesPage({
         </p>
       </div>
 
-      <div className="flex flex-wrap gap-2 mb-10">
-        <Link
-          href="/guides"
-          className={`px-3 py-1.5 rounded-full text-xs font-semibold border transition-colors ${
-            !category
-              ? 'bg-stone-900 text-white border-stone-900'
-              : 'bg-white text-stone-600 border-stone-200 hover:border-amber-400 hover:text-amber-700'
-          }`}
-        >
-          All
-        </Link>
-        {ALL_CATEGORIES.map((cat) => (
-          <Link
-            key={cat}
-            href={`/guides?category=${encodeURIComponent(cat)}`}
-            className={`px-3 py-1.5 rounded-full text-xs font-semibold border transition-colors ${
-              category === cat
-                ? 'bg-stone-900 text-white border-stone-900'
-                : 'bg-white text-stone-600 border-stone-200 hover:border-amber-400 hover:text-amber-700'
-            }`}
-          >
-            {cat}
-          </Link>
-        ))}
-      </div>
-
       {filtered ? (
         <>
+          <div className="flex flex-wrap items-center gap-2 mb-10">
+            <Link
+              href="/guides"
+              className="px-3 py-1.5 rounded-full text-xs font-semibold border bg-white text-stone-600 border-stone-200 hover:border-amber-400 hover:text-amber-700 transition-colors"
+            >
+              ← All guides
+            </Link>
+            {getAllCategories().map((cat) => (
+              <Link
+                key={cat}
+                href={`/guides?category=${encodeURIComponent(cat)}`}
+                className={`px-3 py-1.5 rounded-full text-xs font-semibold border transition-colors ${
+                  category === cat
+                    ? 'bg-stone-900 text-white border-stone-900'
+                    : 'bg-white text-stone-600 border-stone-200 hover:border-amber-400 hover:text-amber-700'
+                }`}
+              >
+                {cat}
+              </Link>
+            ))}
+          </div>
+
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
             {filtered.map((guide) => (
               <GuideCard key={guide.slug} guide={guide} />
@@ -94,7 +86,9 @@ export default async function GuidesPage({
             const isEvent = stage.key === 'apec'
 
             return (
-              <section key={stage.key}>
+              // The id is what the header's stage links land on. scroll-mt
+              // clears the sticky header so the heading is not hidden under it.
+              <section key={stage.key} id={stage.key} className="scroll-mt-28">
                 <div className="mb-5 pb-3 border-b border-stone-200">
                   <h2
                     className={`text-xl font-bold mb-1 ${isEvent ? 'text-amber-700' : 'text-stone-900'}`}
@@ -105,7 +99,17 @@ export default async function GuidesPage({
                   </h2>
                   <p className="text-sm text-stone-500 max-w-2xl">{stage.blurb}</p>
                 </div>
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+                {/* Column count follows the group, never a hardcoded slug: the
+                    dated event group stays wide, and any group too small to
+                    fill three columns uses two rather than leaving a hole in
+                    the row. Both rules keep working as guides are added, and
+                    deleting the APEC stage after November touches nothing
+                    else. */}
+                <div
+                  className={`grid grid-cols-1 md:grid-cols-2 gap-5 ${
+                    isEvent || guides.length < 3 ? '' : 'lg:grid-cols-3'
+                  }`}
+                >
                   {guides.map((guide) => (
                     <GuideCard key={guide.slug} guide={guide} />
                   ))}

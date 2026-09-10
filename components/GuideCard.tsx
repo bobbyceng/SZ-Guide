@@ -14,7 +14,7 @@ export default function GuideCard({ guide }: { guide: GuideMetadata }) {
   return (
     <Link
       href={`/guides/${guide.slug}`}
-      className="block group rounded-xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2"
+      className="block group h-full rounded-xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-500 focus-visible:ring-offset-2"
     >
       {/*
         Deliberately plain. This card used to carry an eighteen-colour category
@@ -25,7 +25,7 @@ export default function GuideCard({ guide }: { guide: GuideMetadata }) {
         to hover and a title that changes colour — enough to show the card is
         interactive, and nothing more.
       */}
-      <article className="bg-white rounded-xl p-5 h-full border border-stone-200 transition-colors duration-150 group-hover:border-stone-400">
+      <article className="bg-white rounded-xl p-5 h-full flex flex-col border border-stone-200 transition-colors duration-150 group-hover:border-stone-400">
         <p className="text-[11px] font-medium uppercase tracking-wider text-stone-400 mb-2.5">
           {guide.category}
         </p>
@@ -37,11 +37,14 @@ export default function GuideCard({ guide }: { guide: GuideMetadata }) {
           {guide.title}
         </h3>
 
-        <p className="text-sm text-stone-500 leading-relaxed line-clamp-2 mb-4">
+        <p className="text-sm text-stone-500 leading-relaxed line-clamp-2">
           {guide.cardBlurb ?? guide.description}
         </p>
 
-        <div className="flex items-center gap-2 text-xs text-stone-400">
+        {/* mt-auto pins the meta row to the bottom of the card, so a title that
+            wraps to three lines no longer pushes its own date out of line with
+            the cards beside it. */}
+        <div className="mt-auto pt-4 flex items-center gap-2 text-xs text-stone-400">
           <span>{guide.readingTime}</span>
           <span aria-hidden="true">·</span>
           {/* The card shows when it was published. A recent edit gets its own

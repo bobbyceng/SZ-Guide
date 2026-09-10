@@ -1,12 +1,5 @@
 import Link from 'next/link'
-
-const categories = [
-  { label: 'Border Crossing', href: '/guides?category=Border+Crossing' },
-  { label: 'Electronics', href: '/guides?category=Electronics' },
-  { label: 'Payment', href: '/guides?category=Payment' },
-  { label: 'Getting Around', href: '/guides?category=Getting+Around' },
-  { label: 'Accommodation', href: '/guides?category=Accommodation' },
-]
+import { STAGES } from '@/lib/guides'
 
 const linkBase =
   'text-sm font-medium text-stone-500 hover:text-white transition-colors ' +
@@ -47,16 +40,21 @@ export default function Nav() {
           </nav>
         </div>
 
-        {/* Category row scrolls horizontally instead of disappearing on narrow
-            screens. No JS, no drawer to open — the links stay reachable. */}
+        {/* Trip stage, the site's only navigation axis. This row used to list
+            categories, which meant the header taught one vocabulary and the
+            page it linked to used another. Each link lands on the matching
+            group heading on the listing page.
+
+            Scrolls horizontally instead of disappearing on narrow screens. No
+            JS, no drawer to open — the links stay reachable. */}
         <div className="flex items-center gap-1 pb-2.5 overflow-x-auto [scrollbar-width:none] [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden">
-          {categories.map((cat) => (
+          {STAGES.map((stage) => (
             <Link
-              key={cat.label}
-              href={cat.href}
+              key={stage.key}
+              href={`/guides#${stage.key}`}
               className="text-xs text-stone-500 hover:text-amber-400 hover:bg-white/5 px-3 py-1.5 rounded-full transition-colors whitespace-nowrap flex-shrink-0 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-400"
             >
-              {cat.label}
+              {stage.short}
             </Link>
           ))}
         </div>

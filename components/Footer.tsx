@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { getAllCategories } from '@/lib/guides'
 
 export default function Footer() {
   return (
@@ -42,7 +43,7 @@ export default function Footer() {
           <div>
             <h4 className="text-xs font-semibold text-stone-500 uppercase tracking-wider mb-4">Categories</h4>
             <ul className="space-y-2.5">
-              {['Border Crossing', 'Electronics', 'Payment', 'Getting Around', 'Accommodation'].map((cat) => (
+              {getAllCategories().map((cat) => (
                 <li key={cat}>
                   <Link
                     href={`/guides?category=${encodeURIComponent(cat)}`}

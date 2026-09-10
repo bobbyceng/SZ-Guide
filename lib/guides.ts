@@ -90,28 +90,52 @@ export type Stage = 'apec' | 'before' | 'arriving' | 'here'
  * then the things that cannot be fixed after landing; then arrival; then the
  * city itself.
  */
-export const STAGES: { key: Stage; title: string; blurb: string }[] = [
+/**
+ * The trip stage is the site's only navigation axis. `title` heads the group on
+ * the listing page; `short` is the same idea compressed for the nav bar, so the
+ * header and the page it links to name things identically.
+ */
+export const STAGES: { key: Stage; title: string; short: string; blurb: string }[] = [
   {
     key: 'apec',
     title: 'APEC 2026',
+    short: 'APEC 2026',
     blurb: 'Shenzhen hosts the Leaders\u2019 Meeting on 18\u201319 November. Updated as official details land.',
   },
   {
     key: 'before',
     title: 'Sort this out before you fly',
+    short: 'Before you fly',
     blurb: 'None of these can be fixed once you have landed \u2014 the sites you would need are blocked from inside China.',
   },
   {
     key: 'arriving',
     title: 'Getting here, and where to stay',
+    short: 'Getting here',
     blurb: 'Which border crossing, and which part of the city to base yourself in.',
   },
   {
     key: 'here',
     title: 'Once you are here',
+    short: 'Once you are here',
     blurb: 'Moving around the city, and what is worth your time.',
   },
 ]
+
+/**
+ * Every category that actually has a guide in it, in reading order.
+ *
+ * This used to be hand-maintained in four places — the nav, the footer, the
+ * homepage and the listing filter — which had drifted into four different
+ * lists, none of them complete: "Planning" held two guides and appeared in
+ * none of them, so neither was reachable by category. Deriving the list from
+ * the content makes that impossible to repeat.
+ */
+export function getAllCategories(): string[] {
+  const seen = new Set<string>()
+  for (const guide of getAllGuides()) seen.add(guide.category)
+  return [...seen].sort()
+}
 
 export function getGuidesByStage(stage: Stage): GuideMetadata[] {
   return getAllGuides().filter((g) => g.stage === stage)
