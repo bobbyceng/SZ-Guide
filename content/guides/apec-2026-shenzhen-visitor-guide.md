@@ -4,7 +4,7 @@ description: "Shenzhen hosts the APEC Economic Leaders' Meeting on November 18-1
 cardBlurb: "Venue, dates, entry rules, and how to get in from Hong Kong."
 category: "Planning"
 categoryIcon: "🌏"
-date: "2026-08-19"
+date: "2026-09-10"
 readingTime: "10 min read"
 featured: true
 ---
@@ -37,6 +37,22 @@ The complex covers 18 hectares with around 470,000m² of floor area, including a
 **Practical consequence:** Xiangmi Lake sits in Futian but away from the CBD, on **Line 2 / Line 8** rather than the Line 1 and Line 3 corridor most visitors use. If proximity to the venue matters to you, check which metro line your hotel is actually on, not just which district it's in. Expect security measures and traffic management in the area during the meeting, and expect CBD hotels to price up and fill early. If your dates are flexible, book well before October.
 
 **And the honest caveat:** the Leaders' Meeting itself is not a public event. Unless you're part of a delegation, media, or attending an associated business programme, you won't be going inside. For most visitors the practical question isn't "how do I get to the venue" but "I'm in Shenzhen that week, what changes for me" — which is what the rest of this guide covers.
+
+## Can I Attend? The CEO Summit Is the Part That's Open to Business
+
+The Leaders' Meeting itself is not open to the public. **The APEC CEO Summit, held alongside it, is** — and as of **10 September 2026 pre-registration is open**.
+
+- **Who runs it:** the China Council for the Promotion of International Trade (CCPIT)
+- **Pre-registration deadline: 17 September 2026**
+- **Expected attendance:** around 1,000 — APEC economy leaders and government representatives, heads of international organisations, ABAC members, corporate executives, trade and investment promotion agencies, media and think tanks
+- **On the agenda:** regional trade and investment, artificial intelligence, the digital economy, clean energy, green finance, supply chains, connectivity, and Greater Bay Area development
+- **Official channel:** [CCPIT's event platform](https://bizevent.ccpit.org/meetings/4482)
+
+> ⚠️ **A warning worth taking seriously, and it comes from the organisers themselves.**
+>
+> CCPIT has publicly stated that it **has not authorised any outside organisation or individual to recruit summit participants**, and has cautioned companies against unofficial invitations and paid registration services.
+>
+> In plain terms: **people are selling APEC access that isn't theirs to sell.** If an invitation reaches you through a broker, an agency, or anyone charging a fee for a place, treat it as fraudulent until you have verified it through CCPIT's own channel above. Registration information is released only through CCPIT and the summit's official channels.
 
 ## Do You Need a Visa?
 
@@ -125,15 +141,17 @@ For anything the metro doesn't cover, use DiDi. If road restrictions are in plac
 
 ## What Isn't Confirmed Yet
 
-Being straight about the gaps, as of August 2026:
+Being straight about the gaps. **Updated 10 September 2026:**
 
-- **Special entry or visa facilitation for attendees** has not been detailed publicly. Assume you need one of the four routes above unless your delegation tells you otherwise.
-- **Road closures, security perimeters, and metro adjustments** around November 18-19 will be published closer to the date. Assume the streets immediately around Xiangmi Lake will be restricted on those two days.
-- **Which hotels are taken by delegations.** The venue complex includes its own hotels, and CBD stock will be partly blocked out. This is another reason to book early rather than assume you can sort it in October.
+- **Special entry or visa facilitation for attendees** still has not been detailed publicly. What *has* moved: Guangdong announced in early September that exit and entry procedures across the province are being streamlined ahead of the meeting. That is a general easing rather than an APEC-attendee scheme, so assume you still need one of the four routes above unless your delegation tells you otherwise.
+- **Road closures, security perimeters and metro adjustments** around November 18-19 have not been published. Expect them closer to the date, and assume the streets immediately around Xiangmi Lake will be restricted on those two days.
+- **Which hotels are taken by delegations.** The venue complex includes its own hotels, and CBD stock will be partly blocked out. Another reason to book early rather than assume you can sort it in October.
 
-Futian district has publicly committed to reducing friction for international visitors specifically in port entry, daily travel, payments, and government services ahead of the meeting, so expect the practical situation to keep improving between now and November.
+**One change you will notice regardless of whether you attend anything:** since 20 July 2026 the metro screens every bag and scans every passenger with a handheld detector, an upgrade made ahead of the meeting. Allow a couple of extra minutes at busy stations. The [metro guide](/guides/shenzhen-metro-guide) covers what you can and cannot carry.
 
-I'll update this page as the official details land.
+For scale on how much traffic the city is already absorbing: foreign nationals entering and leaving Guangdong through Shenzhen's ports passed **5 million** by early August, reaching that mark 58 days earlier than in 2025.
+
+I'll keep updating this page as official details land.
 
 ## Common Questions
 
