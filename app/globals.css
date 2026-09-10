@@ -206,3 +206,19 @@ body {
   vertical-align: baseline;
   translate: 0 -0.05em;
 }
+
+/*
+  Global reduced-motion guard. Anyone who has asked their system to limit
+  animation gets a static site rather than a slightly calmer one — the motion
+  here is all decorative, so removing it costs nothing.
+*/
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

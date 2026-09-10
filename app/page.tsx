@@ -87,6 +87,9 @@ export default function HomePage() {
           <img
             src="https://images.unsplash.com/photo-1657639809496-6a4af16ce1a2?auto=format&fit=crop&w=1400&q=80"
             alt=""
+            width={1400}
+            height={933}
+            fetchPriority="high"
             className="w-full h-full object-cover object-center"
           />
           {/* Blend left edge into cream background */}
@@ -164,6 +167,9 @@ export default function HomePage() {
           <img
             src="https://images.unsplash.com/photo-1657639809496-6a4af16ce1a2?auto=format&fit=crop&w=800&q=60"
             alt="Shenzhen city skyline"
+            width={800}
+            height={533}
+            fetchPriority="high"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-b from-[#faf7f2]/60 via-transparent to-[#faf7f2]" />
@@ -178,9 +184,9 @@ export default function HomePage() {
               <Link
                 key={cat.label}
                 href={cat.href}
-                className="border border-stone-100 rounded-xl p-4 hover:border-amber-300 hover:bg-amber-50/50 transition-all text-center group"
+                className="border border-stone-100 rounded-xl p-4 hover:border-amber-300 hover:bg-amber-50/50 transition-colors duration-150 text-center group"
               >
-                <div className="flex justify-center mb-2.5 text-stone-400 transition-all duration-200 group-hover:text-amber-500 group-hover:-translate-y-0.5">
+                <div className="flex justify-center mb-2.5 text-stone-400 transition-[color,transform] duration-200 group-hover:text-amber-500 group-hover:-translate-y-0.5 motion-reduce:transition-none motion-reduce:group-hover:translate-y-0">
                   <Icon d={cat.d} />
                 </div>
                 <div className="text-xs font-semibold text-stone-700 group-hover:text-amber-700 mb-1 transition-colors">

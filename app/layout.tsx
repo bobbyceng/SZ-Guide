@@ -55,6 +55,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         meta typing rejects, hence the cast. Emitted literally so it matches
         what their checker looks for.
       */}
+      {/* The hero image is served from Unsplash; warming the connection early
+          shaves the DNS + TLS round trip off the largest paint on the page. */}
+      <link rel="preconnect" href="https://images.unsplash.com" />
       <meta {...IMPACT_VERIFICATION} />
       <body
         className="min-h-screen flex flex-col"

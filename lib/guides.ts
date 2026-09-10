@@ -5,6 +5,7 @@ import { remark } from 'remark'
 import html from 'remark-html'
 import gfm from 'remark-gfm'
 import { annotateMetroLines } from './metro-lines'
+import { imageSize } from 'image-size'
 
 const guidesDirectory = path.join(process.cwd(), 'content/guides')
 
@@ -38,6 +39,32 @@ const AFFILIATE_DOMAINS = [
  * need: sponsored for commercial destinations, and new-tab plus noopener for
  * all of them.
  */
+/**
+ * Adds real width/height to article images so the browser reserves the right
+ * space before they load, instead of the text jumping when each one arrives.
+ *
+ * Dimensions are read from the files themselves at build time — the images are
+ * not a uniform aspect ratio, so a single CSS fallback would be wrong for some
+ * of them. Everything below the first image also gets lazy loading.
+ */
+function annotateImages(html: string): string {
+  let seen = 0
+  return html.replace(/<img([^>]*?)src="(\/images\/[^"]+)"([^>]*?)>/g, (match, pre, src, post) => {
+    let dims = ''
+    try {
+      const file = path.join(process.cwd(), 'public', src)
+      const { width, height } = imageSize(fs.readFileSync(file))
+      if (width && height) dims = ` width="${width}" height="${height}"`
+    } catch {
+      // Missing or unreadable file: leave the tag alone rather than guessing.
+      return match
+    }
+    // The first image is usually above the fold, so it loads eagerly.
+    const loading = seen++ === 0 ? '' : ' loading="lazy" decoding="async"'
+    return `<img${pre}src="${src}"${post}${dims}${loading}>`
+  })
+}
+
 function annotateExternalLinks(html: string): string {
   return html.replace(/<a href="(https?:\/\/[^"]+)"/g, (match, url: string) => {
     let hostname: string
@@ -149,7 +176,7 @@ export async function getGuideBySlug(slug: string): Promise<Guide> {
   const fileContents = fs.readFileSync(fullPath, 'utf8')
   const { data, content } = matter(fileContents)
   const processed = await remark().use(gfm).use(html, { sanitize: false }).process(content)
-  return { slug, contentHtml: annotateMetroLines(annotateExternalLinks(processed.toString())), ...data } as Guide
+  return { slug, contentHtml: annotateMetroLines(annotateImages(annotateExternalLinks(processed.toString()))), ...data } as Guide
 }
 
 export function getAllGuideSlugs(): string[] {

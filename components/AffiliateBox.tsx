@@ -33,7 +33,7 @@ export default function AffiliateBox({
             href={link.url}
             target="_blank"
             rel="sponsored noopener noreferrer"
-            className="flex items-center justify-between p-3 rounded-lg bg-white border border-amber-100 hover:border-amber-300 hover:shadow-sm transition-all group"
+            className="flex items-center justify-between p-3 rounded-lg bg-white border border-amber-100 hover:border-amber-300 hover:shadow-sm transition-[border-color,box-shadow] duration-150 group"
           >
             <div>
               <span className="text-sm font-semibold text-stone-800 group-hover:text-amber-700 transition-colors">

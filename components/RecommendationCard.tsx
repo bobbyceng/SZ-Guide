@@ -32,7 +32,7 @@ export default function RecommendationCard({
             href={item.url}
             target="_blank"
             rel="sponsored noopener noreferrer"
-            className="block p-4 rounded-xl bg-white/5 border border-white/10 hover:border-amber-400/30 hover:bg-white/10 transition-all group"
+            className="block p-4 rounded-xl bg-white/5 border border-white/10 hover:border-amber-400/30 hover:bg-white/10 transition-colors duration-150 group"
           >
             <div className="text-2xl mb-2">{item.icon}</div>
             <div className="flex items-center gap-2 mb-1">

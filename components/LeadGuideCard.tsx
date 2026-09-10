@@ -15,7 +15,7 @@ export default function LeadGuideCard({
 }) {
   return (
     <Link href={`/guides/${guide.slug}`} className="block group">
-      <div className="relative overflow-hidden rounded-2xl bg-[#0d1117] p-7 md:p-10 transition-all duration-200 group-hover:-translate-y-0.5">
+      <div className="relative overflow-hidden rounded-2xl bg-[#0d1117] p-7 md:p-10 transition-transform duration-200 group-hover:-translate-y-0.5 motion-reduce:transition-none motion-reduce:group-hover:translate-y-0">
         {/* Amber edge, always visible on the lead card */}
         <div className="absolute left-0 inset-y-0 w-[3px] bg-amber-400" />
 
