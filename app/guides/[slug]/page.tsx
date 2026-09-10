@@ -81,7 +81,7 @@ export default async function GuidePage({
     headline: guide.title,
     description: guide.description,
     datePublished: guide.date,
-    dateModified: guide.date,
+    dateModified: guide.updated ?? guide.date,
     url: pageUrl,
     mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
     author: {
@@ -162,10 +162,12 @@ export default async function GuidePage({
             <span>·</span>
             <span>{guide.readingTime}</span>
             <span>·</span>
-            {/* <time> so the freshness signal is machine-readable, not just visible */}
-            <time dateTime={guide.date}>
-              Updated{' '}
-              {new Date(guide.date).toLocaleDateString('en-US', {
+            {/* <time> so the freshness signal is machine-readable, not just visible.
+                Shows the last edit when there has been one, otherwise the
+                publication date — never dressing one up as the other. */}
+            <time dateTime={guide.updated ?? guide.date}>
+              {guide.updated ? 'Updated' : 'Published'}{' '}
+              {new Date(guide.updated ?? guide.date).toLocaleDateString('en-US', {
                 month: 'long',
                 year: 'numeric',
               })}

@@ -4,8 +4,9 @@ description: "Can foreigners use Alipay or WeChat Pay in Shenzhen? Yes — link 
 cardBlurb: "Link a foreign Visa or Mastercard. No Chinese bank account needed."
 category: "Payment"
 categoryIcon: "💳"
-date: "2026-09-09"
-readingTime: "10 min read"
+date: "2026-05-14"
+updated: "2026-09-09"
+readingTime: "8 min read"
 featured: true
 howTo:
   name: "How to set up Alipay with a foreign credit card"

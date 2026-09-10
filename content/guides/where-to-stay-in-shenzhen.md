@@ -5,7 +5,8 @@ cardBlurb: "Futian, Nanshan or Luohu. Pick by what you came here for."
 category: "Accommodation"
 categoryIcon: "🏨"
 date: "2026-06-11"
-readingTime: "8 min read"
+updated: "2026-08-19"
+readingTime: "6 min read"
 ---
 
 Shenzhen is enormous — bigger in population than New York City — and stretched along a 50km east-west corridor. Pick the wrong area and you'll spend an hour on the metro every time you want to do anything.

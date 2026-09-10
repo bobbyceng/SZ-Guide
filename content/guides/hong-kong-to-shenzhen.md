@@ -4,8 +4,9 @@ description: "The fastest and cheapest ways from Hong Kong to Shenzhen in 2026. 
 cardBlurb: "Every crossing compared: which is fastest, what it costs, how long it takes."
 category: "Border Crossing"
 categoryIcon: "🛂"
-date: "2026-09-10"
-readingTime: "10 min read"
+date: "2026-05-14"
+updated: "2026-09-10"
+readingTime: "9 min read"
 featured: true
 howTo:
   name: "How to cross the border from Hong Kong to Shenzhen"

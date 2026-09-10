@@ -4,8 +4,9 @@ description: "How to choose and install an eSIM for Shenzhen so Google, WhatsApp
 cardBlurb: "Keep Google, WhatsApp and Instagram working. No VPN required."
 category: "Connectivity"
 categoryIcon: "📶"
-date: "2026-09-09"
-readingTime: "10 min read"
+date: "2026-05-14"
+updated: "2026-09-09"
+readingTime: "11 min read"
 featured: true
 ---
 

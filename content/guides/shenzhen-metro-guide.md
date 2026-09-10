@@ -4,8 +4,9 @@ description: "How to use the Shenzhen metro as a foreigner, paying without a loc
 cardBlurb: "Pay with your phone, not a ticket machine. The lines that matter."
 category: "Getting Around"
 categoryIcon: "🚇"
-date: "2026-09-09"
-readingTime: "10 min read"
+date: "2026-05-15"
+updated: "2026-09-10"
+readingTime: "9 min read"
 ---
 
 The Shenzhen metro is fast, cheap, clean, and straightforward once you know the key lines. Eighteen lines cover almost every destination a visitor needs, and signs and announcements are in English throughout.

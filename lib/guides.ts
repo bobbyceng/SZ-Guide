@@ -64,7 +64,10 @@ export interface GuideMetadata {
   cardBlurb?: string
   category: string
   categoryIcon: string
+  /** First published. Never changes — this is what the card shows. */
   date: string
+  /** Last meaningful edit, if any. Shown on the article, not on the card. */
+  updated?: string
   readingTime: string
   featured: boolean
   /**

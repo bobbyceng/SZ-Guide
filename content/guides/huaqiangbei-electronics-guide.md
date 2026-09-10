@@ -4,8 +4,9 @@ description: "The real insider guide to Shenzhen's famous electronics district. 
 cardBlurb: "Which buildings to walk, what to buy, how to bargain, what to avoid."
 category: "Electronics"
 categoryIcon: "📱"
-date: "2026-08-25"
-readingTime: "11 min read"
+date: "2026-05-14"
+updated: "2026-08-25"
+readingTime: "13 min read"
 featured: true
 ---
 

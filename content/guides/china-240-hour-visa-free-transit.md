@@ -5,7 +5,8 @@ cardBlurb: "Ten days in mainland China without a visa, if you qualify."
 category: "Visa & Transit"
 categoryIcon: "✈️"
 date: "2026-05-15"
-readingTime: "7 min read"
+updated: "2026-08-18"
+readingTime: "5 min read"
 ---
 
 China has been quietly expanding its visa-free access, and for many nationalities, the 240-hour transit policy is the easiest way to visit Shenzhen without applying for a full visa in advance.

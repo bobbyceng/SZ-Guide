@@ -4,8 +4,9 @@ description: "Shenzhen hosts the APEC Economic Leaders' Meeting on November 18-1
 cardBlurb: "Venue, dates, entry rules, and how to get in from Hong Kong."
 category: "Planning"
 categoryIcon: "🌏"
-date: "2026-09-10"
-readingTime: "10 min read"
+date: "2026-08-18"
+updated: "2026-09-10"
+readingTime: "12 min read"
 featured: true
 ---
 

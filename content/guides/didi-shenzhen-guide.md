@@ -4,8 +4,9 @@ description: "Step-by-step guide to using DiDi in Shenzhen as a foreigner, downl
 cardBlurb: "China's Uber. Set it up with a foreign card before you land."
 category: "Getting Around"
 categoryIcon: "🚗"
-date: "2026-08-24"
-readingTime: "9 min read"
+date: "2026-05-15"
+updated: "2026-08-25"
+readingTime: "8 min read"
 howTo:
   name: "How to book a DiDi ride in Shenzhen as a foreigner"
   steps:

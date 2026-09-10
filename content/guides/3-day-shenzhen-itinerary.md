@@ -5,7 +5,8 @@ cardBlurb: "A realistic three days, from someone who isn't guessing."
 category: "Planning"
 categoryIcon: "🗓️"
 date: "2026-06-11"
-readingTime: "9 min read"
+updated: "2026-08-18"
+readingTime: "5 min read"
 ---
 
 Most Shenzhen itineraries online are written by people who spent a weekend here and padded the gaps with TripAdvisor's top ten. This one is what I actually tell friends to do when they visit me for three days.
