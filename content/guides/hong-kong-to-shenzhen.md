@@ -45,10 +45,12 @@ At a glance, then in detail below.
 | Crossing | Getting there | Cost from HK | Open | Arrives at | Best for |
 |---|---|---|---|---|---|
 | **Lo Wu** 羅湖 | MTR East Rail to Lo Wu (last stop) | ~HK$45 | 06:30–24:00 | Luohu station, **Line 1** | Day trips. Busiest, so worst queues |
-| **Lok Ma Chau / Futian** 福田 | MTR East Rail to Lok Ma Chau (one stop before Lo Wu) | ~HK$45 | 06:30–22:30 | Futian station, **city centre** | Speed. Huaqiangbei, Coco Park |
+| **Lok Ma Chau / Futian** 福田 | MTR East Rail to Lok Ma Chau (one stop before Lo Wu) | ~HK$45 | 06:30–22:30 | Futian Checkpoint station, **Lines 4 / 10** | Speed. Huaqiangbei, Coco Park |
 | **West Kowloon** high-speed rail | MTR to West Kowloon | HK$86 | ~07:00–22:30 | Shenzhen North, **Line 4 / Line 6** | **14 minutes.** Luggage, rain, comfort |
 | **Shenzhen Bay** 深圳湾 | Cross-border coach from Hong Kong | varies | 06:30–24:00 | **Line 13** (since Dec 2024) | Heading to Nanshan, or flying out of **SZX** |
 | **Huanggang** 皇岗 | Bus or taxi to Huanggang Port | — | **24 hours** | — | The only crossing open overnight |
+
+**Flying into Hong Kong?** Starting from the airport changes the choice. The [Hong Kong Airport to Shenzhen guide](/guides/hong-kong-airport-to-shenzhen) picks the route by where in Shenzhen you are going, and covers the ferry that skips Hong Kong immigration.
 
 **The short answer for most people:** Lok Ma Chau / Futian if you are heading into the city, Lo Wu if you are only crossing for the day, high-speed rail if you have luggage. Shenzhen Bay if you are going to Nanshan or flying out of Shenzhen. Huanggang is the one to remember at 3am.
 
@@ -72,11 +74,11 @@ At a glance, then in detail below.
 
 **How to get there:** Take the MTR East Rail to **Lok Ma Chau station** (one stop before Lo Wu).
 
-**Cross to:** Futian Checkpoint (福田口岸), which connects directly to **Futian Station** on the Shenzhen metro.
+**Cross to:** Futian Checkpoint (福田口岸), which connects directly to **Futian Checkpoint station (福田口岸)** on Lines 4 and 10. It is not Futian station (福田), a different stop further north on Lines 2, 3 and 11.
 
 **Border hours:** 06:30 – 22:30
 
-**Why use this over Lo Wu:** Often shorter queues than Lo Wu, and Futian Station puts you directly in the city center (Futian CBD). Good choice if you're heading to the Huaqiangbei electronics area or Coco Park.
+**Why use this over Lo Wu:** Often shorter queues than Lo Wu, and Line 4 reaches the Futian CBD in two or three stops: Convention & Exhibition Center is the second, Civic Center the third. Good choice if you're heading to the Huaqiangbei electronics area or Coco Park.
 
 **Cost:** Similar to Lo Wu from the HK side.
 

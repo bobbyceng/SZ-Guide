@@ -92,6 +92,8 @@ Hong Kong has far more long-haul flights than Shenzhen, and the border is 45 min
 
 For a business trip with luggage in November, the high-speed rail is worth the extra cost over a land crossing. It's covered, it's fast, and you skip the walking crossing entirely.
 
+[Hong Kong Airport to Shenzhen →](/guides/hong-kong-airport-to-shenzhen) covers the trip straight from the airport, including a ferry that lets you skip Hong Kong immigration entirely.
+
 [Hong Kong to Shenzhen: every crossing compared →](/guides/hong-kong-to-shenzhen) has costs, opening hours, which crossing puts you closest to Futian, and what actually happens at immigration step by step.
 
 ### Direct to Shenzhen Bao'an International Airport (SZX)
@@ -167,7 +169,7 @@ Most likely not, if you hold a passport from one of the countries covered by Chi
 In more places than you'd expect, especially in Futian, at the airport, and in hotels: about 41,000 merchants now accept overseas cards. But mobile payment is still the default, so set up Alipay or Weixin Pay with your foreign card before you arrive.
 
 **How do I get from Hong Kong to Shenzhen for APEC?**
-High-speed rail from West Kowloon to Shenzhen North takes 14 minutes, or you can cross on foot at Lo Wu or Lok Ma Chau/Futian. The Futian crossing puts you directly in the CBD. See the [full border crossing guide](/guides/hong-kong-to-shenzhen).
+High-speed rail from West Kowloon to Shenzhen North takes 14 minutes, or you can cross on foot at Lo Wu or Lok Ma Chau/Futian. The Futian crossing puts you two or three metro stops from the CBD, on Line 4. See the [full border crossing guide](/guides/hong-kong-to-shenzhen).
 
 **Where is the APEC 2026 venue in Shenzhen?**
 The Shenzhen International Exchange Center at Xiangmi Lake, in Futian District. It's a purpose-built complex, not the Shenzhen Convention and Exhibition Center in the CBD, which people often assume. Nearest metro stations are Xiangmi and Xiangmei North on Line 2 / Line 8.
