@@ -97,7 +97,7 @@ Both serve **Huaqiangbei station (华强北)**, the electronics shopping distric
 
 From **Shenzhen Bao'an Airport** into the city, about 30 minutes to Futian. It does **not** stop at Airport East — that is the end of Line 1, a separate station some distance from the terminal. Line 11 joins the rest of the network at Qianhai Bay (Lines 1 and 5), Houhai (Lines 2 and 13), Chegongmiao (Lines 1, 7 and 9), Futian (Lines 2 and 3) and Gangxia North (Lines 2, 10 and 14).
 
-It also runs later than most lines: the last train from the airport into the city leaves at about **00:02**.
+It also runs later than most lines: the last train from the airport into the city leaves at about **00:02**. The [airport-to-city guide](/guides/shenzhen-airport-to-city) walks through the whole trip, including where to find the business carriage on the platform.
 
 > **Line 11 has a business-class carriage, and almost no visitor knows about it.**
 >

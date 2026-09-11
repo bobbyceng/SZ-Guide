@@ -96,7 +96,7 @@ For a business trip with luggage in November, the high-speed rail is worth the e
 
 ### Direct to Shenzhen Bao'an International Airport (SZX)
 
-Bao'an has good coverage across Asia and a growing number of long-haul routes. It connects to the city by metro Line 11, which reaches Futian in about 35 minutes.
+Bao'an has good coverage across Asia and a growing number of long-haul routes. It connects to the city by metro Line 11, which reaches Futian in about 35 minutes. The [airport-to-city guide](/guides/shenzhen-airport-to-city) covers the route to the venue, the business carriage, and what to do if you land after midnight.
 
 If you're coming from within Asia, flying direct is usually simpler. From Europe or the Americas, check Hong Kong first.
 

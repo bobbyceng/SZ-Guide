@@ -78,7 +78,7 @@ Two things worth planning for:
 
 **You need working data before you can book anything.** You cannot summon a car from the arrivals hall on airport WiFi if the app can't reach its servers, and you cannot download the app inside China if the store is blocked. Set up a [travel eSIM](/guides/best-esim-for-shenzhen) before you land.
 
-**Budget ¥80–120 to the city centre**, roughly 40–60 minutes to Futian depending on traffic. The Airport Express metro (Line 11) is far cheaper and often faster in rush hour, but DiDi wins when you have luggage or arrive late.
+**Budget ¥80–120 to the city centre**, roughly 40–60 minutes to Futian depending on traffic. The Airport Express metro (Line 11) is far cheaper and often faster in rush hour, but DiDi wins when you have luggage or arrive late. The [airport-to-city guide](/guides/shenzhen-airport-to-city) compares every option side by side.
 
 ## Booking Ahead of Time
 
