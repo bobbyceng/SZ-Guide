@@ -34,8 +34,11 @@ export default function HomePage() {
           />
           {/* Blend left edge into cream background */}
           <div className="absolute inset-0 bg-gradient-to-r from-[#faf7f2] via-[#faf7f2]/50 to-transparent" />
-          {/* Subtle bottom vignette */}
-          <div className="absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-[#faf7f2]/30 to-transparent" />
+          {/* Bottom fade. At /30 this only tinted the photo, which left a hard
+              horizontal edge where the hero ends — hidden while the category
+              strip sat underneath, exposed once it was removed. Fading to the
+              full page colour lets the photo dissolve into the page instead. */}
+          <div className="absolute inset-x-0 bottom-0 h-40 bg-gradient-to-t from-[#faf7f2] to-transparent" />
         </div>
 
         {/* Text content */}

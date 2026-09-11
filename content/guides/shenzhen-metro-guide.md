@@ -24,6 +24,10 @@ Shenzhen metro takes contactless foreign cards directly. Tap at the entry gate, 
 
 **But not at every gate, and this is where people get stuck.** Only designated turnstiles take an international card. Look for a **separate black reader module stuck onto the gate**, with the card logos printed on it and "请刷卡 / Tap Here" underneath — that module is what you are looking for, not the gate itself. There are usually **only one or two per gate line, normally at the far ends of the row**. Tapping a foreign card at an ordinary gate simply does not open it, and the queue behind you will not understand why.
 
+![The international card reader on a Shenzhen Metro gate: Visa, Mastercard, American Express and JCB logos above "请刷卡 / Tap Here". Photographed September 2026.](/images/guides/metro/01-intl-card-reader.jpg)
+
+*This is the module to look for. I took this on a gate in September 2026 — if the gate in front of you doesn't have one, walk to the end of the row.*
+
 Expect roughly a **3% surcharge** on top of the fare. No app, no top-up, no local SIM. If your card is contactless and you can find the right gate, this is the least friction available.
 
 ### Option 2: Alipay or WeChat Pay
