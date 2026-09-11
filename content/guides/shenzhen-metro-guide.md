@@ -95,7 +95,9 @@ Both serve **Huaqiangbei station (华强北)**, the electronics shopping distric
 
 ### Line 11, Airport Express
 
-From **Shenzhen Bao'an Airport** into the city. Connects to the wider network at Airport East. Around 30–40 minutes to the central areas.
+From **Shenzhen Bao'an Airport** into the city, about 30 minutes to Futian. It does **not** stop at Airport East — that is the end of Line 1, a separate station some distance from the terminal. Line 11 joins the rest of the network at Qianhai Bay (Lines 1 and 5), Houhai (Lines 2 and 13), Chegongmiao (Lines 1, 7 and 9), Futian (Lines 2 and 3) and Gangxia North (Lines 2, 10 and 14).
+
+It also runs later than most lines: the last train from the airport into the city leaves at about **00:02**.
 
 > **Line 11 has a business-class carriage, and almost no visitor knows about it.**
 >
@@ -118,7 +120,7 @@ Runs along the northern side of Futian. Easy to overlook, but it's the line that
 | Civic Center | 市民中心 | Central Shenzhen business area |
 | OCT | 华侨城 | OCT-LOFT creative district |
 | Shenzhen North | 深圳北 | High-speed rail to Guangzhou and rest of China |
-| Airport East | 机场东 | Bao'an Airport (Line 11) |
+| Airport | 机场 | Bao'an Airport terminal (Line 11). Not Airport East 机场东, which is Line 1 |
 
 ## How to Navigate
 
