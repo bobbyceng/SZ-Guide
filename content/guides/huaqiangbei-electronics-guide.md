@@ -228,6 +228,8 @@ Note what the Luohu route does: **Line 1 does not reach Huaqiangbei station.** I
 
 If you would rather not change trains at all, Line 4 → Convention & Exhibition Center (会展中心) → Line 1 → Huaqiang Road also works from both, and takes a few minutes longer.
 
+New to shopping here? The [Shenzhen shopping guide](/guides/shopping-in-shenzhen) covers how bargaining works, how to pay at a stall, and why the shops at the border crossing are the worst value in the city.
+
 Coming over from Hong Kong for the day? The [Hong Kong to Shenzhen guide](/guides/hong-kong-to-shenzhen) compares every crossing, and Futian Checkpoint is the one that puts you closest to Huaqiangbei.
 
 ---
