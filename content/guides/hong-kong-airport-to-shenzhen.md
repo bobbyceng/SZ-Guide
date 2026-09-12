@@ -53,7 +53,7 @@ This is the one I use. It isn't glamorous, but it's cheap and it runs all day.
    - **Lok Ma Chau (落馬洲)** for Futian. The Lok Ma Chau crossing is open **06:30 to 22:30**.
 4. **Walk across the border.** On the Shenzhen side, Lo Wu brings you out at **Luohu station (Line 1)**. Lok Ma Chau brings you out at **Futian Checkpoint station (福田口岸), on Lines 4 and 10**. That is not the same as Futian station, which is a different stop on Lines 2, 3 and 11.
 
-**How long it takes.** When the roads are clear, I count on about an hour between Lo Wu and the airport. The bus company's timetable is more cautious than that, so if you have a flight to catch, plan for 90 minutes.
+**How long it takes.** When the roads are clear, I count on about an hour between Lo Wu and the airport. The bus company's own timetable is more cautious than that, and traffic on this route is hard to predict. **If you have a flight to catch, leave more time than you think you need** — 90 minutes as a minimum, and more if you can spare it. Being early at the airport costs you nothing; being late costs you the flight.
 
 **Paying.** You don't need an Octopus card. The A43 takes a **contactless Visa, Mastercard or UnionPay card** tapped on the reader. The MTR takes the same three cards at its **light-blue gates**, at the normal adult fare. American Express and JCB are not accepted on the MTR. If you already have an Octopus, it works on both.
 
@@ -97,7 +97,7 @@ This is the route most people don't know exists. **I haven't taken it myself**, 
 
 When I fly out of Hong Kong I use Route 1 in reverse: across at Lo Wu, one stop to Sheung Shui, then the A43.
 
-**Leave more time than you think.** From my home in Luohu, I allow about an hour to reach the Lo Wu crossing and another hour from Lo Wu to the airport. **For the journey as a whole I leave at least two and a half hours**, because traffic and border queues are hard to predict. That is before the time your airline wants you at the airport.
+**Leave more time than you think.** From my home in Luohu, I allow about an hour to reach the Lo Wu crossing and another hour from Lo Wu to the airport. **For the journey as a whole I leave at least two and a half hours**, because traffic and border queues are hard to predict — and I'd rather sit at the gate than watch the clock on a bus. That is before the time your airline wants you at the airport.
 
 **Early flights are the trap.** Lo Wu and Lok Ma Chau don't open until 06:30. Only Huanggang is open all night, and the bus from there to the airport doesn't run through the small hours. The [Hong Kong to Shenzhen guide](/guides/hong-kong-to-shenzhen) covers that problem in detail.
 
