@@ -59,7 +59,7 @@ Stay near **Coco Park (Shopping Park station)** for nightlife and restaurants, o
 Luohu is the oldest commercial district, right against the Hong Kong border at the Luohu/Lo Wu crossing. It's grittier and cheaper than Futian, with more street life, older buildings, and the Dongmen pedestrian shopping district.
 
 - **Hotel range:** this is where the ¥150–300/night deals live. Just apply the foreigner-friendly check above with extra care — cheap Luohu hotels are the most common place visitors get turned away.
-- **Getting around:** Luohu station is the terminus of Line 1; Dongmen is one stop away.
+- **Getting around:** Luohu station is the terminus of Line 1; Laojie station (Dongmen) is two stops away.
 - **Trade-off:** further from Nanshan's attractions (45–60 min by metro), and the area shows its age.
 
 ## Nanshan: Tech, Bay Views, and the Expat Bubble

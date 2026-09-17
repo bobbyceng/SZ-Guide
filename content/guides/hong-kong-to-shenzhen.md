@@ -64,7 +64,7 @@ At a glance, then in detail below.
 
 **What happens:** You exit the Hong Kong immigration hall on one side, walk across a bridge, and enter the Shenzhen immigration hall on the other side. The whole crossing takes 20–45 minutes depending on queue length.
 
-**After crossing:** You arrive at Luohu station on the Shenzhen metro. Take Line 1 (eastbound toward Luohu, or westbound toward Futian) to reach most parts of the city.
+**After crossing:** You arrive at Luohu station on the Shenzhen metro. Luohu is the end of Line 1, so every train from here heads west, through Guomao and Laojie (Dongmen) toward Futian.
 
 **Best for:** Daytime visitors. The most popular crossing point, which means it gets busy on weekends and public holidays. Go before 10am or after 2pm on weekdays to avoid the worst queues.
 
