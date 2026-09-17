@@ -129,7 +129,8 @@ git push
 - **2026-08-18** | *（复盘）* | 环比点击 ↑167%、曝光 ↑82%、排名 24.2→20。`alipay` 0→4 次点击，证明 07-25 的改动**确实生效，只是滞后约 3-4 周**。
 - **2026-08-18** | `apec-2026-shenzhen-visitor-guide` | **新增**：APEC 2026（11/18-19，深圳）访客中枢页，事件型 SEO，提前 3 个月布局；内链串起全部现有指南。
 - **2026-08-18** | *（前端）* | 卡片文案与 SEO description 解耦（新增 `cardBlurb` 字段）；去掉首页重复区块；加 lead story 视觉层次。
-- **2026-09-17** | *（流程）* | 新增第 0 步「选题判断」和 `ledger/` 事实台账。第一次使用：「香港一日游」建议改为 REFRESH `3-day-shenzhen-itinerary`，待木安拍板（见 `ledger/_topic-decisions.md`）。
+- **2026-09-17** | *（流程）* | 新增第 0 步「选题判断」和 `ledger/` 事实台账。第一次使用：「香港一日游」改为 REFRESH `3-day-shenzhen-itinerary`，木安 09-17 同意（见 `ledger/_topic-decisions.md`）。
+- **2026-09-17** | `shenzhen-airport-to-city` | 第一份台账查出网约车预算 ¥80–120 无来源 → 改为木安第一手的 ¥80–100。
 
 ---
 

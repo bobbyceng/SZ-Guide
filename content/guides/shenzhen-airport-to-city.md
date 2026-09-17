@@ -6,6 +6,7 @@ category: "Getting Around"
 stage: "arriving"
 categoryIcon: "✈️"
 date: "2026-09-11"
+updated: "2026-09-17"
 readingTime: "7 min read"
 howTo:
   name: "How to take the metro from Shenzhen Airport to the city"
@@ -32,7 +33,7 @@ Two things most guides leave out. The station is called **Airport**, not Airport
 |---|---|---|---|
 | **Line 11, standard carriage** | ~30 min on the train | ~¥7 | Light luggage, outside rush hour |
 | **Line 11, business carriage** | ~30 min on the train | ~¥21 | Big suitcases, rush hour, a long flight behind you |
-| **Ride-hailing** | ~40 min, traffic permitting | ¥40–120 depending on app, plus ~¥13 toll | Groups, heavy luggage, late arrivals |
+| **Ride-hailing** | ~40 min, traffic permitting | Usually ¥80–100; app promotions can be lower | Groups, heavy luggage, late arrivals |
 | **Taxi** | ~40 min, traffic permitting | about ¥95 by meter | No data or no app |
 | **Airport Express coach** | Varies by route | ¥20–40 | After the last train |
 
@@ -110,7 +111,7 @@ Both leave from the **Ground Transportation Centre** and run 24 hours.
 - **Taxis:** second floor, east side, **outside Gate 13**. Metered, and about **¥95 to Futian** by the shortest route. Expect more at night.
 - **Ride-hailing:** **Zone A** is outside **Gate 15** on the ground floor, south side. **Zone B** is indoors on the ground floor. The app picks the zone, and it may warn you the pickup is a fair walk from where you are. Believe it.
 
-Ride-hailing prices vary more than you'd expect between apps. On a weekday afternoon this September, a Chinese map app quoted **¥39–61** for an economy car from the airport to Futian, with a promotion applied and a possible **¥13 expressway toll** added separately. The journey was estimated at about 40 minutes. International apps don't always show the same prices. My [DiDi guide](/guides/didi-shenzhen-guide) budgets ¥80–120, which is a safe planning figure.
+Ride-hailing prices vary more than you'd expect between apps. On a weekday afternoon this September, a Chinese map app quoted **¥39–61** for an economy car from the airport to Futian, with a promotion applied and a possible **¥13 expressway toll** added separately. The journey was estimated at about 40 minutes. International apps don't always show the same prices. **When I take a car from the airport to Futian myself, it usually comes to about ¥80–100**, so plan on that and treat anything cheaper as a promotion. Setting up the app is covered in my [DiDi guide](/guides/didi-shenzhen-guide).
 
 Whichever you use, you need working mobile data at the airport to book, so set up a [travel eSIM](/guides/best-esim-for-shenzhen) before you fly.
 
