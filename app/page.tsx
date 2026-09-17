@@ -76,7 +76,7 @@ export default function HomePage() {
               >
                 Xiangan
               </Link>
-              , born and raised in Shenzhen.
+              , who grew up in Shenzhen.
             </p>
 
             <div className="fade-up-3 flex flex-col sm:flex-row gap-3">
@@ -169,7 +169,7 @@ export default function HomePage() {
             <div>
               <div className="font-semibold text-amber-400 mb-2">Local knowledge</div>
               <p className="text-stone-500 leading-relaxed">
-                Born and raised in Shenzhen. Not a travel blogger guessing from abroad.
+                Grew up in Shenzhen and still lives here. Not a travel blogger guessing from abroad.
               </p>
             </div>
             <div>
