@@ -127,7 +127,7 @@
 | shenzhen-airport-to-city | 未进入报告 | **已抓取**（9-15），尚未编入索引 |
 | hong-kong-airport-to-shenzhen | 未进入报告 | **已抓取**（9-15），尚未编入索引 |
 | shopping-in-shenzhen | 未进入报告 | **已抓取**（9-15），尚未编入索引 |
-| china-240-hour-visa-free-transit | 已发现，从未抓取 | 🔴 **仍然从未抓取**（请求过，没有被抓） |
+| china-240-hour-visa-free-transit | 已发现，从未抓取 | 🔴 **仍然从未抓取**（9-15 请求过，没有被抓）→ **9-17 木安再次请求** |
 | 3-day-shenzhen-itinerary | 已抓取（6-11），未编入 | 不变 —— 已决定 REFRESH |
 
 **怎么判断**：同样是「已抓取 - 尚未编入索引」，含义取决于抓了多久。
