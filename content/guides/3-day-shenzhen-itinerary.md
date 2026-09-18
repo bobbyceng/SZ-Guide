@@ -81,11 +81,15 @@ With three days you can do all three areas above without rushing, and add the th
 
 This is my favorite day. The coastal greenway along **Shenzhen Bay** starts by the mangroves in Futian and runs west along the water all the way to Shekou. It's a long ride and a genuinely comfortable one, with Hong Kong across the bay.
 
-Ride west, finish in Shekou, and spend the rest of the afternoon there as in the one-day plan above: the old streets, then coffee on the steps facing the sea.
+**Where to start:** take Line 9 to **Shenzhen Bay Park station** and come out at **Exit D2**. You step out of the station and the water is right there, halfway along the mangroves, with bikes parked at the exit. Exit C also puts you by the sea if D2 is closed. From there, ride west.
 
-I start from the mangrove park in Futian and ride west. There are shops along the way to buy water, but the gaps between them can be long, so fill up when you pass one rather than when you get thirsty.
+**Not on a weekend morning or afternoon.** Bikes are barred from the park itself on weekends and public holidays for most of the daylight hours (reported as roughly 9am until early evening, the cut-off being later in summer than in winter). Weekdays are unrestricted. If you're here on a Saturday, do this ride early, late, or on another day.
+
+There are shops along the way to buy water, but the gaps between them can be long, so fill up when you pass one rather than when you get thirsty.
 
 **Getting a bike:** shared bikes are unlocked by scanning the QR code on the bike with Alipay or WeChat. That works for foreign visitors too, as long as you've linked a payment card and verified your identity in the app, which the [Alipay setup guide](/guides/alipay-wechat-pay-setup) walks through. Do it before the day, not while standing next to the bike.
+
+Ride west, finish in Shekou, and spend the rest of the afternoon there as in the one-day plan above: the old streets, then coffee on the steps facing the sea.
 
 If you don't want to cycle the whole thing, ride or walk a section and take the metro the rest of the way. Use the [metro](/guides/shenzhen-metro-guide) for the long hops and [DiDi](/guides/didi-shenzhen-guide) for the gaps.
 
