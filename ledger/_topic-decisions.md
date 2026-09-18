@@ -38,3 +38,4 @@
   - 网址 slug `3-day-shenzhen-itinerary` **不改**（改 slug = 开新网址，前面说的成本全部回来）；标题可以改成同时包含一天和三天的说法。
   - 动笔前按规则先建 `ledger/3-day-shenzhen-itinerary.md`。
 - **拍板**：✅ 木安 09-17 同意 REFRESH，不新写一日游
+- **结果**：✅ 2026-09-18 上线（commit `5b1c582` 起共 5 个）。台账 `ledger/3-day-shenzhen-itinerary.md`。动笔后发现旧文是假第一人称（罗湖完全没有、有木安没去过的大芬），所以不只是加一日游，而是按木安真实推荐重写
