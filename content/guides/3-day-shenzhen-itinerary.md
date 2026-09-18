@@ -83,7 +83,7 @@ This is my favorite day. The coastal greenway along **Shenzhen Bay** starts by t
 
 **Where to start:** take Line 9 to **Shenzhen Bay Park station** and come out at **Exit D2**. You step out of the station and the water is right there, halfway along the mangroves, with bikes parked at the exit. Exit C also puts you by the sea if D2 is closed. From there, ride west.
 
-**Not on a weekend morning or afternoon.** Bikes are barred from the park itself on weekends and public holidays for most of the daylight hours (reported as roughly 9am until early evening, the cut-off being later in summer than in winter). Weekdays are unrestricted. If you're here on a Saturday, do this ride early, late, or on another day.
+**Ignore the older guides on this one.** For years bikes were banned from the park on weekends and public holidays, and plenty of blog posts still say so. In 2025 the park's management told local press that bikes, including shared ones, are now allowed at any hour, with a 15 km/h speed limit. Stay on the cycling lane rather than the walking path, and leave the bike in a marked parking area when you're done.
 
 There are shops along the way to buy water, but the gaps between them can be long, so fill up when you pass one rather than when you get thirsty.
 
