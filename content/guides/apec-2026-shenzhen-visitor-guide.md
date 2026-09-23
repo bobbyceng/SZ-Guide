@@ -6,7 +6,7 @@ category: "Planning"
 stage: "apec"
 categoryIcon: "🌏"
 date: "2026-08-18"
-updated: "2026-09-10"
+updated: "2026-09-23"
 readingTime: "12 min read"
 featured: true
 ---
@@ -42,10 +42,11 @@ The complex covers 18 hectares with around 470,000m² of floor area, including a
 
 ## Can I Attend? The CEO Summit Is the Part That's Open to Business
 
-The Leaders' Meeting itself is not open to the public. **The APEC CEO Summit, held alongside it, is** — and as of **10 September 2026 pre-registration is open**.
+The Leaders' Meeting itself is not open to the public. **The APEC CEO Summit, held alongside it, is** — it runs **17-18 November 2026**, the two days leading into the Leaders' Meeting.
 
 - **Who runs it:** the China Council for the Promotion of International Trade (CCPIT)
-- **Pre-registration deadline: 17 September 2026**
+- **Registration, as of 23 September 2026:** the first pre-registration window closed on 17 September. CCPIT's platform is still taking applications and now shows the deadline as "to be confirmed". Companies apply, not individuals, and **a maximum of three people per company** — more than that and CCPIT states every application from that company is void
+- **Applying is not the same as attending:** CCPIT reviews applications and only approved applicants are sent registration and payment instructions
 - **Expected attendance:** around 1,000 — APEC economy leaders and government representatives, heads of international organisations, ABAC members, corporate executives, trade and investment promotion agencies, media and think tanks
 - **On the agenda:** regional trade and investment, artificial intelligence, the digital economy, clean energy, green finance, supply chains, connectivity, and Greater Bay Area development
 - **Official channel:** [CCPIT's event platform](https://bizevent.ccpit.org/meetings/4482)
@@ -145,10 +146,11 @@ For anything the metro doesn't cover, use DiDi. If road restrictions are in plac
 
 ## What Isn't Confirmed Yet
 
-Being straight about the gaps. **Updated 10 September 2026:**
+Being straight about the gaps. **Updated 23 September 2026:**
 
 - **Special entry or visa facilitation for attendees** still has not been detailed publicly. What *has* moved: Guangdong announced in early September that exit and entry procedures across the province are being streamlined ahead of the meeting. That is a general easing rather than an APEC-attendee scheme, so assume you still need one of the four routes above unless your delegation tells you otherwise.
 - **Road closures, security perimeters and metro adjustments** around November 18-19 have not been published. Expect them closer to the date, and assume the streets immediately around Xiangmi Lake will be restricted on those two days.
+- **The rebuilt Huanggang border crossing.** Hong Kong's 2026 Policy Address (16 September) says it is expected to open in the fourth quarter, which puts it before APEC. Hong Kong media report a target of **Monday 12 October**, chosen to avoid the Golden Week crowds and the weekend, but **no government on either side has announced a date**, and the Secretary for Security said on 20 September that testing is still being fine-tuned. If you are crossing in October, check before you travel. The [border crossing guide](/guides/hong-kong-to-shenzhen) has what changes when it opens.
 - **Which hotels are taken by delegations.** The venue complex includes its own hotels, and CBD stock will be partly blocked out. Another reason to book early rather than assume you can sort it in October.
 
 **One change you will notice regardless of whether you attend anything:** since 20 July 2026 the metro screens every bag and scans every passenger with a handheld detector, an upgrade made ahead of the meeting. Allow a couple of extra minutes at busy stations. The [metro guide](/guides/shenzhen-metro-guide) covers what you can and cannot carry.

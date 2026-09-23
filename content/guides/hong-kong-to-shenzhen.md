@@ -6,7 +6,7 @@ category: "Border Crossing"
 stage: "arriving"
 categoryIcon: "🛂"
 date: "2026-05-14"
-updated: "2026-09-10"
+updated: "2026-09-23"
 readingTime: "9 min read"
 featured: true
 howTo:
@@ -119,6 +119,14 @@ At a glance, then in detail below.
 **Border hours: 24 hours.** It is the only one, which is the entire reason to know it exists.
 
 **How to get there:** bus or taxi to Huanggang Port. No MTR on the Hong Kong side.
+
+> 🚧 **This crossing is being rebuilt, and the new one may open in October 2026.**
+>
+> Huanggang has been running out of a temporary passenger hall while a much larger building goes up on the old site. The rebuilt crossing works differently: **Hong Kong and mainland checks happen in the same building**, one after the other, instead of on opposite sides of a road. Officials on both sides say that cuts a crossing from roughly 30 minutes to about 5. It stays open 24 hours, and the building sits on top of **Huanggang Port station on Line 7**.
+>
+> **What is actually confirmed:** the Hong Kong port area inside the Shenzhen building legally came into being on 31 July 2026, and Hong Kong's 2026 Policy Address (16 September) says the rebuilt crossing is expected to open in the fourth quarter of this year.
+>
+> **What is not:** the opening date. Hong Kong media reported in mid-September that both governments are aiming for **Monday 12 October**, picked to miss the Golden Week rush and the weekend. That is a press report, not an announcement, and on 20 September the Secretary for Security said the systems were still being fine-tuned. **If you are crossing at Huanggang in October, check the day before you travel.** I'll update this page when a date is announced.
 
 **Quietest window:** roughly **01:00–05:00**. If you have ever queued 90 minutes at Lo Wu on a Saturday, crossing at 3am is a different experience entirely.
 
