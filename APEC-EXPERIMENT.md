@@ -163,6 +163,33 @@
 
 另：Perplexity 答案里写「Line 11 toward Futian/Gangxia North」，这是 11 号线 2024 年延伸前的终点，本站写的是现在的终点红岭南。**AI 把新旧信息混在一起，被引用不等于被准确转述。**
 
+### 5.5 GEO 复测（2026-09-23，Perplexity，与 5.3 / 5.4 同一套词）
+
+方法：用户自己的 Chrome（CDP），每个词单独开一个标签页，展开 Sources 后抓全部引用域名。**比 9-15 那次严谨**：9-15 只看正文里露出的链接，这次抓的是完整来源列表。
+
+| 查询 | 9-09 | 9-15 | **9-23** | 9-23 同场来源 |
+|---|---|---|---|---|
+| APEC 2026 Shenzhen visitor guide | — | ✅ | **✅** | apec.org · sz.gov.cn · szft.gov.cn · fmprc.gov.cn · apec2026.cn · cgtn · 新华 · 人民网 · chinadaily · 维基 |
+| where to stay APEC Shenzhen | — | ❌ | **✅ 转正** | 香格里拉 / 万豪 / 四季 / 希尔顿 / 凯悦等酒店官网 · trip · expedia · hkexpatclub · lifeshenzhen |
+| Shenzhen airport to city centre | — | ✅ | **✅** | szairport.com（官网）· 维基 · travelchinaguide · trip · welcomepickups · eyeshenzhen |
+| Hong Kong airport to Shenzhen | — | ❌ | **❌** | 国泰 · 香港机场官网 · trip · timeout · travelchinaguide |
+| best eSIM for China Shenzhen | ✅ | — | **✅** | gizmodo · mychina.guide · holafly · ubigi · jetpacglobal · klook · shenzhendecoded 等 15 家 |
+
+新增两个词（测 9-18 刚 REFRESH 的行程页）：
+
+| 查询 | 结果 | 同场来源 |
+|---|---|---|
+| **Shenzhen itinerary 3 days** | **✅ 被引**（REFRESH 上线第 5 天） | shenzhendecoded · trip.com 多个站点 · tripadvisor · getyourguide · visitacity |
+| one day in Shenzhen from Hong Kong | ❌ | hk-cityguide · hongkong-trip · shenzhen-trip · chinasurvivalkit · timeout |
+
+**读法**
+
+- **5 个固定词里 4 个被引**，且两个 APEC 页都在。APEC 中枢页与 apec.org、外交部、市政府并列被引 —— **Google 那边这两页 9-15 才第一次被抓取，GEO 这边已经稳定**。SEO 和 GEO 必须分开测，这条再次成立。
+- **「where to stay APEC」从 ❌ 变 ✅**：9-15 时 Perplexity 用了本站独家的「香蜜站 / 2、8 号线」说法却没给引用，现在给了。同场全是酒店集团官网和 OTA，**本站是唯一一个讲「住哪个口岸 / 哪条线更方便」的**。
+- **「3 天行程」REFRESH 后 5 天就被引**，而 Google 那边这篇 6-11 抓过至今未收录。**同一篇内容，GEO 已经开始回报，SEO 还在等**——这是目前最硬的一组对照。
+- **两个「从香港来」的词都是 ❌**（机场到深圳、一日游）。这两个词的同场来源是国泰、香港机场官网、香港本地旅游站，**是香港侧的地盘，不是深圳侧**。与 GSC 里 `hong kong to shenzhen` 排 43 位是同一个结构性问题：**过境这条线上，本站在两边搜索引擎都打不进去**。要么放弃这条线，要么换一个只有深圳侧才知道的切口（新皇岗口岸就是这种切口）。
+- **eSIM 那条的同场来源从 9-09 的「只有 gizmodo」变成 15 家**：这个词的竞争在变激烈，排名不动也会被稀释。
+
 ## 6. 已知的干扰因素（讲的时候必须主动说）
 
 - **没有对照组**，无法证明因果
