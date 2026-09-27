@@ -6,7 +6,7 @@ category: "Electronics"
 stage: "here"
 categoryIcon: "📱"
 date: "2026-05-14"
-updated: "2026-08-25"
+updated: "2026-09-27"
 readingTime: "13 min read"
 featured: true
 ---
@@ -231,6 +231,8 @@ If you would rather not change trains at all, Line 4 → Convention & Exhibition
 New to shopping here? The [Shenzhen shopping guide](/guides/shopping-in-shenzhen) covers how bargaining works, how to pay at a stall, and why the shops at the border crossing are the worst value in the city.
 
 Coming over from Hong Kong for the day? The [Hong Kong to Shenzhen guide](/guides/hong-kong-to-shenzhen) compares every crossing, and Futian Checkpoint is the one that puts you closest to Huaqiangbei.
+
+Flying in from further away and unsure whether you need a visa at all? If your passport is not on China's visa-free list, the [240-hour visa-free transit](/guides/china-240-hour-visa-free-transit) gives you ten days, which is far more than a Huaqiangbei trip needs.
 
 ---
 
