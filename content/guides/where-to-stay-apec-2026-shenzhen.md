@@ -6,6 +6,7 @@ category: "Accommodation"
 stage: "apec"
 categoryIcon: "🏨"
 date: "2026-08-19"
+updated: "2026-10-04"
 readingTime: "9 min read"
 ---
 
@@ -41,6 +42,8 @@ And while we're clearing things up: the venue is **not** the Shenzhen Convention
 | Want distance from event congestion | **Nanshan** (Houhai / Science Park) | Newer, calmer, costs more |
 | Want the most international atmosphere | **Shekou / Sea World** | Expat heart of the city, but far |
 | On a budget, or commuting to Hong Kong | **Luohu** or **Futian Checkpoint** | Cheapest, right on the border |
+
+**Picked an area?** [Compare Shenzhen hotels on Klook](https://klook.tpm.li/W6wk18ZL), entering your actual travel dates and checking the map against the stations above. The results cover the whole city; a Shenzhen listing does not mean it is near the venue or available for APEC week. Check the room's cancellation deadline and the property's passport-registration arrangements before paying. This is an affiliate link: I may earn a commission at no extra cost to you. I have not personally stayed at every hotel listed.
 
 ## The Venue Area Itself: Quiet, and Thin on Food
 
@@ -96,19 +99,19 @@ I go out there to walk, and I'd recommend it to anyone with a free evening. It's
 
 Full breakdown of every district, including OCT and where not to stay, is in the [where to stay in Shenzhen guide](/guides/where-to-stay-in-shenzhen).
 
-## Booking: Two Things That Are Different in China
+## Booking: Three Things to Check
 
-**1. Not every hotel can legally take you.**
+**1. Confirm the passport-registration process.**
 
-Chinese hotels need a specific police registration to host foreign guests. In late 2024 three ministries — Public Security, Commerce, and the National Immigration Administration — jointly instructed hotels to stop turning foreign guests away, and the direction of travel is clearly toward this being a non-issue. But **enforcement is uneven**, and budget properties, guesthouses and some smaller domestic chains still can't process a foreign passport at the front desk. The failure mode is being refused at 11pm with your luggage.
+Do not treat "foreign-guest licence required" as the current rule. The [July 2024 policy from seven Chinese authorities](https://www.mofcom.gov.cn/zfxxgk/fdzdgknr/ztfl/fwmy/art/2024/art_c270f479bc8143dfb4754735ec870619.html) says qualifications must not be used as a barrier to accommodating overseas visitors. Hotels still have to [register foreign guests' accommodation](https://en.nia.gov.cn/n147423/n147478/n147715/c158241/content.html).
 
-Stick to international brands or established 4-5 star Chinese hotels, book through an international platform, and if a listing is cheap and unfamiliar, confirm before you pay. The [where to stay guide](/guides/where-to-stay-in-shenzhen) covers the checks in detail.
+Before paying, ask the property to confirm it can process your passport at check-in, especially for an unfamiliar listing or a late arrival. Keep that reply with your booking confirmation. An international booking platform is useful, but its listing alone does not confirm the front desk's arrangements.
 
 **2. Book earlier than you would elsewhere.**
 
 Shenzhen normally has deep hotel inventory and stable prices. **The week of November 16-20, 2026 is the exception.** Delegations will block out CBD and venue-area stock, roughly a thousand delegates are expected for the Leaders' Meeting alone, and associated events run either side of it. Expect noticeably higher rates and real scarcity near the venue.
 
-> **Book by early October at the latest**, and take the free-cancellation rate. You lose nothing by holding a room and rebooking if something better appears.
+> **Check availability for your actual dates now.** If your plans may change, compare refundable rates and read the cancellation deadline, deposit and no-show terms. "Free cancellation" does not mean you can cancel at any time.
 
 **3. Payment and check-in.** Bring your physical passport — a photo is not accepted anywhere in China. Prepay online where you can, since front desks can't always process a foreign card in person. Setting up [Alipay or Weixin Pay](/guides/alipay-wechat-pay-setup) before you land solves most of this.
 
@@ -138,7 +141,7 @@ No. It's the purpose-built Shenzhen International Exchange Center at Xiangmi Lak
 Only if you're attending something there. The area is quiet and residential with very little walkable dining. Most visitors are better off in the Futian CBD and riding over.
 
 **When should I book for APEC week?**
-Early October at the latest, with free cancellation. Venue-area and CBD stock will go first.
+Check live availability now for your actual dates. If your plans may change, choose a refundable rate and read its cancellation deadline; venue-area and CBD rooms may be in higher demand.
 
 **Can I attend APEC 2026?**
 The Leaders' Meeting isn't open to the public, and the associated business programmes have their own registration. Most people in Shenzhen that week are here for other reasons and just need to plan around it.
@@ -147,4 +150,4 @@ The Leaders' Meeting isn't open to the public, and the associated business progr
 Shekou and Sea World for the highest concentration, and the bar strip by Shopping Park station in Futian for the central option.
 
 **Will my hotel accept a foreign passport?**
-International brands and established 4-5 star hotels, yes. Budget and independent properties, not reliably, despite the 2024 directive telling them to. Check before you book.
+Hotels must not use a lack of foreign-guest qualifications as a barrier under the July 2024 policy, and they must complete accommodation registration. Confirm the property's passport-registration process before paying; neither a star rating nor a platform listing is a guarantee of a particular front desk's arrangements.

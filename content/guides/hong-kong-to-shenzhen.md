@@ -30,11 +30,11 @@ This guide covers everything you need to know before you cross.
 
 ## Do I Need a Visa?
 
-**Check your nationality first.** As of 2026, citizens of 76 countries can enter mainland China visa-free for up to 30 days. This includes the US, UK, most of Europe, Australia, Canada (announced January 2026), Japan, South Korea, and many others.
+**Check your passport against the official list.** Eligible ordinary-passport holders from countries including the UK, Canada, Australia, New Zealand, Japan, South Korea and many European countries can visit mainland China for up to 30 days for the permitted purposes. Check the [National Immigration Administration's country list](https://www.nia.gov.cn/n794014/n1050181/n1050484/c1731154/content.html), rather than combining different visa-free schemes into one country count. This section was checked on **4 October 2026**.
 
-If your country isn't on the list, you'll need a Chinese tourist visa (L visa) applied through a Chinese embassy or consulate before arrival.
+**US ordinary passports are not on that 30-day list.** American visitors need a visa or must qualify for a different entry scheme. The **240-hour transit** option requires an eligible itinerary, a confirmed onward ticket to a third country or region, and entry through a designated port; it is not a general Hong Kong–Shenzhen day-trip exemption. Check the [transit guide](/guides/china-240-hour-visa-free-transit) before choosing a crossing. If no exemption applies, arrange the appropriate Chinese visa before travelling.
 
-> **Quick check:** Search "China visa free countries 2026" and verify your nationality. Policy has been changing rapidly, don't rely on information older than a few months.
+> **Quick check:** Confirm your passport, visit purpose, route and entry port using official guidance. A policy for Hainan, a tour group or transit does not automatically permit an independent visit to Shenzhen.
 
 **2026 update:** China has kept expanding visa-free access, and Guangdong (the province Shenzhen is in) lets eligible travelers enter under the **240-hour visa-free transit** through multiple entry ports. If you're transiting between two international destinations, you may not need a visa at all — see our [240-hour visa-free transit guide](/guides/china-240-hour-visa-free-transit) for who qualifies and how it works.
 
@@ -213,6 +213,6 @@ Key areas:
 
 **Is it safe?** Shenzhen has a low violent crime rate. Normal city precautions apply (watch your phone in crowded areas).
 
-**How long can I stay?** If you're on a 30-day visa-free entry, your 30 days start from the day you cross the border, regardless of how long you spend in Hong Kong in between.
+**How long can I stay?** For the 30-day visa-free scheme, the permitted stay is counted from **midnight on the day after entry**, according to the [official rule](https://www.nia.gov.cn/n794014/n1050181/n1050484/c1731154/content.html). Keep within the allowance for your actual entry scheme; a return from Hong Kong is a new entry assessed by border officials.
 
 **Is there anything special about November 2026?** Yes. Shenzhen hosts the APEC Economic Leaders' Meeting on 18–19 November, which means heavier business traffic through the crossings, hotel prices well above normal, and traffic management in parts of Futian. If you're crossing that week, read the [APEC 2026 visitor guide](/guides/apec-2026-shenzhen-visitor-guide) first.

@@ -6,7 +6,7 @@ category: "Getting Around"
 stage: "here"
 categoryIcon: "🚇"
 date: "2026-05-15"
-updated: "2026-09-10"
+updated: "2026-10-04"
 readingTime: "9 min read"
 ---
 
@@ -150,7 +150,9 @@ At the station, follow the English signs, they're clear throughout the system. P
 
 **Luggage is fine.** Suitcases go through the gates without trouble, some stations have wider gates for exactly this, and there are lifts at street level. The bags still go through the X-ray scanner like everything else.
 
-**You need working data for navigation.** Amap requires an internet connection. Your home SIM's roaming plan often doesn't work reliably in mainland China, the firewall blocks the connection. An eSIM set up before arrival means maps work from the moment you cross the border — see the [eSIM guide](/guides/best-esim-for-shenzhen).
+**Plan your connection for navigation.** Check whether your existing roaming plan includes mainland China. If it does, you may not need another SIM. Otherwise, set up a [travel eSIM](/guides/best-esim-for-shenzhen) before arrival, and download a network map as a backup for stations with weak signal.
+
+**Need a China data plan?** [Compare Saily's China eSIM plans](https://saily.tpm.li/100xGny5) for maps and onward journeys. Check phone compatibility, data allowance and validity before buying, then install before you arrive. This is an affiliate link: I may earn a commission at no extra cost to you. I have not personally tested Saily; the [eSIM guide](/guides/best-esim-for-shenzhen) compares other options.
 
 **The metro doesn't cover every destination.** Some restaurants, smaller hotels, and street-level areas are a 10–15 minute walk from the nearest station. Combining metro for main journeys with [DiDi](/guides/didi-shenzhen-guide) for the last mile is the most practical approach.
 

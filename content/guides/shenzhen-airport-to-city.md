@@ -6,7 +6,7 @@ category: "Getting Around"
 stage: "arriving"
 categoryIcon: "✈️"
 date: "2026-09-11"
-updated: "2026-09-17"
+updated: "2026-10-04"
 readingTime: "7 min read"
 howTo:
   name: "How to take the metro from Shenzhen Airport to the city"
@@ -113,7 +113,13 @@ Both leave from the **Ground Transportation Centre** and run 24 hours.
 
 Ride-hailing prices vary more than you'd expect between apps. On a weekday afternoon this September, a Chinese map app quoted **¥39–61** for an economy car from the airport to Futian, with a promotion applied and a possible **¥13 expressway toll** added separately. The journey was estimated at about 40 minutes. International apps don't always show the same prices. **When I take a car from the airport to Futian myself, it usually comes to about ¥80–100**, so plan on that and treat anything cheaper as a promotion. Setting up the app is covered in my [DiDi guide](/guides/didi-shenzhen-guide).
 
-Whichever you use, you need working mobile data at the airport to book, so set up a [travel eSIM](/guides/best-esim-for-shenzhen) before you fly.
+For ride-hailing, keep an internet connection while booking and finding your driver. Check your roaming coverage or set up a [travel eSIM](/guides/best-esim-for-shenzhen) before you fly. A metered taxi does not require an app or mobile data.
+
+### If You Want to Arrange a Pickup Before Flying
+
+[Check Kiwitaxi's Shenzhen airport-to-city transfer options](https://kiwitaxi.tpm.li/RLn5T82s) if you prefer to arrange a private pickup in advance. Enter your hotel address, arrival date and passenger count to get the quote for your journey; the generic Shenzhen route is not a quote for every hotel. Check flight-delay handling, included waiting time, luggage capacity and cancellation terms before paying. Complete the booking on the website.
+
+This is usually a more expensive convenience option than the metro or a local taxi. I have not personally used Kiwitaxi. The link is an affiliate link: I may earn a commission at no extra cost to you.
 
 ## Arriving Late
 

@@ -243,9 +243,9 @@ export default async function GuidePage({
             title="Book before you fly"
             links={[
               {
-                name: 'Booking.com: Shenzhen Hotels',
-                url: AFFILIATE.bookingShenzhen,
-                description: 'Immigration may ask for proof of accommodation, book a free-cancellation room',
+                name: 'Klook: Shenzhen Hotels',
+                url: AFFILIATE.klookHotels,
+                description: 'Keep your accommodation confirmation; check cancellation terms before booking',
                 badge: 'Recommended',
               },
               {
@@ -263,10 +263,10 @@ export default async function GuidePage({
             title="Book your Shenzhen stay"
             links={[
               {
-                name: 'Booking.com: Shenzhen Hotels',
-                url: AFFILIATE.bookingShenzhen,
-                description: 'English interface, foreign cards accepted, free cancellation on most rooms',
-                badge: 'Best Choice',
+                name: 'Klook: Shenzhen Hotels',
+                url: AFFILIATE.klookHotels,
+                description: 'Choose your dates, compare areas, and check cancellation terms before booking',
+                badge: 'Compare Hotels',
               },
             ]}
           />
@@ -285,9 +285,9 @@ export default async function GuidePage({
             },
             {
               icon: '🏨',
-              title: 'Booking.com',
-              description: 'Best price guarantee on Shenzhen hotels. Free cancellation on most rooms.',
-              url: AFFILIATE.bookingShenzhen,
+              title: 'Klook: Shenzhen Hotels',
+              description: 'Compare hotels for your travel dates. Check the location and cancellation deadline.',
+              url: AFFILIATE.klookHotels,
             },
             {
               icon: '🎫',

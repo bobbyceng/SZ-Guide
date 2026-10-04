@@ -6,7 +6,7 @@ category: "Getting Around"
 stage: "here"
 categoryIcon: "🚗"
 date: "2026-05-15"
-updated: "2026-08-25"
+updated: "2026-10-04"
 readingTime: "8 min read"
 howTo:
   name: "How to book a DiDi ride in Shenzhen as a foreigner"
@@ -76,7 +76,9 @@ Once your ride is confirmed, DiDi assigns you a **numbered pickup bay** instead 
 
 Two things worth planning for:
 
-**You need working data before you can book anything.** You cannot summon a car from the arrivals hall on airport WiFi if the app can't reach its servers, and you cannot download the app inside China if the store is blocked. Set up a [travel eSIM](/guides/best-esim-for-shenzhen) before you land.
+**Have an internet connection before booking.** WiFi can work while you're in range, but mobile data lets you track the car and message the driver as you walk to the pickup bay. Download the app before departure and check that your roaming plan includes mainland China, or set up a [travel eSIM](/guides/best-esim-for-shenzhen) before you land.
+
+**Need a China data plan?** [Compare Saily's China eSIM plans](https://saily.tpm.li/A9kzybYc). Check that your phone is unlocked and eSIM-compatible, choose enough data for your stay, and install before departure. This is an affiliate link: I may earn a commission at no extra cost to you. I have not personally tested Saily; the [eSIM comparison](/guides/best-esim-for-shenzhen) covers alternatives.
 
 **Budget ¥80–120 to the city centre**, roughly 40–60 minutes to Futian depending on traffic. The Airport Express metro (Line 11) is far cheaper and often faster in rush hour, but DiDi wins when you have luggage or arrive late. The [airport-to-city guide](/guides/shenzhen-airport-to-city) compares every option side by side.
 
