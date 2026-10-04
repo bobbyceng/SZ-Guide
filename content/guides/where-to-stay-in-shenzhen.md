@@ -6,7 +6,7 @@ category: "Accommodation"
 stage: "arriving"
 categoryIcon: "🏨"
 date: "2026-06-11"
-updated: "2026-08-19"
+updated: "2026-10-04"
 readingTime: "6 min read"
 ---
 
@@ -16,18 +16,18 @@ This guide covers the areas that actually make sense for visitors, what each one
 
 ## The One Thing You Must Know First
 
-**Not every hotel in China can legally accept foreign guests.**
+**Confirm the hotel's passport-registration process before booking.**
 
-Hotels in China need a specific registration to host foreigners. Most budget domestic chains (and many cheap guesthouses you'll see on booking sites) don't have it. If you show up at one of these with a foreign passport, you'll be turned away at the front desk — possibly at 11pm with your luggage.
+China's [July 2024 accommodation policy](https://www.mofcom.gov.cn/zfxxgk/fdzdgknr/ztfl/fwmy/art/2024/art_c270f479bc8143dfb4754735ec870619.html) says qualifications must not be used as a barrier to hosting overseas visitors. The old advice that only hotels with a special foreign-guest qualification can legally host you is outdated. Hotels still have to [register foreign guests' accommodation](https://en.nia.gov.cn/n147423/n147478/n147715/c158241/content.html).
 
-How to avoid this:
+Before paying:
 
-- **Book through an international platform** like Booking.com, which primarily lists foreigner-friendly properties for international users.
-- **Stick to international brands** (Marriott, Hilton, Accor, Hyatt) or established Chinese 4–5 star hotels — these always accept foreigners.
-- **When in doubt, message the hotel before booking** and ask: "Do you accept foreign guests?" If the answer is vague, book elsewhere.
-- Read recent reviews from foreign guests. If foreigners stayed there last month, you're fine.
+- **Message the hotel** and ask: "Can your front desk complete foreign-passport accommodation registration for my stay?"
+- **Confirm your arrival time and payment method**, especially if you will arrive late. Keep the property's reply with your booking confirmation.
+- **Read recent reviews from foreign guests** for context, but do not treat past stays as a guarantee of today's arrangements.
+- **Check cancellation terms.** An international platform can help with booking and support, but neither a platform listing nor a star rating confirms a particular front desk's process.
 
-One more legal note: hotels handle your **police registration** automatically when you check in with your passport. That's one form of bureaucracy you don't have to think about — but it's also why the front desk will scan your passport. That's normal.
+For a hotel stay, the hotel is responsible for submitting your accommodation registration. Bring your passport for check-in; registration remains necessary even when you entered China visa-free.
 
 ## Quick Answer
 
