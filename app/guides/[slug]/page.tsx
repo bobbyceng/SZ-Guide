@@ -197,7 +197,7 @@ export default async function GuidePage({
               {
                 name: 'Airalo',
                 url: AFFILIATE.airalo,
-                description: 'Budget option from $5, great for short trips',
+                description: 'China plans from $4 for 1GB / 3 days; check current prices',
                 badge: 'Budget Pick',
               },
             ]}
@@ -209,10 +209,10 @@ export default async function GuidePage({
             title="Set up before you cross"
             links={[
               {
-                name: 'Nomad eSIM',
-                url: AFFILIATE.nomad,
-                description: 'Install before crossing, works without VPN in China',
-                badge: 'Essential',
+                name: 'Saily China eSIM',
+                url: AFFILIATE.saily,
+                description: 'Check phone compatibility and install before crossing; China coverage',
+                badge: 'China Data',
               },
               {
                 name: 'Klook: Shenzhen Attractions',
@@ -278,10 +278,10 @@ export default async function GuidePage({
           items={[
             {
               icon: '📶',
-              title: 'Nomad eSIM',
-              description: 'Reliable data in China, no VPN needed. Works with Google, WhatsApp, Instagram.',
-              url: AFFILIATE.nomad,
-              badge: 'Must-Have',
+              title: 'Saily China eSIM',
+              description: 'Compare China data plans and check phone compatibility. Install before arrival.',
+              url: AFFILIATE.saily,
+              badge: 'China Data',
             },
             {
               icon: '🏨',

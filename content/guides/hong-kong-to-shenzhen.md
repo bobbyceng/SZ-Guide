@@ -6,7 +6,7 @@ category: "Border Crossing"
 stage: "arriving"
 categoryIcon: "🛂"
 date: "2026-05-14"
-updated: "2026-09-27"
+updated: "2026-10-04"
 readingTime: "9 min read"
 featured: true
 howTo:
@@ -184,6 +184,8 @@ You're through. Take the escalator down to the Shenzhen metro. Signs are bilingu
 These three things will make your trip much smoother if done before crossing:
 
 **eSIM:** Chinese domestic networks block Google, WhatsApp, Instagram, and YouTube. An international eSIM (Airalo, Nomad) routes your traffic through servers outside China, so these apps continue to work without needing a VPN. Buy and install before you leave Hong Kong. [See our eSIM guide →](/guides/best-esim-for-shenzhen)
+
+One option is [Saily's China data plans →](https://saily.tpm.li/aOtfZGhF). Check phone compatibility and install before crossing. This is a China plan; if you also need data in Hong Kong, compare regional coverage before buying. **Affiliate disclosure:** I may earn a commission if you buy through this link, at no extra cost to you.
 
 **Alipay:** Almost every merchant in Shenzhen accepts Alipay. Cash is still accepted but increasingly inconvenient. You can link a foreign Visa or Mastercard to Alipay International and pay directly. Set this up in Hong Kong where you have unrestricted internet access. [See our payment guide →](/guides/alipay-wechat-pay-setup)
 

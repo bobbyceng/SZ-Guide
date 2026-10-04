@@ -1,12 +1,12 @@
 ---
 title: "Best eSIM for Shenzhen (and China) in 2026"
-description: "How to choose and install an eSIM for Shenzhen so Google, WhatsApp and Instagram keep working in China, with no VPN. Nomad, Airalo and Holafly compared on price, tethering and published China test results."
+description: "How to choose and install an eSIM for Shenzhen so Google, WhatsApp and Instagram keep working in China, with no VPN. Nomad, Saily, Airalo and Holafly compared on price, tethering and published China test results."
 cardBlurb: "Keep Google, WhatsApp and Instagram working. No VPN required."
 category: "Connectivity"
 stage: "before"
 categoryIcon: "📶"
 date: "2026-05-14"
-updated: "2026-09-09"
+updated: "2026-10-04"
 readingTime: "11 min read"
 featured: true
 ---
@@ -15,16 +15,16 @@ When you cross into mainland China, Google Maps stops working. So does WhatsApp,
 
 > **How this guide was put together, and what it isn't.** I live in Shenzhen and cross the border regularly, but I'm on a Chinese domestic plan, so **I have not personally tested these eSIMs**. Everything below is compiled from provider documentation and independent testing published in 2026, and I've said where the numbers come from.
 >
-> One thing worth knowing before you read any eSIM comparison, this one included: **most "we tested them all" eSIM sites earn a commission on whichever product they rank first.** That doesn't make their testing worthless, but it's a reason to check more than one source. I currently earn nothing from the links here. If that changes, this note changes with it.
+> One thing worth knowing before you read any eSIM comparison, this one included: **most "we tested them all" eSIM sites earn a commission on whichever product they rank first.** That doesn't make their testing worthless, but it's a reason to check more than one source. **Saily and Airalo links in this article are affiliate links:** if you buy through them, I may earn a commission at no extra cost to you. The Nomad link is an ordinary link. Recommendations below still distinguish provider claims from published testing.
 
 ## Quick Decision: Which eSIM Should I Buy?
 
 | Your situation | Recommended | Price | Notes |
 |---------------|-------------|-------|-------|
-| Cheapest option | **Saily** | From $4.49 | Lowest price here, and longer validity per plan |
-| 1–3 day trip | Airalo | From $5 | Longest budget track record in China |
+| Fixed data with longer validity | **Saily** | $10.99 / 3GB / 30 days | Useful when a short trip may become a longer stay |
+| 1–3 day trip | Airalo | From $4 | Entry plan is 1GB / 3 days; check data needs |
 | 4–7 days typical use | Nomad | From $9 | Strongest published China testing |
-| Working off a laptop | **Saily** or Airalo | From $4.49 | Both allow tethering; Saily's is unmetered |
+| Working off a laptop | **Saily** or Airalo | Compare data allowances | Both allow tethering; a fixed-data plan still has a total data cap |
 | Heavy data user | Holafly | From $27 | Unlimited, but check the tethering limits below |
 
 ---
@@ -77,12 +77,12 @@ Their APAC plan covers China plus Hong Kong, which is genuinely useful if you're
 
 ### Saily, Best Value
 
-**Price (from Saily's own site, checked 9 September 2026):** US$4.49 for 1GB / 7 days · US$10.99 for 3GB / 30 days · US$15.99 for 5GB / 30 days · US$26.99 for 10GB / 30 days · US$49.99 unlimited (5–30 days, your choice of window)
+**Price (from Saily's own site, checked 4 October 2026):** US$4.49 for 1GB / 7 days · US$10.99 for 3GB / 30 days · US$15.99 for 5GB / 30 days · US$26.99 for 10GB / 30 days · US$49.99 unlimited / 15 days. Other unlimited durations have different prices; check the live plan before buying.
 **Best for:** anyone comparing on price, and anyone who needs to tether
 
 Saily is the newest of the four, launched in 2023 by **Nord Security** — the company behind NordVPN. That lineage is the reason it gets taken seriously despite being new.
 
-**On price it is simply the cheapest here**, and the gap is wider than the headline suggests: its 3GB and 5GB plans run **30 days**, where Airalo's comparable plans run 15. Plans also carry a 180-day activation window, so buying early costs you nothing.
+**Compare validity as well as the headline price.** Saily's US$4.49 entry plan lasts 7 days, while Airalo's cheaper US$4 entry plan lasts 3 days. Saily's 3GB and 5GB plans run **30 days**. Plans also carry a 180-day activation window; check the activation conditions when buying ahead.
 
 **Published China testing is strong.** Testing across Beijing, Shenzhen and Shanghai over a 14-day period in 2026 reported WhatsApp, Google Search and Netflix all working without a VPN, 5G held consistently with only occasional drops to LTE, and **unlimited tethering** — one plan covering a group. [Gizmodo ranks it first for China](https://gizmodo.com/best-esim-provider/china).
 
@@ -90,15 +90,15 @@ Saily is the newest of the four, launched in 2023 by **Nord Security** — the c
 >
 > Read that carefully. The **data** works; the **app** may not open once you are inside the country. So buy the plan, install the profile and confirm it works **before you fly** — if you need the app to fix something after you land, you may not be able to reach it. This is the same trap covered below, but here the provider says it themselves.
 
-**Why it isn't ranked first here:** it is the newest provider of the four and has the thinnest track record in China specifically. The price and the published tests are both real; there is simply less accumulated evidence than for Nomad or Airalo. If price is your deciding factor, this is the one.
+**Why it isn't ranked first here:** it is the newest provider of the four and has the thinnest track record in China specifically. The price and the published tests are both real; there is simply less accumulated evidence than for Nomad or Airalo. Compare its validity and data allowance with Airalo rather than assuming either is always cheapest.
 
-[Saily China plans →](https://saily.com/esim-china/)
+[Saily China plans →](https://saily.tpm.li/eMiZnQ4q)
 
 ---
 
 ### Airalo, Best Budget Option
 
-**Price:** From US$5 for 1GB / 7 days (recommended: US$10 for 3GB / 15 days)
+**Price (from Airalo's own site, checked 4 October 2026):** From US$4 for 1GB / 3 days. For a short trip with more data, US$9.50 buys 3GB / 3 days; US$10.50 buys 3GB / 7 days. Check the selected plan's validity before paying.
 **Best for:** Short trips (1–3 days), budget travelers, and anyone who needs to tether a laptop
 
 Airalo is the most well-known eSIM marketplace. For a quick Shenzhen day trip or weekend, the smaller plans are usually sufficient.
@@ -107,7 +107,7 @@ Airalo is the most well-known eSIM marketplace. For a quick Shenzhen day trip or
 
 **Important:** Buy the China-specific plan, not a "Global" plan. Global plans often route differently and may be less reliable inside China.
 
-[Buy Airalo eSIM →](https://www.airalo.com)
+[Buy Airalo China eSIM →](https://airalo.tpm.li/9zsbHEcd)
 
 ---
 
@@ -129,16 +129,18 @@ If you're going to be on Maps and video constantly, the unlimited plan removes t
 
 | Feature | Nomad | Saily | Airalo | Holafly |
 |---------|-------|-------|--------|---------|
-| Starting price | $9 / 3GB / 15d | **$4.49 / 1GB / 7d** | $5 / 1GB / 7d | $27 / unlimited / 7d |
-| Recommended plan | $15 / 5GB / 30d | **$10.99 / 3GB / 30d** | $10 / 3GB / 15d | $27 / unlimited / 7d |
+| Starting price | $9 / 3GB / 15d | $4.49 / 1GB / 7d | **$4 / 1GB / 3d** | $27 / unlimited / 7d |
+| Recommended plan | $15 / 5GB / 30d | **$10.99 / 3GB / 30d** | $10.50 / 3GB / 7d | $27 / unlimited / 7d |
 | **Laptop tethering** | Generally yes | **Yes, unlimited** | **Yes** | **Mostly no; ~1GB/day where allowed** |
-| Data cap | By plan | By plan (unlimited option $49.99) | By plan | Unlimited, but throttled at an undisclosed point |
+| Data cap | By plan | By plan (unlimited $49.99 / 15d) | By plan; unlimited options available | Unlimited, but throttled at an undisclosed point |
 | Google / WhatsApp | ✓ | ✓ | ✓ | ✓ |
 | Multi-country APAC | ✓ | 200+ destinations | ✓ | China only |
 | Top-up in app | ✓ | ✓ (app may not open in China) | ✓ | ✓ |
 | Track record in China | Longest | **Newest** | Long | Long |
 
 I've dropped the "network speed" row that used to be here. All four run 4G/LTE and the real-world difference depends far more on where you are standing than on which logo is on the plan, so a one-word rating in a table was more confident than the evidence supports.
+
+Saily and Airalo prices above were rechecked on 4 October 2026. Nomad and Holafly prices were not rechecked in that update; confirm their current offers before buying.
 
 ---
 
@@ -175,7 +177,7 @@ I've dropped the "network speed" row that used to be here. All four run 4G/LTE a
 
 ![Choosing an eSIM data plan in the app, selecting a Shenzhen China package](/images/guides/esim-guide/02-buy-esim-plan.jpg)
 
-Download the Nomad or Airalo app (or visit their website). Select China or Asia Pacific, choose your data amount, and pay. You'll receive a QR code immediately, either in the app or by email.
+Open the provider's website using the plan links above, select your coverage, data allowance and validity, and complete the purchase there. A China-only plan does not automatically cover Hong Kong: choose a regional plan if you need both. Then follow the provider's installation instructions, which may use a QR code or their app. Download any required app and install the profile before crossing into mainland China.
 
 ### Step 2: Install the eSIM Profile
 

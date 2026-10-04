@@ -21,6 +21,7 @@ const guidesDirectory = path.join(process.cwd(), 'content/guides')
 const AFFILIATE_DOMAINS = [
   'getnomad.app',
   'airalo.com',
+  'saily.com',
   'holafly.com',
   'klook.com',
   'booking.com',
@@ -31,6 +32,7 @@ const AFFILIATE_DOMAINS = [
   'kiwitaxi.com',
   'welcomepickups.com',
   'tp.media',
+  'tpm.li',
   'travelpayouts.com',
 ]
 
