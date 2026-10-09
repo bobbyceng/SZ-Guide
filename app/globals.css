@@ -32,6 +32,7 @@ body {
 /* ── Article body ───────────────────────────────────────── */
 
 .article-body h2 {
+  scroll-margin-top: 7.5rem;
   font-size: 1.55rem;
   font-weight: 700;
   margin-top: 2.5rem;
@@ -44,6 +45,7 @@ body {
 }
 
 .article-body h3 {
+  scroll-margin-top: 7.5rem;
   font-weight: 700;
   margin-top: 1.75rem;
   margin-bottom: 0.5rem;
@@ -172,6 +174,52 @@ body {
   box-shadow: 0 2px 16px rgba(0, 0, 0, 0.10);
   display: block;
 }
+
+.quick-guide {
+  border-left: 3px solid var(--amber-dark);
+  background: #f1eadf;
+  padding: 1.5rem;
+  border-radius: 0 10px 10px 0;
+}
+
+.guide-contents {
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+
+.guide-contents summary:focus-visible,
+.guide-contents a:focus-visible {
+  outline: 2px solid var(--amber-dark);
+  outline-offset: 4px;
+}
+
+.reader-photo { margin: 1.5rem 0; }
+.reader-photo-frame { position: relative; }
+.article-body .reader-photo img { margin: 0; }
+.reader-marker {
+  position: absolute;
+  display: grid;
+  place-items: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background: #fff;
+  color: var(--ink);
+  font-weight: 700;
+  border: 2px solid var(--amber);
+  box-shadow: 0 1px 6px #0004;
+}
+.reader-marker-logos { top: 61%; left: 8%; }
+.reader-marker-tap { top: 83%; right: 8%; }
+.reader-photo figcaption {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.25rem;
+  padding: 0.75rem 0;
+  font-size: 0.8rem;
+  color: #57534e;
+}
+.reader-photo figcaption b { color: var(--amber-dark); margin-right: 0.35rem; }
 
 /* ── Article code ───────────────────────────────────────────── */
 

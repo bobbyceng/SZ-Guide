@@ -6,9 +6,21 @@ category: "Electronics"
 stage: "here"
 categoryIcon: "📱"
 date: "2026-05-14"
-updated: "2026-09-27"
+updated: "2026-10-09"
 readingTime: "13 min read"
 featured: true
+quickSummary:
+  - "Come with a short shopping list and compare stalls before paying. The district is also worth exploring without buying."
+  - "Test electronics before you leave the stall and be cautious about claims of authenticity."
+  - "Huaqiangbei and Huaqiang Road are different metro stations. Check your destination building before choosing an exit."
+cover:
+  src: "/images/guides/huaqiangbei/walking-street-cc0.webp"
+  alt: "Huaqiangbei pedestrian street between electronics-market buildings"
+  caption: "Huaqiangbei pedestrian street, photographed in February 2019; shops and signs may have changed."
+  credit: "Mx. Granger"
+  source: "https://commons.wikimedia.org/wiki/File:Huaqiangbei_walking_street.jpg"
+  license: "CC0 1.0"
+  licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 ---
 
 Huaqiangbei (华强北) is the largest electronics wholesale market in the world. A few square kilometers of Shenzhen contain thousands of stalls selling components, gadgets, phone parts, cables, tools, and consumer electronics at prices you won't find anywhere else.

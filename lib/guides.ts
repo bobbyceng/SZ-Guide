@@ -6,6 +6,7 @@ import html from 'remark-html'
 import gfm from 'remark-gfm'
 import { annotateMetroLines } from './metro-lines'
 import { imageSize } from 'image-size'
+import type { Root, RootContent } from 'mdast'
 
 const guidesDirectory = path.join(process.cwd(), 'content/guides')
 
@@ -164,6 +165,8 @@ export interface GuideMetadata {
   updated?: string
   readingTime: string
   featured: boolean
+  quickSummary?: string[]
+  cover?: { src: string; alt: string; caption: string; credit: string; source: string; license: string; licenseUrl: string }
   /**
    * Optional HowTo steps, declared per guide rather than parsed out of the
    * markdown. Only guides that really are a single procedure get one; the
@@ -174,6 +177,15 @@ export interface GuideMetadata {
 
 export interface Guide extends GuideMetadata {
   contentHtml: string
+  contents: { id: string; title: string }[]
+}
+
+// Generate links from the same Markdown tree as the article, so labels and
+// destinations cannot drift. Prefix IDs to avoid existing step anchors.
+function headingText(node: RootContent): string {
+  if ('value' in node) return node.value
+  if ('children' in node) return node.children.map(headingText).join('')
+  return ''
 }
 
 export function getAllGuides(): GuideMetadata[] {
@@ -201,8 +213,22 @@ export async function getGuideBySlug(slug: string): Promise<Guide> {
   const fullPath = path.join(guidesDirectory, `${slug}.md`)
   const fileContents = fs.readFileSync(fullPath, 'utf8')
   const { data, content } = matter(fileContents)
-  const processed = await remark().use(gfm).use(html, { sanitize: false }).process(content)
-  return { slug, contentHtml: annotateMetroLines(annotateImages(annotateExternalLinks(processed.toString()))), ...data } as Guide
+  const contents: Guide['contents'] = []
+  const used = new Set<string>()
+  const headings = () => (tree: Root) => {
+    for (const node of tree.children) {
+      if (node.type !== 'heading') continue
+      const title = headingText(node)
+      const base = 'guide-' + (title.toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') || 'section')
+      let id = base
+      for (let n = 2; used.has(id); n++) id = `${base}-${n}`
+      used.add(id)
+      node.data = { ...node.data, hProperties: { ...node.data?.hProperties, id } }
+      if (node.depth === 2) contents.push({ id, title })
+    }
+  }
+  const processed = await remark().use(gfm).use(headings).use(html, { sanitize: false }).process(content)
+  return { ...data, slug, contents, contentHtml: annotateMetroLines(annotateImages(annotateExternalLinks(processed.toString()))) } as Guide
 }
 
 export function getAllGuideSlugs(): string[] {

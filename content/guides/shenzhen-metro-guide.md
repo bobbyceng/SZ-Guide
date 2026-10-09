@@ -6,8 +6,12 @@ category: "Getting Around"
 stage: "here"
 categoryIcon: "🚇"
 date: "2026-05-15"
-updated: "2026-10-04"
+updated: "2026-10-09"
 readingTime: "9 min read"
+quickSummary:
+  - "Using a contactless foreign card? Find the separate black reader with card logos, then tap in and out with the same card."
+  - "Alipay or WeChat Pay is another option. Set it up before your trip and keep a backup way to pay."
+  - "For the airport, look for Line 11 at Airport station. Airport East on Line 1 is a different station."
 ---
 
 The Shenzhen metro is fast, cheap, clean, and straightforward once you know the key lines. Eighteen lines cover almost every destination a visitor needs, and signs and announcements are in English throughout.
@@ -24,7 +28,14 @@ Shenzhen metro takes contactless foreign cards directly. Tap at the entry gate, 
 
 **But not at every gate, and this is where people get stuck.** Only designated turnstiles take an international card. Look for a **separate black reader module stuck onto the gate**, with the card logos printed on it and "请刷卡 / Tap Here" underneath — that module is what you are looking for, not the gate itself. There are usually **only one or two per gate line, normally at the far ends of the row**. Tapping a foreign card at an ordinary gate simply does not open it, and the queue behind you will not understand why.
 
-![The international card reader on a Shenzhen Metro gate: Visa, Mastercard, American Express and JCB logos above "请刷卡 / Tap Here". Photographed September 2026.](/images/guides/metro/01-intl-card-reader.jpg)
+<figure class="reader-photo">
+  <div class="reader-photo-frame">
+    <img src="/images/guides/metro/01-intl-card-reader.jpg" alt="A Shenzhen Metro international-card reader, with card logos above the Tap Here target; photographed September 2026." />
+    <span class="reader-marker reader-marker-logos" aria-hidden="true">1</span>
+    <span class="reader-marker reader-marker-tap" aria-hidden="true">2</span>
+  </div>
+  <figcaption><span><b>1</b> Check the card logos.</span><span><b>2</b> Tap on the marked target below.</span></figcaption>
+</figure>
 
 *This is the module to look for. I took this on a gate in September 2026 — if the gate in front of you doesn't have one, walk to the end of the row.*
 

@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import { getFeaturedGuides, getAllGuides } from '@/lib/guides'
 import GuideCard from '@/components/GuideCard'
 import LeadGuideCard from '@/components/LeadGuideCard'
@@ -19,30 +20,8 @@ export default function HomePage() {
     <div>
       {/* Hero, editorial split: cream text left, city photo right */}
       <section className="relative bg-[#faf7f2] overflow-hidden">
-        {/* Photo panel, right half, full bleed */}
-        <div
-          className="absolute right-0 top-0 bottom-0 w-1/2 hidden md:block"
-          aria-hidden="true"
-        >
-          <img
-            src="https://images.unsplash.com/photo-1657639809496-6a4af16ce1a2?auto=format&fit=crop&w=1400&q=80"
-            alt=""
-            width={1400}
-            height={933}
-            fetchPriority="high"
-            className="w-full h-full object-cover object-center"
-          />
-          {/* Blend left edge into cream background */}
-          <div className="absolute inset-0 bg-gradient-to-r from-[#faf7f2] via-[#faf7f2]/50 to-transparent" />
-          {/* Bottom fade. At /30 this only tinted the photo, which left a hard
-              horizontal edge where the hero ends — hidden while the category
-              strip sat underneath, exposed once it was removed. Fading to the
-              full page colour lets the photo dissolve into the page instead. */}
-          <div className="absolute inset-x-0 bottom-0 h-40 bg-gradient-to-t from-[#faf7f2] to-transparent" />
-        </div>
-
         {/* Text content */}
-        <div className="relative max-w-5xl mx-auto px-6 py-20 md:py-32">
+        <div className="relative z-10 max-w-5xl mx-auto px-6 py-14 md:py-32">
           <div className="max-w-md">
             {/* Live badge */}
             <div className="fade-up inline-flex items-center gap-2 rounded-full px-3 py-1.5 text-xs mb-8 border border-stone-200 text-stone-500 bg-white shadow-sm">
@@ -89,22 +68,30 @@ export default function HomePage() {
                   →
                 </span>
               </Link>
+              <Link href="/guides/apec-2026-shenzhen-visitor-guide"
+                className="inline-flex items-center justify-center px-5 py-3 rounded-lg text-sm font-semibold text-stone-800 border border-stone-300 hover:border-stone-600 transition-colors">
+                Plan your APEC visit
+              </Link>
             </div>
           </div>
         </div>
 
-        {/* Mobile photo strip */}
-        <div className="md:hidden relative h-44 overflow-hidden">
-          <img
-            src="https://images.unsplash.com/photo-1657639809496-6a4af16ce1a2?auto=format&fit=crop&w=800&q=60"
-            alt="Shenzhen city skyline"
-            width={800}
-            height={533}
-            fetchPriority="high"
-            className="w-full h-full object-cover"
+        {/* One responsive image avoids loading separate desktop/mobile copies. */}
+        <div className="relative h-44 overflow-hidden md:absolute md:right-0 md:top-0 md:bottom-0 md:h-auto md:w-1/2">
+          <Image
+            src="/images/home/futian-night-cai-fang.webp"
+            alt="Futian's illuminated office towers in Shenzhen at dusk"
+            fill
+            sizes="(min-width: 768px) 50vw, 100vw"
+            preload
+            className="object-cover object-[center_38%] md:object-center"
           />
-          <div className="absolute inset-0 bg-gradient-to-b from-[#faf7f2]/60 via-transparent to-[#faf7f2]" />
+          <div className="hidden md:block absolute inset-0 bg-gradient-to-r from-[#faf7f2] via-[#faf7f2]/50 to-transparent" />
+          <div className="absolute inset-x-0 bottom-0 h-24 md:h-40 bg-gradient-to-t from-[#faf7f2] to-transparent" />
         </div>
+        <p className="relative max-w-5xl mx-auto px-6 pb-3 text-xs text-stone-500 md:text-right">
+          Futian, Shenzhen · Photo by <a href="https://unsplash.com/photos/a-city-skyline-with-skyscrapers-lit-up-at-night-qpFEUCV-xmI" className="underline underline-offset-2">Cai Fang</a> / Unsplash
+        </p>
       </section>
 
       <div className="max-w-5xl mx-auto px-6 py-14">

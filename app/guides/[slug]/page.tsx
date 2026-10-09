@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
+import Image from 'next/image'
 import { getGuideBySlug, getAllGuideSlugs } from '@/lib/guides'
 import AffiliateBox from '@/components/AffiliateBox'
 import RecommendationCard from '@/components/RecommendationCard'
@@ -29,6 +30,7 @@ export async function generateMetadata({
         url,
         type: 'article',
         publishedTime: guide.date,
+        ...(guide.cover && { images: [{ url: guide.cover.src, alt: guide.cover.alt }] }),
       },
     }
   } catch {
@@ -84,6 +86,7 @@ export default async function GuidePage({
     dateModified: guide.updated ?? guide.date,
     url: pageUrl,
     mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+    ...(guide.cover && { image: new URL(guide.cover.src, pageUrl).href }),
     author: {
       '@type': 'Person',
       name: 'Xiangan Zeng',
@@ -152,7 +155,7 @@ export default async function GuidePage({
             {guide.title}
           </h1>
           <p className="text-stone-500 text-lg leading-relaxed mb-5">{guide.description}</p>
-          <div className="flex items-center gap-3 text-sm text-stone-400">
+          <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-stone-500">
             <span>
               By{' '}
               <Link href="/about" className="text-stone-600 hover:text-amber-600 hover:underline font-medium">
@@ -176,6 +179,46 @@ export default async function GuidePage({
         </div>
 
         <hr className="border-stone-200 mb-10" />
+
+        {guide.cover && (
+          <figure className="mb-8">
+            <Image src={guide.cover.src} alt={guide.cover.alt} width={1400} height={1050}
+              sizes="(max-width: 704px) calc(100vw - 32px), 672px"
+              className="w-full h-auto rounded-xl" />
+            <figcaption className="mt-2 text-xs leading-relaxed text-stone-500">
+              {guide.cover.caption}{' '}Photo: <a href={guide.cover.source} className="underline underline-offset-2">{guide.cover.credit}</a>
+              {' · '}<a href={guide.cover.licenseUrl} className="underline underline-offset-2">{guide.cover.license}</a>.
+            </figcaption>
+          </figure>
+        )}
+
+        {guide.quickSummary && (
+          <section aria-labelledby="quick-guide-title" className="quick-guide mb-6">
+            <h2 id="quick-guide-title" className="text-xl font-semibold text-stone-900 mb-4"
+              style={{ fontFamily: 'var(--font-display), serif' }}>The short version</h2>
+            <ul className="space-y-3">
+              {guide.quickSummary.map((point) => (
+                <li key={point} className="flex gap-3 text-sm leading-relaxed text-stone-700">
+                  <span aria-hidden="true" className="mt-2 h-1.5 w-1.5 rounded-full bg-amber-600 shrink-0" />
+                  <span>{point}</span>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        {guide.contents.length > 2 && (
+          <nav aria-label="On this page" className="guide-contents mb-10">
+            <details>
+              <summary className="cursor-pointer font-semibold text-sm text-stone-800 py-4">On this page <span className="font-normal text-stone-500">({guide.contents.length} sections)</span></summary>
+              <ul className="grid gap-x-6 gap-y-3 sm:grid-cols-2 pb-5 text-sm">
+                {guide.contents.map((item) => (
+                  <li key={item.id}><a href={`#${item.id}`} className="text-stone-600 hover:text-amber-800 underline decoration-stone-300 underline-offset-4">{item.title}</a></li>
+                ))}
+              </ul>
+            </details>
+          </nav>
+        )}
 
         {/* Article body */}
         <article

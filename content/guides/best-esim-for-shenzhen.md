@@ -6,7 +6,7 @@ category: "Connectivity"
 stage: "before"
 categoryIcon: "📶"
 date: "2026-05-14"
-updated: "2026-10-04"
+updated: "2026-10-09"
 readingTime: "11 min read"
 featured: true
 ---
@@ -175,7 +175,7 @@ Saily and Airalo prices above were rechecked on 4 October 2026. Nomad and Holafl
 
 ### Step 1: Buy Your Plan
 
-![Choosing an eSIM data plan in the app, selecting a Shenzhen China package](/images/guides/esim-guide/02-buy-esim-plan.jpg)
+> **Before you buy:** check the data allowance, validity period, mainland China coverage and the live price on the provider’s checkout page.
 
 Open the provider's website using the plan links above, select your coverage, data allowance and validity, and complete the purchase there. A China-only plan does not automatically cover Hong Kong: choose a regional plan if you need both. Then follow the provider's installation instructions, which may use a QR code or their app. Download any required app and install the profile before crossing into mainland China.
 

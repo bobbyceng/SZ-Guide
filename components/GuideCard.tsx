@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import { GuideMetadata } from '@/lib/guides'
 
 // "Updated" is only worth showing while it is still news. Sixty days was too
@@ -25,37 +26,44 @@ export default function GuideCard({ guide }: { guide: GuideMetadata }) {
         to hover and a title that changes colour — enough to show the card is
         interactive, and nothing more.
       */}
-      <article className="bg-white rounded-xl p-5 h-full flex flex-col border border-stone-200 transition-colors duration-150 group-hover:border-stone-400">
-        <p className="text-[11px] font-medium uppercase tracking-wider text-stone-400 mb-2.5">
-          {guide.category}
-        </p>
+      <article className="bg-white rounded-xl overflow-hidden h-full flex flex-col border border-stone-200 transition-colors duration-150 group-hover:border-stone-400">
+        {guide.cover && (
+          <div className="relative aspect-[16/9]">
+            <Image src={guide.cover.src} alt="" fill sizes="(max-width: 768px) calc(100vw - 48px), 488px" className="object-cover" />
+          </div>
+        )}
+        <div className="p-5 flex flex-col flex-1">
+          <p className="text-[11px] font-medium uppercase tracking-wider text-stone-400 mb-2.5">
+            {guide.category}
+          </p>
 
-        <h3
-          className="font-bold text-stone-900 leading-snug mb-2 text-balance transition-colors duration-150 group-hover:text-amber-700"
-          style={{ fontFamily: 'var(--font-display), serif', fontSize: '1rem' }}
-        >
-          {guide.title}
-        </h3>
+          <h3
+            className="font-bold text-stone-900 leading-snug mb-2 text-balance transition-colors duration-150 group-hover:text-amber-700"
+            style={{ fontFamily: 'var(--font-display), serif', fontSize: '1rem' }}
+          >
+            {guide.title}
+          </h3>
 
-        <p className="text-sm text-stone-500 leading-relaxed line-clamp-2">
-          {guide.cardBlurb ?? guide.description}
-        </p>
+          <p className="text-sm text-stone-500 leading-relaxed line-clamp-2">
+            {guide.cardBlurb ?? guide.description}
+          </p>
 
-        {/* mt-auto pins the meta row to the bottom of the card, so a title that
-            wraps to three lines no longer pushes its own date out of line with
-            the cards beside it. */}
-        <div className="mt-auto pt-4 flex items-center gap-2 text-xs text-stone-400">
-          <span>{guide.readingTime}</span>
-          <span aria-hidden="true">·</span>
-          {/* The card shows when it was published. A recent edit gets its own
-              marker instead of overwriting the date, so a guide from May that
-              was revised last week reads as exactly that. */}
-          <time dateTime={guide.date}>
-            {new Date(guide.date).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}
-          </time>
-          {guide.updated && isRecent(guide.updated) && (
-            <span className="text-amber-700 font-medium">· Updated</span>
-          )}
+          {/* mt-auto pins the meta row to the bottom of the card, so a title that
+              wraps to three lines no longer pushes its own date out of line with
+              the cards beside it. */}
+          <div className="mt-auto pt-4 flex items-center gap-2 text-xs text-stone-400">
+            <span>{guide.readingTime}</span>
+            <span aria-hidden="true">·</span>
+            {/* The card shows when it was published. A recent edit gets its own
+                marker instead of overwriting the date, so a guide from May that
+                was revised last week reads as exactly that. */}
+            <time dateTime={guide.date}>
+              {new Date(guide.date).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}
+            </time>
+            {guide.updated && isRecent(guide.updated) && (
+              <span className="text-amber-700 font-medium">· Updated</span>
+            )}
+          </div>
         </div>
       </article>
     </Link>

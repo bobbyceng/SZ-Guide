@@ -6,9 +6,13 @@ category: "Planning"
 stage: "apec"
 categoryIcon: "🌏"
 date: "2026-08-18"
-updated: "2026-10-04"
+updated: "2026-10-09"
 readingTime: "12 min read"
 featured: true
+quickSummary:
+  - "The APEC Economic Leaders’ Meeting is scheduled for 18–19 November 2026 in Shenzhen."
+  - "The Leaders’ Meeting is not open to the public. Check the relevant programme’s registration and access requirements."
+  - "Plan entry documents, accommodation, mobile data and payment before travelling. Check official channels for event-week restrictions."
 ---
 
 Shenzhen hosts the **33rd APEC Economic Leaders' Meeting on November 18-19, 2026**. It's the third time a Chinese city has hosted, after Shanghai in 2001 and Beijing in 2014, and the first time for Shenzhen.
