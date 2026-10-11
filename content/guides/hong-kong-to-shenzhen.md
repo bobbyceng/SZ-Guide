@@ -6,7 +6,7 @@ category: "Border Crossing"
 stage: "arriving"
 categoryIcon: "🛂"
 date: "2026-05-14"
-updated: "2026-10-04"
+updated: "2026-10-11"
 readingTime: "9 min read"
 featured: true
 howTo:
@@ -48,7 +48,7 @@ At a glance, then in detail below.
 | **Lok Ma Chau / Futian** 福田 | MTR East Rail to Lok Ma Chau (one stop before Lo Wu) | ~HK$45 | 06:30–22:30 | Futian Checkpoint station, **Lines 4 / 10** | Speed. Huaqiangbei, Coco Park |
 | **West Kowloon** high-speed rail | MTR to West Kowloon | HK$86 | ~07:00–22:30 | Shenzhen North, **Line 4 / Line 6** | **14 minutes.** Luggage, rain, comfort |
 | **Shenzhen Bay** 深圳湾 | Cross-border coach from Hong Kong | varies | 06:30–24:00 | **Line 13** (since Dec 2024) | Heading to Nanshan, or flying out of **SZX** |
-| **Huanggang** 皇岗 | Bus or taxi to Huanggang Port | — | **24 hours** | — | The only crossing open overnight |
+| **Huanggang** 皇岗 | Bus or taxi; new transport arrangements from 12 October | varies | **24 hours** | New hall scheduled for 12 October 06:30; **Line 7** | Overnight crossing; check onward transport |
 
 **Flying into Hong Kong?** Starting from the airport changes the choice. The [Hong Kong Airport to Shenzhen guide](/guides/hong-kong-airport-to-shenzhen) picks the route by where in Shenzhen you are going, and covers the ferry that skips Hong Kong immigration.
 
@@ -120,23 +120,19 @@ At a glance, then in detail below.
 
 **How to get there:** bus or taxi to Huanggang Port. No MTR on the Hong Kong side.
 
-> 🚧 **This crossing is being rebuilt, and the new one may open in October 2026.**
+> **New hall scheduled for 12 October 2026 at 06:30.** Hong Kong and Shenzhen announced this jointly on 9 October, replacing the earlier unconfirmed target. The rebuilt port will provide **24-hour passenger clearance**, with both jurisdictions' checks in one building. At the switchover, passenger services at the old **Lok Ma Chau road control point** and Shenzhen's temporary Huanggang hall will be suspended. [Official announcement →](https://www.info.gov.hk/gia/general/202610/09/P2026100900280p.htm)
 >
-> Huanggang has been running out of a temporary passenger hall while a much larger building goes up on the old site. The rebuilt crossing works differently: **Hong Kong and mainland checks happen in the same building**, one after the other, instead of on opposite sides of a road. Officials on both sides say that cuts a crossing from roughly 30 minutes to about 5. It stays open 24 hours, and it connects directly to **Huanggang Port station on Line 7**.
->
-> **What is actually confirmed:** the Hong Kong port area inside the Shenzhen building legally came into being on 31 July 2026, and Hong Kong's 2026 Policy Address (16 September) says the rebuilt crossing is expected to open in the fourth quarter of this year. On **23 September** the road works around the building — ramps onto the Guangshen Expressway, surface roads and two tunnels that separate taxis, buses and private cars — passed completion inspection. The North Plaza and the Lok Ma Chau bridge were handed over earlier, and the North Plaza is what links **Huanggang Port station on Line 7 to level B2 of the building**, so you will be able to arrive by metro and walk straight into the clearance hall. In other words the infrastructure is finished and waiting.
->
-> **What is not:** the opening date. Hong Kong media reported in mid-September that both governments are aiming for **Monday 12 October**, picked to miss the Golden Week rush and the weekend. That is a press report, not an announcement, and on 20 September the Secretary for Security said the systems were still being fine-tuned. **If you are crossing at Huanggang in October, check the day before you travel.** The [new Huanggang crossing page](/guides/new-huanggang-port) tracks what is confirmed, what is only reported, and whether it should change which border you use.
+> **Checked 11 October:** the new hall is not yet open. Before 06:30 on 12 October, use the existing facilities; travellers who arrive there before that time can finish clearance there. Allow extra time during the transition and check the [official switchover notice](https://www.info.gov.hk/gia/general/202610/09/P2026100900649.htm).
 
-**Quietest window:** roughly **01:00–05:00**. If you have ever queued 90 minutes at Lo Wu on a Saturday, crossing at 3am is a different experience entirely.
+**Shenzhen-side metro:** the Port Office lists **Huanggang Port station on Line 7**, Exit F to the North Plaza and a B2 underground connection to the new building. Follow the [official port guide](https://ka.sz.gov.cn/ztzl/hgkazt/index.html), rather than an old temporary-hall route.
 
-> ⚠️ **The trap: the border is open all night, the transport isn't.**
->
-> People plan a 4am crossing to catch an early flight and assume they can get onward from there. Going **towards Hong Kong Airport**, the bus from Huanggang runs roughly **05:20 to 23:00**, every 20–30 minutes, and takes about **50 minutes**. So the earliest realistic arrival at HKIA by bus is around **06:10** — if your flight is at 06:00, no amount of crossing early fixes that.
->
-> For anything earlier than that you are looking at a taxi or a shared van from the Hong Kong side, or crossing the night before and staying near the airport. **Check the onward leg before you plan the crossing time**, not the other way round.
+**Different from Futian:** the road control point above is not the **Lok Ma Chau Spur Line / Futian Checkpoint** rail crossing in section 2. Hong Kong's [Immigration Department lists them separately](https://www.immd.gov.hk/eng/contactus/control_points.html); the switchover announcement is not a closure notice for the MTR crossing.
 
-**Best for:** genuinely late or early movements. Not convenient for ordinary daytime trips, and heavily used by freight.
+**The border is open overnight; every onward service is not.** New Hong Kong-side bus, minibus, taxi and coach arrangements are on the [Transport Department's Huanggang access page](https://www.td.gov.hk/en/transport_in_hong_kong/land_based_cross_boundary_transport/athp/). Check the operating window for your destination, especially an early airport trip. Do not assume an old coach timetable still applies after the move.
+
+The [new Huanggang guide](/guides/new-huanggang-port) covers the announced changeover. Official estimates of faster clearance are not a guaranteed five-minute journey or an author-tested result.
+
+**Best for:** overnight crossings, or journeys that fit the bus and taxi connections. There is no direct MTR service on the Hong Kong side.
 
 
 ---

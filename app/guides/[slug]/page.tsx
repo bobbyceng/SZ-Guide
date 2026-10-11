@@ -113,7 +113,7 @@ export default async function GuidePage({
           position: i + 1,
           name: s.name,
           text: s.text,
-          url: `${pageUrl}#step-${i + 1}`,
+          url: pageUrl,
         })),
       }
     : null
@@ -172,6 +172,7 @@ export default async function GuidePage({
               {guide.updated ? 'Updated' : 'Published'}{' '}
               {new Date(guide.updated ?? guide.date).toLocaleDateString('en-US', {
                 month: 'long',
+                day: 'numeric',
                 year: 'numeric',
               })}
             </time>
@@ -229,19 +230,19 @@ export default async function GuidePage({
         {/* Affiliate recommendations based on category */}
         {guide.category === 'Payment' && (
           <AffiliateBox
-            title="Recommended eSIM for your trip"
+            title="Need mobile data for your payment app?"
             links={[
               {
                 name: 'Nomad eSIM',
                 url: AFFILIATE.nomad,
-                description: 'Most reliable for China, Google, WhatsApp, etc. all work',
-                badge: 'Best Overall',
+                description: 'Compare China coverage, validity and phone compatibility before buying',
+                badge: 'Compare Plans',
               },
               {
                 name: 'Airalo',
                 url: AFFILIATE.airalo,
-                description: 'China plans from $4 for 1GB / 3 days; check current prices',
-                badge: 'Budget Pick',
+                description: 'View current China plans and prices; web purchase is available',
+                badge: 'China Plans',
               },
             ]}
           />

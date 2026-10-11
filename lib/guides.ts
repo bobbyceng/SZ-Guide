@@ -109,7 +109,7 @@ export const STAGES: { key: Stage; title: string; short: string; blurb: string }
     key: 'before',
     title: 'Sort this out before you fly',
     short: 'Before you fly',
-    blurb: 'None of these can be fixed once you have landed \u2014 the sites you would need are blocked from inside China.',
+    blurb: 'Prepare entry documents, payment and mobile data before travelling for an easier first day.',
   },
   {
     key: 'arriving',

@@ -6,7 +6,7 @@ category: "Planning"
 stage: "here"
 categoryIcon: "🗓️"
 date: "2026-06-11"
-updated: "2026-09-18"
+updated: "2026-10-11"
 readingTime: "7 min read"
 ---
 
@@ -22,7 +22,7 @@ Do these before your trip, or your first hours will be frustrating. Each one lin
 
 1. **Sort your entry.** Many passports now get visa-free entry; others can use the [240-hour visa-free transit](/guides/china-240-hour-visa-free-transit). Coming from Hong Kong? Read the [border crossing guide](/guides/hong-kong-to-shenzhen).
 2. **Install an eSIM before you cross.** Google, WhatsApp, and Instagram don't work on Chinese networks without one (or a VPN). A [travel eSIM](/guides/best-esim-for-shenzhen) routes around this.
-3. **Set up Alipay with your foreign card.** Almost everything here is paid by QR code, from restaurants to street snacks. [Setting it up](/guides/alipay-wechat-pay-setup) before you arrive saves a lot of awkward moments. (The metro now takes foreign cards at some gates; the [airport guide](/guides/shenzhen-airport-to-city) explains which ones.)
+3. **Set up Alipay with your foreign card.** Almost everything here is paid by QR code, from restaurants to street snacks. [Setting it up](/guides/alipay-wechat-pay-setup) before you arrive saves a lot of awkward moments. (The metro now takes supported international contactless cards at all gate channels; the [metro guide](/guides/shenzhen-metro-guide) explains the requirements.)
 4. **Staying the night?** Here's how to [pick an area](/guides/where-to-stay-in-shenzhen).
 
 ## One Day: Pick One Area, Not Three

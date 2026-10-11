@@ -1,20 +1,20 @@
 ---
-title: "Shenzhen Metro Guide for Foreigners (2026): Payment, Lines, and Key Stations"
-description: "How to use the Shenzhen metro as a foreigner, paying without a local bank account, key lines for tourists, important stations, and tips that save time on the ground."
-cardBlurb: "Pay with your phone, not a ticket machine. The lines that matter."
+title: "Shenzhen Metro Guide (2026): Cards, Fares & Routes"
+description: "Use a foreign contactless card on Shenzhen Metro, check fares and key routes, and avoid mixing up Airport with Airport East or Huaqiangbei with Huaqiang Road."
+cardBlurb: "Foreign cards, fares and the stations visitors often mix up."
 category: "Getting Around"
 stage: "here"
 categoryIcon: "🚇"
 date: "2026-05-15"
-updated: "2026-10-09"
+updated: "2026-10-11"
 readingTime: "9 min read"
 quickSummary:
-  - "Using a contactless foreign card? Find the separate black reader with card logos, then tap in and out with the same card."
+  - "International contactless cards are accepted at all gates from 10 September 2026. Use the same card or mobile payment device to enter and exit."
   - "Alipay or WeChat Pay is another option. Set it up before your trip and keep a backup way to pay."
   - "For the airport, look for Line 11 at Airport station. Airport East on Line 1 is a different station."
 ---
 
-The Shenzhen metro is fast, cheap, clean, and straightforward once you know the key lines. Eighteen lines cover almost every destination a visitor needs, and signs and announcements are in English throughout.
+The Shenzhen metro is fast, cheap, clean, and straightforward once you know the key lines. The network covers most destinations a visitor needs, and signs and announcements are in English throughout.
 
 The one thing that confuses most foreigners is payment. This guide handles that first, then everything else.
 
@@ -26,7 +26,9 @@ Shenzhen metro takes contactless foreign cards directly. Tap at the entry gate, 
 
 **Which cards.** The reader accepts more than most guides list — **Visa, Mastercard, American Express and JCB**, alongside the domestic options (UnionPay, China T-Union, and digital yuan / e-CNY). If you have been told Amex won't work on the metro, that is out of date.
 
-**But not at every gate, and this is where people get stuck.** Only designated turnstiles take an international card. Look for a **separate black reader module stuck onto the gate**, with the card logos printed on it and "请刷卡 / Tap Here" underneath — that module is what you are looking for, not the gate itself. There are usually **only one or two per gate line, normally at the far ends of the row**. Tapping a foreign card at an ordinary gate simply does not open it, and the queue behind you will not understand why.
+**All gates now accept international cards.** The operator’s [22 September 2026 announcement](https://www.szmc.net/home/xinwenzhongxin/gongsixinwen/202609/106228.html) says the upgrade took effect on **10 September**, across all gate channels. The earlier trial required a designated reader; that restriction is outdated. Your card needs contactless payment and small-value PIN-free payments enabled.
+
+Tap in and out with **the same card or mobile payment device**. Do not switch from a physical card to its phone-wallet version midway through a journey. If the gate declines your tap, ask station staff or use a backup payment method.
 
 <figure class="reader-photo">
   <div class="reader-photo-frame">
@@ -37,9 +39,9 @@ Shenzhen metro takes contactless foreign cards directly. Tap at the entry gate, 
   <figcaption><span><b>1</b> Check the card logos.</span><span><b>2</b> Tap on the marked target below.</span></figcaption>
 </figure>
 
-*This is the module to look for. I took this on a gate in September 2026 — if the gate in front of you doesn't have one, walk to the end of the row.*
+*Photographed in September 2026. This shows the card logos and tap target on one reader design; readers may differ. It does not mean only gates with this separate module accept foreign cards.*
 
-Expect roughly a **3% surcharge** on top of the fare. No app, no top-up, no local SIM. If your card is contactless and you can find the right gate, this is the least friction available.
+A supported contactless card lets you ride without a metro app, a stored-value top-up or a local SIM. Your own bank may charge for foreign-currency transactions; check its terms. This guide does not assume a universal metro surcharge.
 
 ### Option 2: Alipay or WeChat Pay
 
@@ -82,7 +84,7 @@ Yes, at every station, every time. This surprises almost every first-time visito
 
 ## The Lines That Matter for Tourists
 
-Shenzhen has eighteen lines. You will realistically use about four.
+Start with the lines connecting your arrival point, hotel and planned stops.
 
 Line numbers below are shown in their real colour, matching the station signage and the network map, so you can match what you read here to what you are standing in front of.
 
@@ -167,7 +169,7 @@ At the station, follow the English signs, they're clear throughout the system. P
 
 **The metro doesn't cover every destination.** Some restaurants, smaller hotels, and street-level areas are a 10–15 minute walk from the nearest station. Combining metro for main journeys with [DiDi](/guides/didi-shenzhen-guide) for the last mile is the most practical approach.
 
-**Eating and drinking is tolerated, not policed.** Nobody will stop you drinking water, and staff rarely intervene at all. But the convention locals follow is: no strong-smelling food, and don't leave a mess. It runs on self-restraint rather than enforcement, which is worth knowing before you unwrap something pungent on a packed carriage.
+**Follow the posted rules and staff instructions.** Keep food packed away on trains and leave no litter.
 
 **Pick your hotel by metro line, not by district.** Shenzhen districts are enormous, and "Futian" spans stations 30 minutes apart. [Where to stay in Shenzhen](/guides/where-to-stay-in-shenzhen) breaks this down by area.
 

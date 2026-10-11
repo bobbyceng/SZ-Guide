@@ -1,12 +1,12 @@
 ---
 title: "APEC 2026 Shenzhen: Visitor Guide to Dates, Visas & Getting Around"
-description: "Shenzhen hosts the APEC Economic Leaders' Meeting on November 18-19, 2026, at the Shenzhen International Exchange Center by Xiangmi Lake in Futian. A local's practical guide: the venue and which metro line it's on, entry rules, getting in from Hong Kong, paying with a foreign card, and where to base yourself."
+description: "Plan an APEC-week trip to Shenzhen: 18–19 November dates, entry documents, Hong Kong crossings, hotel areas, payment and official transport updates."
 cardBlurb: "Venue, dates, entry rules, and how to get in from Hong Kong."
 category: "Planning"
 stage: "apec"
 categoryIcon: "🌏"
 date: "2026-08-18"
-updated: "2026-10-09"
+updated: "2026-10-11"
 readingTime: "12 min read"
 featured: true
 quickSummary:
@@ -19,7 +19,17 @@ Shenzhen hosts the **33rd APEC Economic Leaders' Meeting on November 18-19, 2026
 
 If you're coming for the meeting, the CEO Summit, one of the ministerial meetings, or just doing business here during that window, this page is the practical layer: what you need to enter, how to get in, how to pay for things, and where to base yourself. I live here and write the rest of this site, so everything below links to a full guide if you need the detail.
 
-> **A note on what's confirmed:** dates, host city and main venue are official. Operational details for the week itself, road closures, security perimeters, and any special entry arrangements for attendees, had not been published at the time of writing (August 2026). I've flagged those clearly rather than guessing. Check the official [APEC China 2026](https://www.apec.org/) and Shenzhen government channels for final logistics, and check back here as details firm up.
+> **Planning update, 11 October 2026:** the Leaders’ Meeting dates and main venue are confirmed. For access, follow your organiser’s instructions. For city travel, use official transport notices: a nearby metro station does not establish an authorised event entrance. The [Futian government’s English APEC handbook](https://www.szft.gov.cn/en/apec/hb/content/post_12749931.html) explains that local traffic controls will be announced by the authorities.
+
+## Plan Your Trip in This Order
+
+| Before booking | Start here |
+|---|---|
+| Check your passport, transit route and eligible entry port | [240-hour transit rules](/guides/china-240-hour-visa-free-transit) and the visa section below |
+| Coming through Hong Kong | [Crossings compared](/guides/hong-kong-to-shenzhen); [new Huanggang changeover](/guides/new-huanggang-port) |
+| Pick a hotel and read its cancellation deadline | [Where to stay for APEC](/guides/where-to-stay-apec-2026-shenzhen) |
+| Prepare for everyday purchases | [Alipay and WeChat Pay](/guides/alipay-wechat-pay-setup) |
+| Plan your arrival and onward journeys | [Airport to city](/guides/shenzhen-airport-to-city), [metro](/guides/shenzhen-metro-guide) and [DiDi](/guides/didi-shenzhen-guide) |
 
 ## The Basics
 
@@ -28,7 +38,7 @@ If you're coming for the meeting, the CEO Summit, one of the ministerial meeting
 | **Leaders' Meeting** | November 18-19, 2026 |
 | **City** | Shenzhen, Guangdong Province |
 | **Main venue** | Shenzhen International Exchange Center, Xiangmi Lake, Futian District |
-| **Nearest metro** | Xiangmi and Xiangmei North, both on **Line 2 / Line 8** |
+| **Metro in the area** | Xiangmi and Xiangmei North, on **Line 2 / Line 8**; follow organiser instructions for authorised access |
 | **Also happening** | APEC CEO Summit, joint ministerial meeting of foreign and trade ministers |
 | **Theme** | "Building an Asia-Pacific community to prosper together" |
 
@@ -38,7 +48,7 @@ Across 2026, China is running roughly 300 APEC-related events in multiple cities
 
 This trips up almost everyone, so it's worth being precise. The main venue is the **Shenzhen International Exchange Center** (深圳国际交流中心), a purpose-built complex on the north side of **Xiangmi Lake** (香蜜湖). It is **not** the Shenzhen Convention and Exhibition Center in the Futian CBD, which is a completely different building about 15 minutes away and sits on different metro lines.
 
-The complex covers 18 hectares with around 470,000m² of floor area, including a 5,000m² main hall, a 3,800m² banquet hall, roughly 60 meeting rooms, and its own hotels. The main structure was completed in May 2026 and the lake has been refilled. The Leaders' Meeting is expected to host around 1,000 delegates.
+The Shenzhen culture and tourism authority identifies the **Shenzhen International Exchange Center** as the 2026 APEC main venue in its [January 2026 publication](https://wtl.sz.gov.cn/bsfw/mzwhhd/mzzl/content/post_12605771.html). This confirms the venue name; it does not establish public access, delegation transport or a walking entrance.
 
 **Practical consequence:** Xiangmi Lake sits in Futian but away from the CBD, on **Line 2 / Line 8** rather than the Line 1 and Line 3 corridor most visitors use. If proximity to the venue matters to you, check which metro line your hotel is actually on, not just which district it's in. Expect security measures and traffic management in the area during the meeting, and expect CBD hotels to price up and fill early. Check availability for your actual dates now, and read the cancellation deadline if your plans may change.
 
@@ -46,10 +56,10 @@ The complex covers 18 hectares with around 470,000m² of floor area, including a
 
 ## Can I Attend? The CEO Summit Is the Part That's Open to Business
 
-The Leaders' Meeting itself is not open to the public. **The APEC CEO Summit, held alongside it, is** — it runs **17-18 November 2026**, the two days leading into the Leaders' Meeting.
+The Leaders' Meeting is not open to the public. The associated **APEC CEO Summit** runs **17–18 November 2026** on the [official APEC calendar](https://www.apec.org/) and has its own application and approval process; it is not a walk-in event.
 
 - **Who runs it:** the China Council for the Promotion of International Trade (CCPIT)
-- **Registration, as of 23 September 2026:** the first pre-registration window closed on 17 September. CCPIT's platform is still taking applications and now shows the deadline as "to be confirmed". Companies apply, not individuals, and **a maximum of three people per company** — more than that and CCPIT states every application from that company is void
+- **Registration:** the September pre-registration notice is historical, not confirmation that applications remain open today. Check the [CCPIT event platform](https://bizevent.ccpit.org/meetings/4482) for current eligibility, application windows and company limits before making plans.
 - **Applying is not the same as attending:** CCPIT reviews applications and only approved applicants are sent registration and payment instructions
 - **Expected attendance:** around 1,000 — APEC economy leaders and government representatives, heads of international organisations, ABAC members, corporate executives, trade and investment promotion agencies, media and think tanks
 - **On the agenda:** regional trade and investment, artificial intelligence, the digital economy, clean energy, green finance, supply chains, connectivity, and Greater Bay Area development
@@ -111,9 +121,9 @@ If you're coming from within Asia, flying direct is usually simpler. From Europe
 
 This is the part visitors consistently get wrong, and it's the difference between a smooth first day and a frustrating one. Do all three **before you arrive**, while you still have unrestricted internet.
 
-**1. eSIM.** Chinese domestic networks block Google, WhatsApp, Instagram, and most Western services. An international eSIM routes your traffic outside China so those keep working without a VPN. Install it before you leave. [eSIM guide →](/guides/best-esim-for-shenzhen)
+**1. eSIM.** Chinese domestic networks block Google, WhatsApp, Instagram, and most Western services. Some travel eSIMs route data outside mainland China; access depends on the provider and plan. Check whether your existing roaming already covers your needs, and confirm compatibility and routing before buying. Install in advance if the provider instructs you to. [eSIM guide →](/guides/best-esim-for-shenzhen)
 
-**2. Payment app.** Link an international Visa or Mastercard to Alipay or Weixin Pay. No Chinese bank account needed. Verification can take up to 24 hours, so don't do this at the airport. [Payment setup guide →](/guides/alipay-wechat-pay-setup)
+**2. Payment app.** Link an international Visa or Mastercard to Alipay or Weixin Pay. No Chinese bank account needed. Follow the current verification prompts and keep SMS access to your registered number. Prepare before travelling rather than relying on a fixed approval time. [Payment setup guide →](/guides/alipay-wechat-pay-setup)
 
 **3. DiDi.** China's ride-hailing app. Street-hailing a taxi in Shenzhen is unreliable and most drivers won't speak English, so DiDi with its in-app translation is how you actually get around outside the metro. [DiDi guide →](/guides/didi-shenzhen-guide)
 
@@ -142,26 +152,21 @@ The "China is cashless and foreigners can't pay for anything" story is out of da
 
 ## Getting Around During the Event
 
-The **metro** is the right default. It's extensive, cheap, signed in English, and it won't be affected by road closures. Line 1 and Line 3 run through the Futian CBD, **Line 2 / Line 8 serve the Xiangmi Lake venue area**, and Line 11 connects the airport.
+The **metro** is the right default. It's extensive, cheap, signed in English, but check operator notices for any event-week adjustments. Line 1 and Line 3 run through the Futian CBD, **Line 2 / Line 8 serve the Xiangmi Lake venue area**, and Line 11 connects the airport.
 
-[Shenzhen Metro guide →](/guides/shenzhen-metro-guide) covers how to pay (your phone, not a ticket machine), which lines matter, and the key interchange stations.
+[Shenzhen Metro guide →](/guides/shenzhen-metro-guide) covers contactless foreign cards, app payment and backup options, which lines matter, and the key interchange stations.
 
-For anything the metro doesn't cover, use DiDi. If road restrictions are in place around the venue during the summit, expect your driver to drop you at a perimeter and walk the last stretch.
+For anything the metro doesn't cover, use DiDi. If restrictions are announced, use the permitted pickup points and routes. A taxi drop-off nearby does not guarantee that you can walk through a security perimeter.
 
-## What Isn't Confirmed Yet
+## October Updates and Event-Week Notices
 
-Being straight about the gaps. **Updated 23 September 2026:**
+**Huanggang has an official opening date.** A [joint Hong Kong–Shenzhen announcement on 9 October](https://www.info.gov.hk/gia/general/202610/09/P2026100900280p.htm) schedules the new port for **12 October 2026 at 06:30**, with 24-hour passenger clearance. The old Lok Ma Chau road control point and temporary Huanggang hall will suspend passenger service at the switchover. This is distinct from the MTR’s Lok Ma Chau Spur Line / Futian crossing. Use the [new Huanggang guide](/guides/new-huanggang-port) for transport links; older coach schedules may not carry over.
 
-- **Special entry or visa facilitation for attendees** still has not been detailed publicly. What *has* moved: Guangdong announced in early September that exit and entry procedures across the province are being streamlined ahead of the meeting. That is a general easing rather than an APEC-attendee scheme, so assume you still need one of the four routes above unless your delegation tells you otherwise.
-- **Road closures, security perimeters and metro adjustments** around November 18-19 have not been published. Expect them closer to the date, and assume the streets immediately around Xiangmi Lake will be restricted on those two days.
-- **The rebuilt Huanggang border crossing.** Hong Kong's 2026 Policy Address (16 September) says it is expected to open in the fourth quarter, which puts it before APEC. Hong Kong media report a target of **Monday 12 October**, chosen to avoid the Golden Week crowds and the weekend, but **no government on either side has announced a date**, and the Secretary for Security said on 20 September that testing is still being fine-tuned. The road and tunnel works around the new building passed completion inspection on 23 September, and the state press coverage of that milestone explicitly frames the crossing as support for cross-border traffic during the APEC meeting. If you are crossing in October, check before you travel. The [new Huanggang crossing page](/guides/new-huanggang-port) tracks the date and what changes when it opens.
-- **Which hotels are taken by delegations.** The venue complex includes its own hotels, and CBD stock will be partly blocked out. Another reason to book early rather than assume you can sort it in October.
+**Metro card payment is more straightforward.** The [operator’s 22 September announcement](https://www.szmc.net/home/xinwenzhongxin/gongsixinwen/202609/106228.html) says all gate channels support international contactless cards from 10 September. The [metro guide](/guides/shenzhen-metro-guide) explains how to tap and what to use as a backup.
 
-**One change you will notice regardless of whether you attend anything:** since 20 July 2026 the metro screens every bag and scans every passenger with a handheld detector, an upgrade made ahead of the meeting. Allow a couple of extra minutes at busy stations. The [metro guide](/guides/shenzhen-metro-guide) covers what you can and cannot carry.
+**For summit-week movement, check specific notices.** The government’s [English handbook](https://www.szft.gov.cn/en/apec/hb/content/post_12749931.html) describes local, time-specific controls, with details announced by the authorities. This guide does not provide a verified road-closure map, security perimeter, attendee visa facilitation scheme or list of delegation-reserved hotels. Follow your organiser for event access and Shenzhen transport authorities for public travel.
 
-For scale on how much traffic the city is already absorbing: foreign nationals entering and leaving Guangdong through Shenzhen's ports passed **5 million** by early August, reaching that mark 58 days earlier than in 2025.
-
-I'll keep updating this page as official details land.
+Keep hotel cancellation deadlines and a second arrival route in mind if your plans remain provisional.
 
 ## Common Questions
 
@@ -187,7 +192,7 @@ Futian CBD if you want walkable food and shopping, Nanshan if you'd rather be aw
 The Leaders' Meeting is not open to the public. Associated business events like the CEO Summit have their own registration and are not general-admission either. Most visitors in Shenzhen that week are there for unrelated reasons and just need to plan around it.
 
 **Will Google and WhatsApp work?**
-Not on a Chinese domestic network. Get an international eSIM before you arrive and they'll work normally, no VPN needed.
+Not on a Chinese domestic network. Some international roaming and travel eSIM plans use routing outside mainland China. Check the specific plan’s coverage and routing; buying any eSIM does not guarantee access to these services.
 
 **Is Shenzhen easy to get around without Chinese?**
 The metro is bilingual and straightforward. Outside it, DiDi's in-app translation handles drivers, and payment apps remove most transactional conversation. You'll manage.

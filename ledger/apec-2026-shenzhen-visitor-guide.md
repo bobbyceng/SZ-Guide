@@ -36,3 +36,13 @@
 | [中国驻苏里南使馆 ABTC 说明](https://sr.china-embassy.gov.cn/eng/sbgxyw/202208/t20220824_10750947.htm) | ✅ 官方，10-04 核实 | 适用且有中国预先批准的有效 ABTC 与匹配护照可支持最长 60 天商务访问。 |
 
 删除旧版「美国有 30 天免签」与仅持 ABTC 即可免签的过度概括。酒店提示「十月前订」改成核对实际入住日期与取消期限，避免已过期的日历建议。出行前复查入境方案。
+
+## 2026-10-11：APEC 行程与十月交通更新
+
+- 官方 APEC 首页日历核对 CEO Summit 11/17–18、Leaders 11/18–19：https://www.apec.org/
+- 主会场名称仅以深圳文旅局原文佐证，不由其推断入口、步行路线、安保范围或参会交通。删除本次无必要且未复核的面积／人数等数据。https://wtl.sz.gov.cn/bsfw/mzwhhd/mzzl/content/post_12605771.html
+- 福田英文手册支持“关注交通部门公告、局部时段管制”；不据此保证地铁完全无影响。https://www.szft.gov.cn/en/apec/hb/content/post_12749931.html
+- 新皇岗 10/12 06:30 计划开放与旧临时楼／落马洲道路管制站旅检停用，依据 10/9 联合公告：https://www.info.gov.hk/gia/general/202610/09/P2026100900280p.htm
+- 深圳地铁 9/10 全闸机外卡升级： https://www.szmc.net/home/xinwenzhongxin/gongsixinwen/202609/106228.html
+- 9/23 CEO Summit 预报名信息改为历史，不声称今日仍可申请；未确认当前截止日、安保边界、代表团占房或专属签证通道。
+- 30 天免签／ABTC 部分保留 10/4 核查口径；本次日期不表示整页每个价格、时间、政策都再次复核。

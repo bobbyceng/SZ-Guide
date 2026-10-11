@@ -6,7 +6,7 @@ category: "Payment"
 stage: "before"
 categoryIcon: "💳"
 date: "2026-05-14"
-updated: "2026-09-09"
+updated: "2026-10-11"
 readingTime: "8 min read"
 featured: true
 howTo:
@@ -14,17 +14,19 @@ howTo:
   steps:
     - name: "Download and register"
       text: "Download Alipay and register with your phone number. Any country number works. Do this before you leave for China, while you still have unrestricted internet access."
-    - name: "Add your passport"
-      text: "This is mandatory and must be completed before a card can be linked. Go to Me then My ID, enter your full name and passport number exactly as shown on the passport, photograph the passport main page, and take a selfie for facial recognition. Usually clears in 1 to 5 minutes but can take up to 24 hours."
+    - name: "Prepare verification documents"
+      text: "Keep your passport and SMS access available. Follow the app’s current identity-verification prompts; passport verification is not a universal prerequisite to adding a card."
     - name: "Link your credit card"
-      text: "Real-name verification must clear first, or the card cannot be linked. Then go to Me, Bank Cards, Add Card and enter your card details. Visa, Mastercard, JCB, Discover, Diners Club and non-mainland UnionPay all work. American Express works only for cards issued directly by American Express, not by its partner banks."
+      text: "Tap Add Now or open Bank Cards and Add Card, then follow the prompts. Supported card networks and issuer approval vary; test your card before travelling and bring a backup."
     - name: "Pay at a merchant"
       text: "Either scan the merchant QR code, which is most common, or tap Pay to display a barcode for the merchant to scan."
 ---
 
-Cash is dying in Shenzhen. Over 95% of merchants, from convenience stores to street food vendors to the metro, accept mobile payment as their primary method. Some won't accept cash at all.
+A QR payment app with an overseas card linked is useful for everyday Shenzhen purchases. Start with Alipay or WeChat Pay, and keep a physical card and some cash as backups.
 
-If you arrive without Alipay or WeChat Pay set up, you'll struggle to buy food, take taxis, or even enter the metro. This is the single most important preparation step before your trip.
+**Before you travel:** register while you can receive SMS codes, try adding your card, and have your passport ready if the app requests identity verification. Merchant purchases and transfers to friends are different functions: an overseas card linked to Alipay does **not** support person-to-person transfers.
+
+**Setup and transfer rules checked on 11 October 2026** against the [official Alipay guidance](https://www.alipayplus.com/pay-in-the-chinese-mainland/) and [Shenzhen’s visitor payment guide](https://www.szns.gov.cn/english/news/content/post_11241383.html).
 
 ## Cross-Border Payment in Shenzhen: What Works in 2026
 
@@ -53,7 +55,7 @@ Both work almost everywhere in Shenzhen. For short visits, you only need one.
 - Slightly more complex verification process
 - Useful if you already use WeChat regularly
 
-**Our recommendation:** Set up Alipay first. It's simpler and covers 99% of situations. Add WeChat Pay only if you need it.
+**For a short visit:** start with one app. If you already use WeChat, try its payment setup; otherwise Alipay is a practical starting point. Test your own card and keep a backup.
 
 ## Setting Up Alipay (Step by Step)
 
@@ -63,41 +65,19 @@ Download Alipay from the App Store or Google Play. Open the app and register wit
 
 > **Important:** Do this before you leave for China. The registration process is smoother with unrestricted internet access.
 
-### Step 2: Add Your Passport (do this first — it gates everything else)
+### Step 2: Prepare Your Verification Documents
 
-**Real-name verification is mandatory, and it has to clear before you can link a card at all.** People often try to add the card first, hit a wall, and assume their card was rejected. It wasn't; the account simply is not verified yet.
+Have your passport available and follow the app’s current verification prompts. You may be asked for passport details, a passport photo or a face check; requirements and account limits vary.
 
-It also governs your spending limits. An unverified account is capped low enough to be useless on a real trip; once a passport clears, the ceiling is far above anything a visit needs.
+**You do not always have to finish passport verification before adding a card.** The official setup guide starts with registration, then **Add Now** and the on-screen card-linking prompts. If verification is requested, complete it before relying on that account for your trip. Do not assume a fixed approval time.
 
-Go to **Me → My ID** (or search "Real Name Verification"). You'll need to:
-- Enter your full name (as shown on passport)
-- Enter passport number
-- Take a photo of your passport's main page
-- Take a selfie for facial recognition
-
-Verification usually takes 1–5 minutes. Sometimes it takes up to 24 hours, do this at least a day before your trip.
+Keep access to your registered phone number for SMS codes. If you install a data-only travel eSIM, it will not replace that number for verification messages.
 
 ### Step 3: Link Your Credit Card
 
 Go to **Me → Bank Cards → Add Card**. Enter your Visa or Mastercard details. Alipay accepts most international credit and debit cards.
 
-**Supported cards** — credit or debit, issued outside mainland China:
-
-| Network | Works? |
-|---|---|
-| **Visa** | Yes |
-| **Mastercard** | Yes |
-| **American Express** | Yes, **with a catch** — see below |
-| **JCB** | Yes |
-| **Discover** | Yes |
-| **Diners Club** | Yes |
-| **UnionPay** (issued outside the mainland) | Yes |
-
-If your card is on a network not listed, just try adding it. Alipay validates the number as you type and tells you immediately whether it is accepted.
-
-> **The American Express catch.** Amex only became bindable in **February 2025**, and support does not cover the whole network: **cards issued by Amex's partner banks rather than by American Express itself are not supported.** In a number of countries the local Amex is a partner-issued card, so "I have an Amex" does not settle the question. Test it before you fly.
->
-> **UnionPay** here means a UnionPay card **issued outside mainland China**. A mainland-issued card is a different thing entirely and is not what this guide is about.
+Visa and Mastercard are supported options in official visitor guidance. Other networks and card issuers may also be available: check the choices shown in your app. A supported logo is not a guarantee that your issuer will approve every transaction.
 
 **Whichever network you hold, bring a second card.** Issuer-side approval varies between banks even on supported networks, and finding out at a noodle stall is not the moment. A Visa or Mastercard as backup costs nothing to carry.
 
@@ -126,25 +106,20 @@ The process is similar to Alipay but requires an existing WeChat account with so
 
 ## Is There a Fee for Paying With a Foreign Card?
 
-Yes, above a threshold — and a lot of guides still say there isn't.
+The [official foreign-investment guide’s payment section](https://english.www.gov.cn/services/investment/202411/02/content_WS68478b3ec6d0868f4e8f3388.html) describes this baseline for overseas cards linked to Alipay or WeChat. It is published guidance, not a check of your particular account:
 
 > **Payments of ¥200 or less: no service fee.**
 > **Payments above ¥200: a 3% service fee applies.**
 
 In practice this covers more than it sounds. Street food, coffee, metro rides, convenience stores and most single restaurant bills fall under ¥200, and those cost you nothing extra. The 3% shows up on larger things — a hotel bill, an electronics purchase, a big group dinner.
 
-**Two ways it gets cheaper:**
-
-- **UnionPay cards issued outside the mainland are exempt** from the service fee.
-- Alipay has run promotional waivers for newly bound cards — as of 2026 a new user gets the 3% waived on up to ¥1,000 of daily spending for 90 days after their first payment. Promotions change; treat any waiver as a bonus rather than something to plan around.
+**Check the fee shown before confirming.** The ¥200 threshold and 3% fee are described in official visitor guidance, but waivers, eligible cards and promotions can change. Do not assume a new-user promotion or a particular card network makes your payments free.
 
 **On top of that, your own bank may charge a foreign transaction fee**, typically 1–3%. That is between you and your card issuer and has nothing to do with Alipay. A card with no foreign transaction fees is worth using here.
 
 ### Spending limits
 
-Limits depend entirely on whether real-name verification has cleared. **Before verification, the account is capped low enough to be unusable for a real trip. After verification with a passport, the ceiling is far above anything a normal visit requires.**
-
-Published figures vary between sources and Alipay adjusts them, so rather than quoting a number that may be wrong by the time you read this: **complete verification, then check the limit shown in the app under Me → Bank Cards.** That figure is the one that governs your account.
+Your account’s verification status, payment channel and bank can affect transaction limits. Check the current limit and any verification request in the app; adding a card does not guarantee that a large purchase will be approved. Ask in advance how your hotel accepts payment.
 
 ![Showing your Alipay payment code at a checkout counter](/images/guides/alipay-setup/04-show-payment-code.jpg)
 
@@ -157,7 +132,7 @@ Published figures vary between sources and Alipay adjusts them, so rather than q
 - Call your bank to authorize China transactions if needed
 
 **"Card not supported":**
-- Try a different card (Visa works more reliably than Mastercard in some cases)
+- Try a different supported card or ask your issuer why the payment was declined
 - Use a debit card instead of credit card (or vice versa)
 - As a last resort, withdraw cash from an ATM
 
@@ -167,7 +142,7 @@ Published figures vary between sources and Alipay adjusts them, so rather than q
 
 **No internet connection:**
 - Alipay needs internet to process payments
-- Get an eSIM before you arrive, [see our eSIM guide →](/guides/best-esim-for-shenzhen)
+- Check your existing roaming first. If you need another plan, [compare travel eSIMs](/guides/best-esim-for-shenzhen) and confirm device compatibility before buying. Keep your registered SIM available for SMS verification.
 
 ## Common Questions
 
@@ -178,16 +153,16 @@ Apple Pay works at some merchants that accept UnionPay QuickPass, but coverage i
 Cash (RMB) is still accepted at most places, but some vendors will refuse it or make change difficult. Carrying ¥200–300 as backup is smart.
 
 **Can I send money to friends?**
-Yes, Alipay supports peer-to-peer transfers. Both parties need verified accounts.
+**Not using the overseas card linked to Alipay.** The [official Alipay FAQ](https://www.alipayplus.com/pay-in-the-chinese-mainland/) excludes person-to-person transfers and red packets for international bank cards. Use a merchant checkout for purchases; a personal QR code may require a transfer that your linked card cannot fund.
 
 **How do I get a refund?**
-Refunds go back to your original payment method within 1–7 business days. Request through the merchant or Alipay's transaction history.
+Ask the merchant for a refund and check the transaction status in the app. Timing depends on the merchant, payment channel and your card issuer; keep the transaction record until it reaches your account.
 
 **Is it safe to link my card?**
 Alipay uses bank-level encryption. The bigger risk is losing your phone, enable biometric lock on the app (Settings → Security → Touch ID/Face ID).
 
 **What if my phone battery dies?**
-This is why carrying backup cash matters. Some merchants can look up your account by phone number, but this is rare.
+This is why carrying backup cash matters. Carry a power bank and keep a physical card available too.
 
 ## Related Guides
 

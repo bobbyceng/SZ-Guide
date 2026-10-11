@@ -6,6 +6,7 @@ category: "Border Crossing"
 stage: "arriving"
 categoryIcon: "🛬"
 date: "2026-09-11"
+updated: "2026-10-11"
 readingTime: "8 min read"
 howTo:
   name: "How to get from Hong Kong Airport to Luohu or Futian by bus and MTR"
@@ -70,7 +71,7 @@ If you'd rather not change between buses and trains with a suitcase, coaches run
 
 The coach takes you to the checkpoint, you go through immigration on both sides on foot, and you carry on into Shenzhen from there. From Shenzhen Bay Port, **Metro Line 13** runs into Nanshan.
 
-> **A change to watch at Huanggang.** A rebuilt Huanggang Port with single-stop clearance, where Hong Kong and mainland checks happen in one building, has been under preparation all summer. The Hong Kong zone took effect on 31 July 2026 and a trial run was held in August, but the opening date is still to be agreed by the two governments. I'll update this guide when it opens.
+> **Huanggang changes on 12 October 2026.** The new port is officially scheduled to open at **06:30**, with 24-hour passenger clearance. The old Lok Ma Chau **road** control point and temporary Shenzhen hall will suspend passenger service at the switchover. Do not assume the older coach operating hours above apply after the move: check [Hong Kong Transport Department’s new access arrangements](https://www.td.gov.hk/en/transport_in_hong_kong/land_based_cross_boundary_transport/athp/) and your operator for the date you travel. See the [new Huanggang guide](/guides/new-huanggang-port).
 
 ## Route 3: SkyPier Ferry, Without Entering Hong Kong
 
@@ -106,7 +107,7 @@ When I fly out of Hong Kong I use Route 1 in reverse: across at Lo Wu, one stop 
 ## What to Sort Out Before You Fly
 
 - **Mobile data.** You'll want it on the Shenzhen side the moment you cross. Pick a [travel eSIM](/guides/best-esim-for-shenzhen) plan that covers both Hong Kong and mainland China.
-- **A way to pay in Shenzhen.** Set up [Alipay or WeChat Pay with your foreign card](/guides/alipay-wechat-pay-setup) before you leave home. On the metro, a contactless card also works at [gates with the card reader](/guides/shenzhen-metro-guide).
+- **A way to pay in Shenzhen.** Set up [Alipay or WeChat Pay with your foreign card](/guides/alipay-wechat-pay-setup) before you leave home. On the metro, a contactless card also works at [all Shenzhen Metro gate channels](/guides/shenzhen-metro-guide), with contactless and small-value PIN-free payments enabled.
 - **Entry to mainland China.** Many passports now qualify for visa-free entry. Check the [240-hour visa-free transit rules](/guides/china-240-hour-visa-free-transit) if you're not sure.
 
 ## Common Questions

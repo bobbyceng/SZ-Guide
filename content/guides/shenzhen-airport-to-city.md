@@ -6,7 +6,7 @@ category: "Getting Around"
 stage: "arriving"
 categoryIcon: "✈️"
 date: "2026-09-11"
-updated: "2026-10-04"
+updated: "2026-10-11"
 readingTime: "7 min read"
 howTo:
   name: "How to take the metro from Shenzhen Airport to the city"
@@ -16,7 +16,7 @@ howTo:
     - name: "Find Airport station on Line 11"
       text: "The station you want is Airport (机场) on Line 11. Airport East (机场东) is the end of Line 1, a different station away from the terminal."
     - name: "Tap in"
-      text: "Tap a contactless Visa, Mastercard, American Express or JCB card at a gate fitted with the card-logo reader, or scan the metro QR code in Alipay or WeChat."
+      text: "Tap a contactless Visa, Mastercard, American Express or JCB card at a gate (all gate channels support international cards from 10 September 2026), or scan the metro QR code in Alipay or WeChat."
     - name: "Take the train towards Hongling South"
       text: "Trains towards Hongling South (红岭南) go into the city. Trains towards Bitou (碧头) go the other way."
     - name: "For business class, tap again on the platform"
@@ -51,15 +51,15 @@ The station you want is **Airport (机场), on Line 11**.
 
 You have two options, and neither needs a local bank account.
 
-**A contactless foreign card.** Since 30 June 2026 the Shenzhen Metro takes **Visa, Mastercard, American Express and JCB** directly at the gate. The catch is that only gates fitted with a separate card reader take them. This is what that reader looks like:
+**A contactless foreign card.** The metro takes **Visa, Mastercard, American Express and JCB** directly at the gate. Since **10 September 2026 all gate channels** accept international cards with contactless and small-value PIN-free payments enabled, according to the [operator’s announcement](https://www.szmc.net/home/xinwenzhongxin/gongsixinwen/202609/106228.html). This is one reader design:
 
 ![The international card reader on a Shenzhen Metro gate: Visa, Mastercard, American Express and JCB logos above "请刷卡 / Tap Here". Photographed September 2026.](/images/guides/metro/01-intl-card-reader.jpg)
 
-*I took this on a gate in September 2026. If the gate in front of you doesn't have one, walk along the row until you find one.*
+*Photographed September 2026. Reader designs vary; the separate module in this photo is no longer a restriction on which gates accept foreign cards.*
 
-**Alipay or WeChat Pay.** Both apps have a metro QR code that you scan at the gate. If you have already [set up Alipay with your foreign card](/guides/alipay-wechat-pay-setup), this works at every gate, not just the ones with the reader.
+**Alipay or WeChat Pay.** Both apps have a metro QR code that you scan at the gate. If you have already [set up Alipay with your foreign card](/guides/alipay-wechat-pay-setup), scan your metro ride code at the gate’s QR reader.
 
-Either way, tap or scan the same thing when you exit. The [metro guide](/guides/shenzhen-metro-guide) covers the rest, including the bag check at the entrance.
+Either way, use the same card, device or ride code when you exit. The [metro guide](/guides/shenzhen-metro-guide) covers the rest, including the bag check at the entrance.
 
 ## Step 3: Take the Train Towards Hongling South
 
@@ -142,7 +142,7 @@ Yes. It was originally called the Airport Line, and it's the fastest rail link f
 About ¥7 in a standard carriage, or about ¥21 in the business carriage.
 
 **Can I use my Visa or Mastercard on the Shenzhen Metro?**
-Yes, since 30 June 2026, at gates fitted with the card-logo reader. American Express and JCB work too. Your card also works at the business-carriage validator on Line 11.
+Yes. From 10 September 2026 all gate channels support international contactless cards with small-value PIN-free payments enabled. American Express and JCB work too. Your card also works at the business-carriage validator on Line 11.
 
 **What time is the last metro from Shenzhen Airport?**
 About 00:02, towards Hongling South. After that, take an Airport Express coach, a taxi or a ride-hailing car.

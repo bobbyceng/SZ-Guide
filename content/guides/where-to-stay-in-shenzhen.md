@@ -1,18 +1,24 @@
 ---
 title: "Where to Stay in Shenzhen: Best Areas for First-Time Visitors"
-description: "A local's guide to choosing the right Shenzhen neighborhood: Futian for first-timers, Luohu for budget border access, Nanshan for tech visitors, plus the one thing about Chinese hotels most booking sites won't tell you."
+description: "Choose a Shenzhen hotel area: Futian for a first visit, Luohu for the Hong Kong border, Nanshan for tech or coastal stays. Check metro access and passport registration."
 cardBlurb: "Futian, Nanshan or Luohu. Pick by what you came here for."
 category: "Accommodation"
 stage: "arriving"
 categoryIcon: "🏨"
 date: "2026-06-11"
-updated: "2026-10-04"
+updated: "2026-10-11"
 readingTime: "6 min read"
+quickSummary:
+  - "Futian is a practical first-visit base; Luohu suits the Lo Wu border, and Nanshan suits tech visits or coastal stays."
+  - "Choose by the nearest metro station and your actual destinations. District names cover large areas."
+  - "Check passport registration, arrival time and cancellation terms with the hotel before paying."
 ---
 
 Shenzhen is enormous — bigger in population than New York City — and stretched along a 50km east-west corridor. Pick the wrong area and you'll spend an hour on the metro every time you want to do anything.
 
 This guide covers the areas that actually make sense for visitors, what each one is good for, and one critical thing about booking hotels in China that catches foreigners off guard.
+
+**Staying during APEC week, 18–19 November 2026?** Use the [APEC hotel-area guide](/guides/where-to-stay-apec-2026-shenzhen) alongside this general guide. Check actual availability and event-week transport notices before committing to a location.
 
 ## The One Thing You Must Know First
 
@@ -58,7 +64,7 @@ Stay near **Coco Park (Shopping Park station)** for nightlife and restaurants, o
 
 Luohu is the oldest commercial district, right against the Hong Kong border at the Luohu/Lo Wu crossing. It's grittier and cheaper than Futian, with more street life, older buildings, and the Dongmen pedestrian shopping district.
 
-- **Hotel range:** this is where the ¥150–300/night deals live. Just apply the foreigner-friendly check above with extra care — cheap Luohu hotels are the most common place visitors get turned away.
+- **Hotel range:** this is where the ¥150–300/night deals live. Check the registration process, late-arrival arrangements and cancellation terms with the property, as with any hotel.
 - **Getting around:** Luohu station is the terminus of Line 1; Laojie station (Dongmen) is two stops away.
 - **Trade-off:** further from Nanshan's attractions (45–60 min by metro), and the area shows its age.
 
@@ -99,4 +105,4 @@ Overseas Chinese Town (华侨城) sits between Futian and Nanshan and contains W
 
 If you're visiting for the first time and don't have a strong reason to be elsewhere: **stay in central Futian, within walking distance of a Line 1 or Line 11 station.** You'll be 15 minutes from Huaqiangbei, 15 minutes from the Hong Kong high-speed rail, 20 minutes from Nanshan, and surrounded by food.
 
-Budget travelers should look at Luohu but double-check the foreigner policy before booking. Tech visitors will be happier in Houhai. Everyone else: Futian, and spend the time you saved on commuting actually seeing the city.
+Budget travelers should look at Luohu but confirm passport registration before booking. Tech visitors will be happier in Houhai. Everyone else: Futian, and spend the time you saved on commuting actually seeing the city.

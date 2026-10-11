@@ -1,12 +1,12 @@
 ---
-title: "Huaqiangbei Electronics Market: Complete Guide for Foreigners (2026)"
-description: "The real insider guide to Shenzhen's famous electronics district. Which buildings to visit, what to buy, how to bargain, what to avoid, and how to get there."
+title: "Huaqiangbei Electronics Market: Shenzhen Visitor Guide (2026)"
+description: "Plan a first visit to Huaqiangbei electronics market in Shenzhen: SEG and other buildings, metro stations, what to buy, bargaining and checks before paying."
 cardBlurb: "Which buildings to walk, what to buy, how to bargain, what to avoid."
 category: "Electronics"
 stage: "here"
 categoryIcon: "📱"
 date: "2026-05-14"
-updated: "2026-10-09"
+updated: "2026-10-11"
 readingTime: "13 min read"
 featured: true
 quickSummary:
@@ -28,6 +28,19 @@ Huaqiangbei (华强北) is the largest electronics wholesale market in the world
 Most online guides describe it vaguely. This one is written by someone who grew up in Shenzhen and has been going there for years.
 
 ![Inside Huaqiangbei Electronic World, massive LED screens and floors of gadgets](/images/guides/huaqiangbei/hqb-indoor-led.jpg)
+
+## First Visit: Where to Start
+
+Huaqiangbei is an electronics district in **Futian, Shenzhen**, with multiple market buildings rather than one entrance or ticket office. Pick a building before choosing a metro exit.
+
+| Your aim | Starting point |
+|---|---|
+| Components, tools or maker parts | Look at **SEG Electronics Market** first |
+| Finished gadgets and accessories | Start with **Huaqiang Electronic World**, then compare nearby stalls |
+| A look around without buying | Walk the pedestrian street and explore a market building |
+| Bringing electronics home | Test the item, confirm exactly what is included, and check your destination’s import rules |
+
+Use the building guide below to narrow your shopping list. For payment, prepare [Alipay or WeChat Pay](/guides/alipay-wechat-pay-setup) and carry a backup. For the journey, use the [metro guide](/guides/shenzhen-metro-guide).
 
 ## Why Foreigners Make the Trip
 
@@ -54,7 +67,7 @@ The LED billboard corridor transforms into something closer to an open-air light
 
 It's not one market, it's an entire district of interconnected buildings, each specializing in different products. The ground floor of each building often has retail stalls; upper floors are more wholesale-oriented.
 
-The area is centered around **Huaqiangbei Road (华强北路)** and the nearby streets. The **Huaqiangbei metro station** (Lines 1 and 7) drops you right in the middle.
+The area is centered around **Huaqiangbei Road (华强北路)** and the nearby streets. **Huaqiangbei station is on Lines 2 and 7. Huaqiang Road (Huaqianglu) is on Line 1.** Check which station and exit suits the building you want; the similar names refer to different stations.
 
 ---
 
@@ -244,7 +257,7 @@ New to shopping here? The [Shenzhen shopping guide](/guides/shopping-in-shenzhen
 
 Coming over from Hong Kong for the day? The [Hong Kong to Shenzhen guide](/guides/hong-kong-to-shenzhen) compares every crossing, and Futian Checkpoint is the one that puts you closest to Huaqiangbei.
 
-Flying in from further away and unsure whether you need a visa at all? If your passport is not on China's visa-free list, the [240-hour visa-free transit](/guides/china-240-hour-visa-free-transit) gives you ten days, which is far more than a Huaqiangbei trip needs.
+Flying in from further away and unsure whether you need a visa at all? If your passport does not qualify for visa-free entry, check whether your route and entry port qualify for [240-hour visa-free transit](/guides/china-240-hour-visa-free-transit), or arrange an appropriate visa. A Hong Kong–Shenzhen–Hong Kong day trip does not meet the third-country-or-region transit condition.
 
 ---
 

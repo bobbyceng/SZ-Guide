@@ -95,6 +95,13 @@ export default function HomePage() {
       </section>
 
       <div className="max-w-5xl mx-auto px-6 py-14">
+        <aside className="mb-10 rounded-xl border border-amber-200 bg-amber-50/60 px-5 py-4 text-sm leading-relaxed text-stone-700">
+          <p className="font-semibold text-stone-900 mb-1">Crossing from Hong Kong in October?</p>
+          <p>New Huanggang Port is scheduled to open on 12 October 2026 at 06:30. Transport arrangements are changing.{' '}
+            <Link href="/guides/new-huanggang-port" className="font-semibold text-amber-800 underline underline-offset-4">Read the official changeover details →</Link>
+          </p>
+        </aside>
+
         {/* Lead story, the newest featured guide */}
         {lead && (
           <section className="mb-14">
