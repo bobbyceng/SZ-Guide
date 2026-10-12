@@ -6,7 +6,7 @@ category: "Connectivity"
 stage: "before"
 categoryIcon: "📶"
 date: "2026-05-14"
-updated: "2026-10-09"
+updated: "2026-10-12"
 readingTime: "11 min read"
 featured: true
 ---
@@ -15,7 +15,7 @@ When you cross into mainland China, Google Maps stops working. So does WhatsApp,
 
 > **How this guide was put together, and what it isn't.** I live in Shenzhen and cross the border regularly, but I'm on a Chinese domestic plan, so **I have not personally tested these eSIMs**. Everything below is compiled from provider documentation and independent testing published in 2026, and I've said where the numbers come from.
 >
-> One thing worth knowing before you read any eSIM comparison, this one included: **most "we tested them all" eSIM sites earn a commission on whichever product they rank first.** That doesn't make their testing worthless, but it's a reason to check more than one source. **Saily and Airalo links in this article are affiliate links:** if you buy through them, I may earn a commission at no extra cost to you. The Nomad link is an ordinary link. Recommendations below still distinguish provider claims from published testing.
+> One thing worth knowing before you read any eSIM comparison, this one included: **most "we tested them all" eSIM sites earn a commission on whichever product they rank first.** That doesn't make their testing worthless, but it's a reason to check more than one source. **Nomad, Saily and Airalo links in this article are affiliate links:** if you buy through them, I may earn a commission at no extra cost to you. Recommendations below still distinguish provider claims from published testing.
 
 ## Quick Decision: Which eSIM Should I Buy?
 
@@ -69,9 +69,9 @@ Nomad routes through a Singapore exit gateway, which is the reason it tends to s
 
 **The honest caveat on coverage:** that same testing found the connection **stable outdoors, but noted the signal sometimes dropping indoors and falling back to 3G**. And it isn't universal — there are user reports of Nomad failing in China outright, including one plan that stopped working after four days in Shanghai. No eSIM is a guarantee.
 
-Their APAC plan covers China plus Hong Kong, which is genuinely useful if you're crossing back and forth.
+For mainland China and Hong Kong in one trip, compare a regional plan and confirm that both destinations are included. The link below opens China plans.
 
-[Buy Nomad eSIM →](https://www.getnomad.app)
+[View Nomad China plans →](https://lotusflareinc.pxf.io/rExqRv)
 
 ---
 

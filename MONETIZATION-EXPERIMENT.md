@@ -172,3 +172,12 @@ Content analytics 同区间只列 2 页，总计 23 Visits / 18 Unique visits / 
 - 正式站复检 19 页／15 篇指南、786 站内链接、226 锚点引用、62 sponsored 追踪链接实例、22 本地图像 URL、19 条 sitemap，通过。浏览器确认首页十月皇岗入口、皇岗计划日期、地铁全闸机摘要、支付规则与 Airalo 新卡片生效；不声称每个旧正文事实已全面重新核对。
 - Vercel Analytics 2.0.1 的 production 脚本和 `/view` 请求实际 HTTP 200。后台已显示非演示的页面访问记录（本轮读取为 4 visitors / 5 page views）；包含验收访问与测试，来源／设备读数不能据此认定真实获客或增长。
 - GSC 已分别回执 APEC 总指南 `/guides/apec-2026-shenzhen-visitor-guide`、通用住宿 `/guides/where-to-stay-in-shenzhen`、240 小时过境 `/guides/china-240-hour-visa-free-transit`：“已请求编入索引，已将网址添加到优先抓取队列中”。三页请求均已完成；此时网址检查仍显示未收录，不宣称已收录。没有重复提交同一页，没有提交原有成功 sitemap。
+
+## 2026-10-12：Nomad 合作与反馈存储核实
+
+- impact 当前 Active Contracts 与实际 Terms 页面确认Nomad合同有效；8/25欢迎邮件只作历史线索，当前结论来自重新登录后的有效后台。
+- 普通内容推荐已准备中国套餐追踪链接 `https://lotusflareinc.pxf.io/rExqRv`，落地 `www.nomadesim.com/china-eSIM`；subId1=`szg_site_nomad`，共用标签不区分正文和推荐卡。没有新签约或申请。合同与付款边界见 `ledger/nomad-affiliate.md`。
+- eSIM正文及支付／华强北／240小时过境推荐卡共4个现有位置换链接，商业披露同步，Markdown链接标记sponsored；不按佣金调整排名，不新增亲测、套餐价格或性能保证。
+- 本地构建、类型检查、ESLint与19页检查通过；4个Nomad链接实例精确URL、sponsored/noopener/noreferrer、new-tab及eSIM披露检查通过。链接落地验收共2次自测，排除获客；没有订单或佣金结果。
+- W8与财务设置仍待本人处理。有效推广合作不等于可以立即提现，Creator测试套餐合作仍未核实。
+- Formspree正式SELF_TEST实际存入Spam；本地SELF_TEST和既有读者在Inbox。近30天3条中2条为自测，不报3位用户；邮件没出现不代表数据丢失，具体垃圾判定理由未显示。保持反垃圾设置，运营同时检查Inbox/Spam，留意30天存档期限。详细证据见 `operations/2026-10-12-feedback-pilot.md`。

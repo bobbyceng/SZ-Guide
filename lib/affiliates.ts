@@ -6,14 +6,16 @@
 //   Saily   — tracked China plans, SubID szg_site_saily; first bookings only.
 //   Airalo  — available via Travelpayouts despite the earlier direct Impact
 //             rejection. SubID szg_payment_airalo; web purchases only.
-//   Nomad   — creator programme status unverified. Bare link for now.
+//   Nomad   — active Impact affiliate contract verified 2026-10-12.
+//             China landing page, subId1 szg_site_nomad. Creator testing
+//             programme remains unverified; payout setup is incomplete.
 //   Booking — programme status unverified. Bare link.
 //
 // Article-specific SubIDs live in guide Markdown. See MONETIZATION-EXPERIMENT.md.
 // Explicit tracking is verified here; Drive may also rewrite ordinary links.
 // Anything listed here must be something we'd link to regardless of payout.
 export const AFFILIATE = {
-  nomad: 'https://www.getnomad.app',
+  nomad: 'https://lotusflareinc.pxf.io/rExqRv',
   saily: 'https://saily.tpm.li/aOtfZGhF',
   airalo: 'https://airalo.tpm.li/DnYqRNx8',
   klook: 'https://klook.tpm.li/n4ZpJqIc',

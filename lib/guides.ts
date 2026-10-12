@@ -21,6 +21,8 @@ const guidesDirectory = path.join(process.cwd(), 'content/guides')
  */
 const AFFILIATE_DOMAINS = [
   'getnomad.app',
+  'nomadesim.com',
+  'lotusflareinc.pxf.io',
   'airalo.com',
   'saily.com',
   'holafly.com',
