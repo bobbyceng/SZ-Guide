@@ -4,6 +4,7 @@ import Image from 'next/image'
 import { getGuideBySlug, getAllGuideSlugs } from '@/lib/guides'
 import AffiliateBox from '@/components/AffiliateBox'
 import RecommendationCard from '@/components/RecommendationCard'
+import GuideFeedback from '@/components/GuideFeedback'
 import { AFFILIATE } from '@/lib/affiliates'
 import type { Metadata } from 'next'
 
@@ -179,6 +180,10 @@ export default async function GuidePage({
           </div>
         </div>
 
+        <a href="#guide-feedback" className="mb-6 inline-block text-sm text-amber-800 underline underline-offset-4">
+          Something unclear? Leave feedback ↓
+        </a>
+
         <hr className="border-stone-200 mb-10" />
 
         {guide.cover && (
@@ -343,17 +348,7 @@ export default async function GuidePage({
         />
 
         {/* Feedback prompt */}
-        <div className="mt-14 bg-stone-50 border border-stone-200 rounded-xl p-6 text-center">
-          <p className="text-stone-600 text-sm mb-3">
-            Found something outdated or have a question? The author reads every message.
-          </p>
-          <Link
-            href="/contact"
-            className="inline-flex items-center gap-1.5 text-sm font-semibold text-amber-600 hover:text-amber-700 hover:underline transition-colors"
-          >
-            Leave feedback or get in touch →
-          </Link>
-        </div>
+        <GuideFeedback slug={slug} title={guide.title} />
 
         {/* Back links */}
         <div className="mt-8 pt-8 border-t border-stone-200 flex items-center gap-6">

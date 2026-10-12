@@ -6,7 +6,7 @@ category: "Border Crossing"
 stage: "arriving"
 categoryIcon: "🛬"
 date: "2026-09-11"
-updated: "2026-10-11"
+updated: "2026-10-12"
 readingTime: "8 min read"
 howTo:
   name: "How to get from Hong Kong Airport to Luohu or Futian by bus and MTR"
@@ -71,7 +71,7 @@ If you'd rather not change between buses and trains with a suitcase, coaches run
 
 The coach takes you to the checkpoint, you go through immigration on both sides on foot, and you carry on into Shenzhen from there. From Shenzhen Bay Port, **Metro Line 13** runs into Nanshan.
 
-> **Huanggang changes on 12 October 2026.** The new port is officially scheduled to open at **06:30**, with 24-hour passenger clearance. The old Lok Ma Chau **road** control point and temporary Shenzhen hall will suspend passenger service at the switchover. Do not assume the older coach operating hours above apply after the move: check [Hong Kong Transport Department’s new access arrangements](https://www.td.gov.hk/en/transport_in_hong_kong/land_based_cross_boundary_transport/athp/) and your operator for the date you travel. See the [new Huanggang guide](/guides/new-huanggang-port).
+> **Huanggang's new passenger hall opened on 12 October 2026 at 06:30**, according to [RTHK's opening-day report](https://news.rthk.hk/rthk/ch/component/k2/1873538-20261012.htm). Official arrangements provide for 24-hour clearance and replace passenger service at the old Lok Ma Chau **road** control point and temporary Shenzhen hall. Do not assume the older coach operating hours above apply after the move: check [Hong Kong Transport Department’s new access arrangements](https://www.td.gov.hk/en/transport_in_hong_kong/land_based_cross_boundary_transport/athp/) and your operator for the date you travel. See the [new Huanggang guide](/guides/new-huanggang-port); the author has not used the new hall.
 
 ## Route 3: SkyPier Ferry, Without Entering Hong Kong
 

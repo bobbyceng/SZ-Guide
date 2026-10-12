@@ -6,7 +6,7 @@ category: "Planning"
 stage: "apec"
 categoryIcon: "🌏"
 date: "2026-08-18"
-updated: "2026-10-11"
+updated: "2026-10-12"
 readingTime: "12 min read"
 featured: true
 quickSummary:
@@ -160,7 +160,7 @@ For anything the metro doesn't cover, use DiDi. If restrictions are announced, u
 
 ## October Updates and Event-Week Notices
 
-**Huanggang has an official opening date.** A [joint Hong Kong–Shenzhen announcement on 9 October](https://www.info.gov.hk/gia/general/202610/09/P2026100900280p.htm) schedules the new port for **12 October 2026 at 06:30**, with 24-hour passenger clearance. The old Lok Ma Chau road control point and temporary Huanggang hall will suspend passenger service at the switchover. This is distinct from the MTR’s Lok Ma Chau Spur Line / Futian crossing. Use the [new Huanggang guide](/guides/new-huanggang-port) for transport links; older coach schedules may not carry over.
+**Huanggang's new hall is open.** [RTHK's opening-day report](https://news.rthk.hk/rthk/ch/component/k2/1873538-20261012.htm) confirms operation from **12 October 2026 at 06:30**. The [joint government announcement](https://www.info.gov.hk/gia/general/202610/09/P2026100900280p.htm) sets out 24-hour passenger clearance; the old Lok Ma Chau road control point and temporary Huanggang hall are replaced for passenger service. This is distinct from the MTR’s Lok Ma Chau Spur Line / Futian crossing. Use the [new Huanggang guide](/guides/new-huanggang-port) for transport links; older coach schedules may not carry over. The author has not used the new hall.
 
 **Metro card payment is more straightforward.** The [operator’s 22 September announcement](https://www.szmc.net/home/xinwenzhongxin/gongsixinwen/202609/106228.html) says all gate channels support international contactless cards from 10 September. The [metro guide](/guides/shenzhen-metro-guide) explains how to tap and what to use as a backup.
 
