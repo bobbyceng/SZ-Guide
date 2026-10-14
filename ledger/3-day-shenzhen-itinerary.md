@@ -95,3 +95,7 @@
 
 - `where-to-stay-in-shenzhen.md` 第 62 行：「Luohu station is the terminus of Line 1; **Dongmen is one stop away**」—— 东门（老街站）离罗湖是 **两站**（罗湖 → 国贸 → 老街）。
 - `hong-kong-to-shenzhen.md` 第 67 行：到了罗湖站后写「Take Line 1 (**eastbound toward Luohu**, or westbound toward Futian)」—— 罗湖是 1 号线终点，人已经在罗湖，不存在「往罗湖方向」。
+
+## 2026-10-14 · 夜间选择内链
+
+只新增“仅晚间有空”入口，链接四个夜间区域方案；地点与线路来源见 `things-to-do-in-shenzhen-at-night.md`。未重写原有作者亲历或重新宣称核查整篇行程。

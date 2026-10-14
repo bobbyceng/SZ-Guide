@@ -6,7 +6,7 @@ category: "Planning"
 stage: "apec"
 categoryIcon: "🌏"
 date: "2026-08-18"
-updated: "2026-10-12"
+updated: "2026-10-14"
 readingTime: "12 min read"
 featured: true
 quickSummary:
@@ -142,13 +142,21 @@ The "China is cashless and foreigners can't pay for anything" story is out of da
 
 ## Where to Base Yourself
 
-**Futian CBD** is the default for most business visitors. It has the international hotel stock and the density: Shopping Park, COCO Park, KingGlory Plaza and Liancheng New Times are all walkable from each other, so your evenings sort themselves out. It's a short hop west to Xiangmi Lake, but note it's a different metro corridor. This is also where prices will rise most and availability will go first.
+**Futian CBD** is a practical base for business visitors, with hotels and dinner options around Shopping Park and Futian COCO Park. Kingglory Plaza is in **Luohu**, so do not include it in a walking plan around Futian COCO Park. Xiangmi Lake is a separate destination on a different metro corridor. Compare rooms for your actual dates and read cancellation deadlines; this guide does not guarantee which area will sell out first.
 
-**Nanshan** is the tech district, roughly 20-30 minutes from Futian by metro, with newer hotels and its own shopping in MixC and Qianhai MixC. It's more expensive, but it's further from any event traffic management, which in that particular week is worth something.
+**Nanshan** offers alternatives around Houhai and Shekou, with their own dinner and shopping areas. Compare the journey from your specific hotel to your meetings. A Nanshan address does not guarantee freedom from event-week transport controls; check the notices for your route.
 
 **Luohu** is the budget option and sits right on the Lo Wu border crossing, which is useful if you're going back and forth to Hong Kong.
 
 [Where to stay for APEC week →](/guides/where-to-stay-apec-2026-shenzhen) goes area by area with the metro-line detail that actually decides this, including the two similarly named stations people get wrong. For the general picture, [where to stay in Shenzhen, by area →](/guides/where-to-stay-in-shenzhen) breaks down each neighborhood and covers the one thing about Chinese hotels most booking sites don't mention.
+
+## What to Do After Meetings
+
+Only have a free evening? Choose one area near your hotel: **Futian COCO Park** for dinner and shopping, **Sea World in Shekou** for dinner and a waterfront walk, **Talent Park near Houhai** for skyline views, or **Dongmen in Luohu** for busy shopping streets and food.
+
+The [Shenzhen night guide](/guides/things-to-do-in-shenzhen-at-night) compares these four outings with metro starting points, rain alternatives and the journey back. Its time budgets exclude travel from your hotel. Check current access notices; a light show or fountain performance is not guaranteed.
+
+If you have an afternoon free, visit [Huaqiangbei](/guides/huaqiangbei-electronics-guide) during the day rather than assuming its electronics counters stay open after dinner. With a full day, use the [one-day and three-day itinerary](/guides/3-day-shenzhen-itinerary).
 
 ## Getting Around During the Event
 
@@ -186,7 +194,7 @@ High-speed rail from West Kowloon to Shenzhen North takes 14 minutes, or you can
 The Shenzhen International Exchange Center at Xiangmi Lake, in Futian District. It's a purpose-built complex, not the Shenzhen Convention and Exhibition Center in the CBD, which people often assume. Nearest metro stations are Xiangmi and Xiangmei North on Line 2 / Line 8.
 
 **Where should I stay for APEC?**
-Futian CBD if you want walkable food and shopping, Nanshan if you'd rather be away from event congestion, Luohu on a budget or if you're commuting to Hong Kong. Check your dates now; CBD rooms may be in higher demand that week.
+Futian CBD for nearby dinner and shopping, Houhai or Shekou for a different setting, Luohu if it suits your budget or Hong Kong crossing. Compare the journey to your meetings and current transport notices. Check rooms for your actual dates; availability and prices can change.
 
 **Can I attend APEC 2026?**
 The Leaders' Meeting is not open to the public. Associated business events like the CEO Summit have their own registration and are not general-admission either. Most visitors in Shenzhen that week are there for unrelated reasons and just need to plan around it.

@@ -6,7 +6,7 @@ category: "Planning"
 stage: "here"
 categoryIcon: "🗓️"
 date: "2026-06-11"
-updated: "2026-10-11"
+updated: "2026-10-14"
 readingTime: "7 min read"
 ---
 
@@ -15,6 +15,8 @@ When a friend visits Shenzhen, I don't take them to the places at the top of mos
 A reality check first: Shenzhen is not a sightseeing city in the traditional sense. There is no Forbidden City here. What it does well is shopping, eating, and some genuinely pleasant places to walk and cycle by the water. Plan for that and you'll have a good time.
 
 One more thing before the plans: I only name neighborhoods and big landmarks here, not individual restaurants or cafés. Shops open and close too fast for me to keep a list honest. Every area below has more than enough places to eat; pick whatever looks busy.
+
+**Only free after dinner?** Use the [Shenzhen night guide](/guides/things-to-do-in-shenzhen-at-night) to choose one outing in Futian, Shekou, Houhai or Dongmen, with a rain alternative and the return journey. You do not need to fit a full day's route into two evening hours.
 
 ## Before You Arrive: The Setup
 

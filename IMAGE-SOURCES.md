@@ -1,5 +1,10 @@
 # Image sources and visual review — 2026-10-09
 
+## Reuse in the evening guide — 2026-10-14
+
+- `public/images/home/futian-night-cai-fang.webp` is also used in `things-to-do-in-shenzhen-at-night.md`, with visible photographer, source, licence and 2024 date. The same previously licensed pixels are reused; CSS crops the presentation to a short landscape view.
+- This is an atmosphere photo, not evidence of an APEC entrance, current show schedule or a route walked by the author. No new image download or scene alteration was made.
+
 ## Newly added photographs
 
 ### Futian night skyline
