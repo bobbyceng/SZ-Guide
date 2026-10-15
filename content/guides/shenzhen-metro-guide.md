@@ -1,12 +1,12 @@
 ---
 title: "Shenzhen Metro Guide (2026): Cards, Fares & Routes"
-description: "Use a foreign contactless card on Shenzhen Metro, check fares and key routes, and avoid mixing up Airport with Airport East or Huaqiangbei with Huaqiang Road."
+description: "Use foreign cards on Shenzhen Metro, check fares and airport routes, and read the announced APEC 2026 half-price metro and bus policy, with details still pending."
 cardBlurb: "Foreign cards, fares and the stations visitors often mix up."
 category: "Getting Around"
 stage: "here"
 categoryIcon: "🚇"
 date: "2026-05-15"
-updated: "2026-10-11"
+updated: "2026-10-15"
 readingTime: "9 min read"
 quickSummary:
   - "International contactless cards are accepted at all gates from 10 September 2026. Use the same card or mobile payment device to enter and exit."
@@ -17,6 +17,8 @@ quickSummary:
 The Shenzhen metro is fast, cheap, clean, and straightforward once you know the key lines. The network covers most destinations a visitor needs, and signs and announcements are in English throughout.
 
 The one thing that confuses most foreigners is payment. This guide handles that first, then everything else.
+
+> **APEC transport update · 15 October 2026:** Shenzhen has announced half-price metro and bus fares during the APEC meeting period. The announcement does not give the exact discount dates or payment conditions. This is a forthcoming event policy; do not assume it applies to travel today. [Read what is confirmed and what still needs checking](#guide-apec-2026-will-shenzhen-metro-and-buses-be-half-price).
 
 ## Payment: Your Options
 
@@ -148,6 +150,20 @@ Google Maps works for basic metro routing in Shenzhen but doesn't show real-time
 At the station, follow the English signs, they're clear throughout the system. Platform announcements are in Mandarin and English. The direction of travel is shown by the terminal station name (e.g., "towards Luohu" or "towards Airport").
 
 ## Fares and Hours
+
+### APEC 2026: will Shenzhen Metro and buses be half price?
+
+**Yes, a 50% fare discount has been announced for the APEC meeting period.** [Guangdong Release, the Guangdong provincial government information office’s official account](https://finance.sina.cn/2026-10-15/detail-inivhpns4617013.d.html?his=0&pos=108&vt=4), reported the announcement on **15 October 2026**, following Shenzhen’s transport press conference that morning.
+
+**The exact start and end dates are not specified in that announcement.** Do not assume the discount is already active or use the Leaders’ Meeting dates as the full discount window. The **16–20 November** dates mentioned in reporting refer to a [flexible-working initiative](https://www.yicai.com/news/103394711.html), not a confirmed fare-discount timetable.
+
+**Payment and eligibility details still need checking.** The announcement does not explain how the discount will work for foreign contactless cards, QR codes or single-journey tickets, or whether Line 11 business-class travel is included. It also does not establish passenger eligibility or whether the discount combines with other concessions. Before relying on a discounted fare, check Shenzhen Metro’s current notices or ask station staff which fare applies to your payment method and journey.
+
+[Additional metro capacity and bus–metro connections](https://www.sztv.com.cn/ysz/zx/zw/83907987.shtml) have also been announced. This does not guarantee a two-minute service on every line or an unchanged route during event-week traffic controls. Follow current operator notices for your journey.
+
+### Regular fares and operating hours
+
+The figures below describe regular travel, not a confirmed APEC discounted tariff.
 
 **Fares:** ¥2–14 depending on distance. A typical cross-city journey (Luohu to Window of the World) costs around ¥6–8.
 

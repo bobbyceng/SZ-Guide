@@ -6,7 +6,7 @@ category: "Planning"
 stage: "apec"
 categoryIcon: "🌏"
 date: "2026-08-18"
-updated: "2026-10-14"
+updated: "2026-10-15"
 readingTime: "12 min read"
 featured: true
 quickSummary:
@@ -167,6 +167,8 @@ The **metro** is the right default. It's extensive, cheap, signed in English, bu
 For anything the metro doesn't cover, use DiDi. If restrictions are announced, use the permitted pickup points and routes. A taxi drop-off nearby does not guarantee that you can walk through a security perimeter.
 
 ## October Updates and Event-Week Notices
+
+**Half-price metro and bus fares announced · 15 October.** Shenzhen has announced a **50% fare discount during the APEC meeting period**, according to [Guangdong Release’s official-account report](https://finance.sina.cn/2026-10-15/detail-inivhpns4617013.d.html?his=0&pos=108&vt=4) of the transport press conference. The report does not specify the exact discount dates, passenger eligibility, payment methods or whether Line 11 business class is included. **Do not treat 16–20 November as confirmed discount dates**: those dates refer to the flexible-working initiative. See the [metro guide’s APEC fare update](/guides/shenzhen-metro-guide#guide-apec-2026-will-shenzhen-metro-and-buses-be-half-price) before planning around the offer; check current operator notices before travelling.
 
 **Huanggang's new hall is open.** [RTHK's opening-day report](https://news.rthk.hk/rthk/ch/component/k2/1873538-20261012.htm) confirms operation from **12 October 2026 at 06:30**. The [joint government announcement](https://www.info.gov.hk/gia/general/202610/09/P2026100900280p.htm) sets out 24-hour passenger clearance; the old Lok Ma Chau road control point and temporary Huanggang hall are replaced for passenger service. This is distinct from the MTR’s Lok Ma Chau Spur Line / Futian crossing. Use the [new Huanggang guide](/guides/new-huanggang-port) for transport links; older coach schedules may not carry over. The author has not used the new hall.
 
