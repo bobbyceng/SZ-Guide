@@ -17,7 +17,7 @@ Practical, up-to-date English guides for visiting or living in Shenzhen, China. 
 ## Tech stack
 
 - [Next.js](https://nextjs.org) (App Router) + TypeScript
-- Markdown content pipeline: `content/guides/*.md` → gray-matter + remark → static pages
+- Markdown content pipeline: `content/guides/*.md` → YAML metadata parser + remark → static pages
 - SEO: per-page metadata, `sitemap.ts`, `robots.ts`
 - Deployed on Vercel
 
