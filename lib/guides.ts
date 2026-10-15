@@ -1,6 +1,6 @@
 import fs from 'fs'
 import path from 'path'
-import matter from 'gray-matter'
+import { parseFrontmatter } from './frontmatter.mjs'
 import { remark } from 'remark'
 import html from 'remark-html'
 import gfm from 'remark-gfm'
@@ -197,7 +197,7 @@ export function getAllGuides(): GuideMetadata[] {
     .map((fileName) => {
       const slug = fileName.replace(/\.md$/, '')
       const fullPath = path.join(guidesDirectory, fileName)
-      const { data } = matter(fs.readFileSync(fullPath, 'utf8'))
+      const { data } = parseFrontmatter(fs.readFileSync(fullPath, 'utf8'))
       return { slug, ...data } as GuideMetadata
     })
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
@@ -214,7 +214,7 @@ export function getFeaturedGuides(): GuideMetadata[] {
 export async function getGuideBySlug(slug: string): Promise<Guide> {
   const fullPath = path.join(guidesDirectory, `${slug}.md`)
   const fileContents = fs.readFileSync(fullPath, 'utf8')
-  const { data, content } = matter(fileContents)
+  const { data, content } = parseFrontmatter(fileContents)
   const contents: Guide['contents'] = []
   const used = new Set<string>()
   const headings = () => (tree: Root) => {
