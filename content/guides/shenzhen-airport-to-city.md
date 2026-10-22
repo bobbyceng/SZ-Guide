@@ -6,7 +6,7 @@ category: "Getting Around"
 stage: "arriving"
 categoryIcon: "✈️"
 date: "2026-09-11"
-updated: "2026-10-11"
+updated: "2026-10-22"
 readingTime: "7 min read"
 howTo:
   name: "How to take the metro from Shenzhen Airport to the city"
@@ -38,6 +38,10 @@ Two things most guides leave out. The station is called **Airport**, not Airport
 | **Airport Express coach** | Varies by route | ¥20–40 | After the last train |
 
 Add **15 to 20 minutes** to the metro times for the walk from arrivals to the platform.
+
+## Need Help After Landing?
+
+Look for the **international visitor service center on Level 1 of Terminal 3, beside the international arrivals exit**. The [government’s service-center guide](https://qh.sz.gov.cn/en/news/content/post_11985268.html) lists round-the-clock help with payments, SIM cards, transport, tourism and immigration enquiries. Ask staff which services can be completed when you arrive; the information desk cannot guarantee that your card or payment app will be approved.
 
 ## Step 1: Walk to Airport Station (Not Airport East)
 
@@ -132,6 +136,19 @@ After the last train you have three options:
 - **Ride-hailing** works all night too, but the airport itself warns that late-night arrival peaks can mean a queue for a car.
 
 With luggage after midnight, a taxi or ride-hailing car is what most people end up taking. The coach is the cheaper option if you're travelling light and your hotel is near one of its stops.
+
+## Staying Overnight Between Flights?
+
+An 8pm landing and a 3pm departure the next day do not give you nineteen hours in the city. Allow for arrival formalities, baggage, both airport journeys and your airline’s check-in requirements. **Confirm your entry permission before planning to leave the international transit area**; the [240-hour transit guide](/guides/china-240-hour-visa-free-transit) explains the route and passport conditions.
+
+- **Stay near the airport** if sleep is the priority, you have heavy bags, or arrival formalities leave little usable time. Confirm late check-in and the return journey with your accommodation.
+- **Go into the city** if you have enough time for both journeys and a proper night’s sleep. Pick one area, check the last train or budget for a car, and avoid adding several districts to a short stop. Compare [hotel areas](/guides/where-to-stay-in-shenzhen) and choose one [evening outing](/guides/things-to-do-in-shenzhen-at-night).
+
+### Resting at the terminal
+
+A [September 2026 Shenzhen Daily report published on the city government’s website](https://www.sz.gov.cn/en_szgov/news/latest/content/post_12969605.html) lists a **free reclining-chair rest area beside ride-hailing Area B, on Level 1 of T3’s Ground Transportation Centre**, open **10pm–6am**. It says passengers register with a valid identity document and proof of travel. Ask airport staff about access and space before relying on it. This is a shared rest area, and a seat is not guaranteed.
+
+The same report lists paid **Yunxiaoxi Rest Area (云小息休息区)** sleeping pods in T3’s Level 2 east reception hall. Check current availability and booking terms rather than relying on a quoted historical price. Both facilities require access to the public terminal area; if you are staying airside, ask the airline or airport about options available without entering mainland China.
 
 ## Common Questions
 
